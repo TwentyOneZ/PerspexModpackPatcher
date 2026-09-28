@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.4</h3>
+<ul>
+<li>Updated Wires Notification Overhaul 1.0.2 configuration: center notifications move to the left stack, while skill XP gain notifications remain off.</li>
+</ul>
+
 <h3>Changelog 1.4.3</h3>
 <ul>
 <li>Updated Valheim Legends 0.7.10 configuration with the tested icon bar offsets (X -185, Y 0).</li>
