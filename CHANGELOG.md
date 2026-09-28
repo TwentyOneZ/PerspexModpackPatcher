@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.15 — 2026-09-27
+
+- Refined Munin class and offering descriptions with readable gemstone names, including Diamond and Amethyst.
+
 ## 0.2.14 — 2026-09-27
 
 - Register Hearthstone and Marketstone as patcher-owned consumable prefabs on every installation, with embedded icons. Their recipes remain in the modpack configuration.

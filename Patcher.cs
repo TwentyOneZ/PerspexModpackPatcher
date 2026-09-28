@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.14")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.15")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 public sealed class Patcher : BaseUnityPlugin
 {
@@ -41,7 +41,7 @@ public sealed class Patcher : BaseUnityPlugin
         harmony = new Harmony("twentyonez.perspex.patcher");
         harmony.PatchAll();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.14 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.15 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();

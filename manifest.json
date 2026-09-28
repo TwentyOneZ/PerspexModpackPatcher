@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpackPatcher",
-  "version_number": "0.2.14",
+  "version_number": "0.2.15",
   "website_url": "",
   "description": "Compatibility patches and rebuilt gameplay features for the Perspex Valheim modpack.",
   "dependencies": [
