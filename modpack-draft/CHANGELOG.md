@@ -2,6 +2,7 @@
 <ul>
 <li>Added Agility requirements for all 21 BowsBeforeHoes arrows and 11 quivers, scaled by crafting tier and effects. Magical items also require Intellect.</li>
 <li>Added the missing vanilla Wood Arrow requirement.</li>
+<li>Updated dependencies for Wires Notification Overhaul 1.0.4, TidyChests 1.4.0, Marketplace and Server NPCs 10.0.3, and Seasons 1.10.2.</li>
 </ul>
 
 <h3>Changelog 1.4.6</h3>
