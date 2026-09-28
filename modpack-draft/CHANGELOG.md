@@ -1,33 +1,18 @@
-# 1.4.1 draft
+<h3>Changelog 1.4.1</h3>
+<ul>
+<li>Bundled PerspexModpackPatcher 0.2.17 and its Legends preloader; original mod DLLs remain dependencies.</li>
+<li>Adapted Dekas Valheim Legends 0.7.10 to Valheim 1.0.15 in memory and corrected BepInEx preloader timing.</li>
+<li>Restored Legends class abilities, crafting, cooldowns, summons, stamina costs, visual effects and sounds; expanded Munin tutorials and gemstone names.</li>
+<li>Fixed profession activation, skill experience, menu levels, Exploration map access and EpicMMO inventory integration.</li>
+<li>Rebuilt Hearthstone and Marketstone items in the patcher and corrected ObjectDB initialization.</li>
+<li>Updated BowsBeforeHoes to 2.0.0 and removed obsolete compatibility patches and configuration.</li>
+<li>Fixed This Goes Here paths for the TradersExtended buy and sell files in clean Gale installs.</li>
+</ul>
 
-- Bundled PerspexModpackPatcher 0.2.17 and its preloader directly in the modpack; removed its separate dependency.
-- Updated PerspexModpackPatcher to 0.2.16, including early compatibility for Dekas Legends 0.7.10 on Valheim 1.0.15.
-- Fixed This Goes Here paths for the two TradersExtended JSON files in a clean Gale installation.
-- The modpack includes only Perspex's own DLLs; original mods remain dependencies.
-
-- Updated PerspexModpackPatcher to 0.2.15 with revised Munin gemstone descriptions.
-
-- Updated PerspexModpackPatcher to 0.2.14. Hearthstone and Marketstone are registered by the patcher; removed their WackysDatabase item definitions and retained their recipes.
-
-- Updated PerspexModpackPatcher to 0.2.13 to fix ObjectDB initialization and loading after the Chi Power Up update.
-
-- Updated PerspexModpackPatcher to 0.2.12 for Monk Chi Power Up, seated class item repairs and Munin tutorial corrections.
-
-- Updated PerspexModpackPatcher to 0.2.11 so Zone Shock requires Block + Zone Charge.
-
-- Updated PerspexModpackPatcher to 0.2.10 to fix Zone Shock activation with active biome buffs.
-
-- Updated PerspexModpackPatcher to 0.2.9 with class crafting, cooldown, summon, stamina and Enchanter fixes.
-
-- Updated PerspexModpackPatcher to 0.2.8 with restored Legends ability effects, sounds and Mage status icons.
-- Updated BowsBeforeHoes to 2.0.0, removed BowsBeforeHoesCompat and its obsolete 1.3.14 config, and updated PerspexModpackPatcher to 0.2.7 without BowsBeforeHoes hooks.
-- Updated PerspexModpackPatcher to 0.2.6 so hotbar diagnostics still record presses when Unity input misses them.
-- Updated PerspexModpackPatcher to 0.2.5 to restore Rogue Smoke Bomb and capture repeated hotbar key presses during the client test.
-- Updated PerspexModpackPatcher to 0.2.4 with the Exploration map exception for a seated player near a fire and optional hotbar input diagnostics.
-- Updated PerspexModpackPatcher to 0.2.3 with configurable skill usage and profession levels shown in the status square.
-- Updated PerspexModpackPatcher to 0.2.2 with inventory, EpicMMO menu and profession activity fixes.
-- Updated PerspexModpackPatcher to 0.2.1 with Legends spawn, EpicMMO panel and BowsBeforeHoes quiver guards.
-- Moved local DLL features into the separate PerspexModpackPatcher dependency and added ServerCharacters for fresh server character storage.
+<h3>Changelog 1.4.0</h3>
+<ul>
+<li>Rewritten all the mod to work as patches over existing mods.</li>
+</ul>
 
 <h3>Changelog 1.3.0</h3>
 <ul>
@@ -112,50 +97,39 @@
 			<b>--- FIRE AFFINITY ---</b>
 			<b>Activate Focus</b>: Hold Block + Press Ability 3 (Meteor)
 			<b>Focus Bonus</b>: You are immune to the Cold environment effect. Elemental attacks have a chance to Critically Hit (scaling with Specialization) for bonus damage (scaling with Evocation).
-
 			<i>Fireball (Ability 1):</i>
 			Cost: 1 Fire Charge + Stamina
 			Creates a ball of fire that arcs towards the target.
 			*Afflicts targets with burning.
-
 			<i>Flame Nova (Ability 2):</i>
 			Cost: 3 Fire Charges + Stamina
 			Unleashes a massive blast of fire around the caster.
-
 			<i>Meteor (Ability 3):</i>
 			Cost: 1 Fire Charge (start) + 1 Charge per cycle + Stamina
 			Channels energy to call down a meteor storm. Hold to channel multiple meteors.
-
 			<b>--- FROST AFFINITY ---</b>
 			<b>Activate Focus</b>: Hold Block + Press Ability 2 (Frost Nova)
 			<b>Focus Bonus</b>: 'Shatter'. Hitting a Frozen target with Frost damage accumulates damage and have a chance to apply Shatter. Shatter deals all accumulated damage once again and removes the freeze. Has a chance to consume 1 Frost Charge.
-
 			<i>Ice Shard (Ability 1):</i>
 			Cost: 1 Frost Charge + Stamina
 			Fires a quick and sharp icicle with high velocity and range. Deals 3x damage in Frozen targets.
-
 			<i>Frost Nova (Ability 2):</i>
 			Cost: 3 Frost Charges + Stamina
 			Freezes nearby enemies and pushes them back instantly.
-
 			<i>Blizzard (Ability 3):</i>
 			Cost: 1 Frost Charge (start) + 1 Charge per second + Stamina
 			Channels a storm of ice shards that rain down on the targeted area, slowing and freezing enemies.
-
 			<b>--- ARCANE AFFINITY ---</b>
 			<b>Activate Focus<b>: Hold Block + Press Ability 1 (Elemental Mastery)
 			<b>Focus Bonus</b>: Attacks have a chance to recover fire and frost charges. At full fire and frost, it can trigger Arcane charges recovery. If all charges are full, this trigger an increase to up to 3x damage, depending on Evocation.
 			*Elemental Mastery and Arcane Intellect are TOGGLES. While active, they consume 1 Arcane Charge every 15s. If you run out of charges, the buff fades.*
-
 			<i>Elemental Mastery (Ability 1):</i>
 			Your spells are empowered by your weapon's elemental damage. Adds 50% to 200% (based on Evocation) of your weapon's elemental damage to your spells.
-
 			<i>Arcane Intellect (Ability 2):</i>
 			Redirects Eitr costs to Stamina first. Efficiency improves with Evocation level (1 Eitr costs 3 Stamina with no Evocation skill, down to 1 Stamina at max level and attributes).
-
 			<i>Eitr Shield (Ability 3):</i>
 			Absorbs 100% of incoming damage using Eitr. Depletes 1 Arcane charge per hit taken. Efficiency improves with Evocation level (1 Damage costs 3 Eitr with no Evocation, down to 1 Eitr at max level and attributes). Excess damage is taken as health."+
-			If mage takes a hit that would cause death while Eith Shield is up, it shatters leaving the player alive with 1 health, zero affinity charges and a huge Mana Shield cooldown.
+			If mage takes a hit that would cause death while Eith Shield is up, it shatters leaving the player alive with 1 health, zero affinity charges and a huge Mana Shield cooldown.</li>
         </ul>
     </li>
 <li>Also, many skills rebalanced (hopefully).</li>
