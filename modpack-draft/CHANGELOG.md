@@ -1,5 +1,7 @@
 # 1.4.0 draft
 
+- Updated PerspexModpackPatcher to 0.2.14. Hearthstone and Marketstone are registered by the patcher; removed their WackysDatabase item definitions and retained their recipes.
+
 - Updated PerspexModpackPatcher to 0.2.13 to fix ObjectDB initialization and loading after the Chi Power Up update.
 
 - Updated PerspexModpackPatcher to 0.2.12 for Monk Chi Power Up, seated class item repairs and Munin tutorial corrections.

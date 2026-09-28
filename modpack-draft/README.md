@@ -1,6 +1,6 @@
 # PerspexModpack 1.4.0 draft
 
-This draft stages the Perspex gameplay configuration, the two TradersExtended JSON files, and dependencies. It contains no original mod DLLs. The patcher rebuilds the local DLL features or patches separately installed dependencies; ServerCharacters supplies server character storage. Server address, password and webhook values were replaced with placeholders. The dependency list and patched gameplay still need a client/server play test before publication.
+This draft stages the Perspex gameplay configuration, the two TradersExtended JSON files, and dependencies. It contains no original mod DLLs. The patcher rebuilds the local DLL features or patches separately installed dependencies; ServerCharacters supplies server character storage. Hearthstone and Marketstone items come from the patcher, with recipes in this modpack. Server address, password and webhook values were replaced with placeholders. The dependency list and patched gameplay still need a client/server play test before publication.
 
 Install with Gale, which can resolve Hexium and Thunderstore packages in one profile. The modpack uses Azumatt's BowsBeforeHoes 2.0.0 directly and lets it generate a fresh config on first launch. Valheim Legends comes from `Dekas-Valheim_Legends_Fork-0.7.10` on Thunderstore.
 

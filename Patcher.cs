@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.13")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.14")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 public sealed class Patcher : BaseUnityPlugin
 {
@@ -33,15 +33,15 @@ public sealed class Patcher : BaseUnityPlugin
         AllowEncumbered = Config.Bind("Hearthstone", "AllowEncumbered", false, "Allow teleporting while encumbered.");
         AllowInWater = Config.Bind("Hearthstone", "AllowInWater", false, "Allow teleporting while in water.");
         registerFallbackItems = Config.Bind("Items", "RegisterFallbackItems", false,
-            "Create basic items when the modpack's WackysDatabase item definitions are not installed.");
+            "Create basic slot trophies and Deathstone when WackysDatabase item definitions are not installed. Hearthstone and Marketstone are always registered.");
         RepairPatch.CoinMultiplier = Config.Bind("Repair", "CoinMultiplier", 0.5f, "Fraction of the recipe's coin cost used for a full repair, scaled by wear.");
         TrophyXpPatch.Configure(Config);
         ExplorationPatch.Configure(Config);
         HotbarDiagnostics.Configure(Config, Logger);
         harmony = new Harmony("twentyonez.perspex.patcher");
         harmony.PatchAll();
-        if (registerFallbackItems.Value) PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.13 loaded");
+        PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.14 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();
@@ -122,8 +122,9 @@ public sealed class Patcher : BaseUnityPlugin
     private void RegisterItems()
     {
         PrefabManager.OnVanillaPrefabsAvailable -= RegisterItems;
-        Register("Hearthstone", "Hearthstone", "Returns to your chosen bed.", "Stone", 2, "Coins", 10, "Carrot", 5);
-        Register("Marketstone", "Marketstone", "Returns to the discovered merchant.", "Thunderstone", 1, "Coins", 10);
+        Register("Hearthstone", "Hearthstone", "Returns to your chosen bed.", icon: "Hearthstone");
+        Register("Marketstone", "Marketstone", "Returns to the discovered merchant.", icon: "Marketstone");
+        if (!registerFallbackItems.Value) return;
         Register("Deathstone", "Deathstone", "Returns to your last death.", "Stone", 2, "Coins", 10, "Carrot", 5);
         Register("ExtraRowTrophy", "Inventory Expansion Trophy", "Unlocks an inventory row.");
         Register("QuickSlotsTrophy", "Quick Slots Trophy", "Unlocks a quick slot.");
@@ -136,15 +137,30 @@ public sealed class Patcher : BaseUnityPlugin
 
     private static void Register(string prefab, string displayName, string description,
         string item1 = null, int amount1 = 0, string item2 = null, int amount2 = 0,
-        string item3 = null, int amount3 = 0)
+        string item3 = null, int amount3 = 0, string icon = null)
     {
-        var config = new ItemConfig { Name = displayName, Description = description, StackSize = 20 };
+        var config = new ItemConfig { Name = displayName, Description = description,
+            StackSize = icon == null ? 20 : 10 };
+        if (icon != null) config.Icons = new[] { LoadIcon(icon) };
         if (item1 != null) config.AddRequirement(item1, amount1);
         if (item2 != null) config.AddRequirement(item2, amount2);
         if (item3 != null) config.AddRequirement(item3, amount3);
         var custom = new CustomItem(prefab, "Thunderstone", config);
         custom.ItemDrop.m_itemData.m_shared.m_itemType = ItemDrop.ItemData.ItemType.Consumable;
+        custom.ItemDrop.m_itemData.m_shared.m_teleportable = true;
+        custom.ItemDrop.m_itemData.m_dropPrefab = custom.ItemDrop.gameObject;
         Jotunn.Managers.ItemManager.Instance.AddItem(custom);
+    }
+
+    private static Sprite LoadIcon(string name)
+    {
+        using var stream = typeof(Patcher).Assembly.GetManifestResourceStream($"PerspexModpackPatcher.Assets.{name}.png")
+            ?? throw new FileNotFoundException($"Missing {name} icon resource");
+        using var buffer = new MemoryStream();
+        stream.CopyTo(buffer);
+        var texture = new Texture2D(2, 2);
+        if (!ImageConversion.LoadImage(texture, buffer.ToArray())) throw new IOException($"Invalid {name} icon");
+        return Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), new Vector2(0.5f, 0.5f));
     }
 
     private void Update()

@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.14 — 2026-09-27
+
+- Register Hearthstone and Marketstone as patcher-owned consumable prefabs on every installation, with embedded icons. Their recipes remain in the modpack configuration.
+- Keep optional fallback registration for Deathstone and slot trophies only.
+
 ## 0.2.13 — 2026-09-27
 
 - Fixed the Chi Power Up ObjectDB Harmony postfix signature, which prevented ObjectDB from initializing and left the game on the loading screen.

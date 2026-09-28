@@ -40,7 +40,7 @@ Install this package with a mod manager or put `PerspexModpackPatcher.dll` in `B
 
 Remove the old `Hearthstone.dll`, `PlayerKeyTrophies.dll`, `RepairRequiresCoins.dll`, `UsefulTrophiesXP.dll`, `ExplorationMap.dll`, `ValheimLegendsHudFix.dll`, `BbhAmmoFix.dll`, `BbhTrace.dll`, `CraftyCartsValheim1Fix.dll` and `PerspexCharacterAuthority.dll` from the profile. Do not load old and new implementations together.
 
-The modpack supplies teleport stones and slot trophies through WackysDatabase configuration. For a standalone installation without those definitions, enable `Items.RegisterFallbackItems` in `BepInEx/config/twentyonez.perspex.patcher.cfg` to register basic items cloned from Thunderstone. Hearthstone restrictions for portal items, enemies, encumbrance, water and resting are configurable there.
+The patcher registers Hearthstone and Marketstone directly with embedded icons. The modpack supplies their recipes, Deathstone and slot trophies through WackysDatabase configuration. For a standalone installation without those definitions, enable `Items.RegisterFallbackItems` in `BepInEx/config/twentyonez.perspex.patcher.cfg` to register basic Deathstone and trophies cloned from Thunderstone. Hearthstone restrictions for portal items, enemies, encumbrance, water and resting are configurable there.
 
 ## Credits
 
