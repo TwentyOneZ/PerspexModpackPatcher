@@ -20,7 +20,9 @@ public static class LegendsCompatibility
     public static IEnumerable<string> TargetDLLs => Array.Empty<string>();
     public static void Patch(AssemblyDefinition _) { }
 
-    public static void Initialize()
+    // Run after BepInEx has patched and loaded UnityEngine.CoreModule. Accessing Chainloader
+    // in Initialize loads that assembly too early and prevents the BepInEx entrypoint patch.
+    public static void Finish()
     {
         new Harmony("twentyonez.perspex.legends.preloader").Patch(
             AccessTools.Method(typeof(Chainloader), "Start"),

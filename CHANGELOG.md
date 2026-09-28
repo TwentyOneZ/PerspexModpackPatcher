@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.17 — 2026-09-28
+
+- Delay the Legends preloader hook until BepInEx has patched UnityEngine.CoreModule, avoiding the early assembly load that prevented the plugin chainloader from starting in a clean Gale profile.
+
 ## 0.2.16 — 2026-09-28
 
 - Added an early in-memory compatibility pass for the published Dekas Legends 0.7.10 DLL on Valheim 1.0.15. It updates obsolete status, message and effect calls without redistributing or overwriting the original DLL.

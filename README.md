@@ -4,7 +4,7 @@ Perspex compatibility fixes and independently rebuilt features. Install the pack
 
 ## Repository layout
 
-The root contains the gameplay patcher source, `PerspexModpackPatcher.csproj`, `manifest.json`, and packaging scripts (`build-package.ps1` and `package-modpack.py`). `preloader` contains the early Legends compatibility patch. `modpack-draft` contains the DLL-free Perspex 1.4.1 modpack manifest, README, changelog, and `BepInEx` configuration tree. Install the original mods listed in each manifest separately. Build outputs, extracted mod assemblies, game logs, and local profile backups are intentionally excluded from Git.
+The root contains the gameplay patcher source, `PerspexModpackPatcher.csproj`, `manifest.json`, and packaging scripts (`build-package.ps1` and `package-modpack.py`). `preloader` contains the Legends compatibility patch. `modpack-draft` contains the Perspex 1.4.1 modpack manifest, README, changelog, and `BepInEx` configuration tree. `package-modpack.py` adds the two Perspex DLLs from the build output. Install the original mods listed in each manifest separately. Build outputs, extracted mod assemblies, game logs, and local profile backups are intentionally excluded from Git.
 
 To build, install .NET SDK and set `ValheimPath` to your Valheim directory. The project also needs local copies of BepInEx, Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem at the reference paths in the project file; adjust those paths for your machine. Run `dotnet build PerspexModpackPatcher.csproj -c Release -p:ValheimPath="<Valheim directory>"`. The modpack draft has placeholder values for server address, password and webhooks; fill those only in a private deployment copy.
 

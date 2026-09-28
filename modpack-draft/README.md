@@ -1,6 +1,6 @@
 # PerspexModpack
 
-Perspex changes many parts of Valheim to emphasize different play styles, character choices, exploration and rewards. It aims for a slightly harder but rewarding experience. The modpack distributes configuration and depends on the original mods; its custom gameplay changes are supplied by PerspexModpackPatcher. Patch source: https://github.com/TwentyOneZ/PerspexModpackPatcher
+Perspex changes many parts of Valheim to emphasize different play styles, character choices, exploration and rewards. It aims for a slightly harder but rewarding experience. The modpack includes its own PerspexModpackPatcher and depends on the original mods. Patch source: https://github.com/TwentyOneZ/PerspexModpackPatcher
 
 Install with Gale, which resolves this pack's Hexium and Thunderstore dependencies in one profile. The pack uses Azumatt's BowsBeforeHoes 2.0.0 directly and Dekas' Valheim Legends Fork 0.7.10 as a separate dependency.
 
@@ -36,7 +36,7 @@ Features:
 <li>Unlock the magic of Runestones!</li>
 </ul>
 
-Core mods include Jewelcrafting, Valheim Legends, Rune Magic and ValheimRAFT. PerspexModpackPatcher adjusts separately installed mods and rebuilds former local features such as Hearthstone, trophy keys and coin repairs. The modpack contains no third-party mod DLLs.
+Core mods include Jewelcrafting, Valheim Legends, Rune Magic and ValheimRAFT. The bundled PerspexModpackPatcher adjusts separately installed mods and rebuilds former local features such as Hearthstone, trophy keys and coin repairs. The modpack contains no third-party mod DLLs.
 
 <h2>Installation</h2>
 <ol>

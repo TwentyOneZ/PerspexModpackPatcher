@@ -1,8 +1,9 @@
 # 1.4.1 draft
 
+- Bundled PerspexModpackPatcher 0.2.17 and its preloader directly in the modpack; removed its separate dependency.
 - Updated PerspexModpackPatcher to 0.2.16, including early compatibility for Dekas Legends 0.7.10 on Valheim 1.0.15.
 - Fixed This Goes Here paths for the two TradersExtended JSON files in a clean Gale installation.
-- Packaged the patcher only as a dependency; the modpack itself contains no mod DLLs.
+- The modpack includes only Perspex's own DLLs; original mods remain dependencies.
 
 - Updated PerspexModpackPatcher to 0.2.15 with revised Munin gemstone descriptions.
 
