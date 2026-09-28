@@ -1,5 +1,6 @@
 <h3>Changelog 1.4.9</h3>
 <ul>
+<li>Updated ServerConnect and EpicMMONotifier configurations from the current Perspex profile. Credentials are left blank for each installation.</li>
 <li>Fixed Deep North ObjectDB registration. The invalid Harmony hook blocked item registration and caused a disconnect during character snapshot restoration. Updated WackysDatabase dependency to 2.5.36, matching the client and server logs.</li>
 </ul>
 
