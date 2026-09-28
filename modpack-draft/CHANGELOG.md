@@ -1,3 +1,13 @@
+<h3>Changelog 1.4.3</h3>
+<ul>
+<li>Updated Valheim Legends 0.7.10 configuration with the tested icon bar offsets (X -185, Y 0).</li>
+</ul>
+
+<h3>Changelog 1.4.2</h3>
+<ul>
+<li>Changed to public for testing.</li>
+</ul>
+
 <h3>Changelog 1.4.1</h3>
 <ul>
 <li>Bundled PerspexModpackPatcher 0.2.17 and its Legends preloader; original mod DLLs remain dependencies.</li>
