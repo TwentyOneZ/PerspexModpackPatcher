@@ -4,9 +4,9 @@ Perspex changes many parts of Valheim to emphasize different play styles, charac
 
 Install with Gale, which resolves this pack's Hexium and Thunderstore dependencies in one profile. The pack uses Dekas' Valheim Legends Fork 0.7.10 as a separate dependency.
 
-The bundled PerspexCharacterAuthority 1.0.6 must be installed on the server and every client. It saves each character on the server in `BepInEx/config/PerspexCharacterAuthority/Characters/<account hash>/<character ID>/current.pca`, with backups alongside it. The first join uses the bundled `TwentyOneZ.PerspexCharacterAuthority.cfg` settings and begins fresh progression.
+PerspexCharacterAuthority 1.0.7 is included inside `PerspexModpackPatcher.dll` and must run on the server and every client. It saves each character on the server in `BepInEx/config/PerspexCharacterAuthority/Characters/<account hash>/<character ID>/current.pca`, with backups alongside it. The first join uses the bundled `TwentyOneZ.PerspexCharacterAuthority.cfg` settings and begins fresh progression. Remove any separate `PerspexCharacterAuthority.dll` from an older installation.
 
-PerspexModpackPatcher 0.2.19 also includes the MyriadJewels login performance fix. Remove any separate `MyriadJewelsPerformancePatch.dll` from older profiles to avoid duplicate patches.
+PerspexModpackPatcher 0.2.20 also includes the MyriadJewels login performance fix. Remove any separate `MyriadJewelsPerformancePatch.dll` from older profiles to avoid duplicate patches.
 
 Features:
 <ul>

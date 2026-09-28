@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.6</h3>
+<ul>
+<li>Merged PerspexCharacterAuthority into PerspexModpackPatcher 0.2.20. The pack now contains one gameplay DLL and the Legends preloader; existing 1.4.5 server snapshots and configuration remain compatible.</li>
+</ul>
+
 <h3>Changelog 1.4.5</h3>
 <ul>
 <li>Bundled PerspexModpackPatcher 0.2.19 with the MyriadJewels login FPS fix: missing sage/mint prefabs no longer trigger global searches every frame.</li>

@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.20 — 2026-09-28
+
+- Merged PerspexCharacterAuthority 1.0.7 into the gameplay DLL while preserving its BepInEx plugin GUID, config and server snapshot format. Harmony patch installation is isolated by plugin namespace.
+
 ## 0.2.19 — 2026-09-28
 
 - Integrated the previously tested MyriadJewels sage/mint prefab search fix. Missing prefabs now cause at most one global scan per 90 frames rather than two scans on every login frame.

@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.19")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.20")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 [BepInDependency("ValheimLegends")]
 public sealed class Patcher : BaseUnityPlugin
@@ -40,9 +40,11 @@ public sealed class Patcher : BaseUnityPlugin
         ExplorationPatch.Configure(Config);
         HotbarDiagnostics.Configure(Config, Logger);
         harmony = new Harmony("twentyonez.perspex.patcher");
-        harmony.PatchAll();
+        foreach (var type in AccessTools.GetTypesFromAssembly(typeof(Patcher).Assembly))
+            if (type.Namespace == typeof(Patcher).Namespace && type.IsDefined(typeof(HarmonyPatch), false))
+                harmony.CreateClassProcessor(type).Patch();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.19 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.20 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();

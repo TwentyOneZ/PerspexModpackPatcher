@@ -16,7 +16,7 @@ public sealed class PerspexCharacterAuthorityPlugin : BaseUnityPlugin
 {
     public const string PluginGuid = "TwentyOneZ.PerspexCharacterAuthority";
     public const string PluginName = "PerspexCharacterAuthority";
-    public const string PluginVersion = "1.0.6";
+    public const string PluginVersion = "1.0.7";
     public const int ProtocolVersion = 1;
     private const string RpcName = "PCA_Message";
     private const string VLExtension = "ValheimLegends";
@@ -103,7 +103,10 @@ public sealed class PerspexCharacterAuthorityPlugin : BaseUnityPlugin
         Diag(PcaDiagnosticLevel.Basic, null, "CONFIG", "singleCharacter=" + singleCharacter.Value + " firstJoin=" + firstJoinMode.Value + " maxSnapshotMB=" + maxSnapshotSizeMb.Value);
         Diag(PcaDiagnosticLevel.Basic, null, "AUTHORITY_BOUNDARY", "CHARACTER_AUTHORITY_BOUNDARY=SPAWN NETWORK_ADDPEER_GATING=false");
         Diag(PcaDiagnosticLevel.Basic, null, "STORE_PATH", storePath);
-        new Harmony(PluginGuid).PatchAll(typeof(PerspexCharacterAuthorityPlugin).Assembly);
+        var harmony = new Harmony(PluginGuid);
+        foreach (var type in AccessTools.GetTypesFromAssembly(typeof(PerspexCharacterAuthorityPlugin).Assembly))
+            if (type.Namespace == typeof(PerspexCharacterAuthorityPlugin).Namespace && type.IsDefined(typeof(HarmonyPatch), false))
+                harmony.CreateClassProcessor(type).Patch();
         Diag(PcaDiagnosticLevel.Basic, null, "HARMONY_PATCHES_INSTALLED", "assembly=" + typeof(PerspexCharacterAuthorityPlugin).Assembly.GetName().Version);
         new Terminal.ConsoleCommand("pca", "PCA server character administration", RunCommand, onlyServer: true, onlyAdmin: true);
         InvokeRepeating(nameof(Autosave), Math.Max(10, autosaveSeconds.Value), Math.Max(10, autosaveSeconds.Value));
