@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.8</h3>
+<ul>
+<li>Updated PerspexModpackPatcher to 0.2.21. Zone Charge now grants a Deep North buff that prevents slipping on ice and slowing in deep snow. One otherwise fatal hit leaves the player at 1 Health and consumes the buff.</li>
+</ul>
+
 <h3>Changelog 1.4.7</h3>
 <ul>
 <li>Added Agility requirements for all 21 BowsBeforeHoes arrows and 11 quivers, scaled by crafting tier and effects. Magical items also require Intellect.</li>

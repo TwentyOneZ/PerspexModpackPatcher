@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.20")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.21")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 [BepInDependency("ValheimLegends")]
 public sealed class Patcher : BaseUnityPlugin
@@ -44,7 +44,7 @@ public sealed class Patcher : BaseUnityPlugin
             if (type.Namespace == typeof(Patcher).Namespace && type.IsDefined(typeof(HarmonyPatch), false))
                 harmony.CreateClassProcessor(type).Patch();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.20 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.21 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();
@@ -86,6 +86,7 @@ public sealed class Patcher : BaseUnityPlugin
                 Install("Legends Windfury", () => LegendsWindfuryPatch.Install(harmony));
                 Install("Legends Rooted", () => LegendsRootedPatch.Install(harmony));
                 Install("Legends environment", () => LegendsEnvironmentPatch.Install(harmony));
+                Install("Legends Deep North", () => LegendsDeepNorthPatch.Install(harmony));
                 Install("Legends stealth", () => LegendsStealthPatch.Install(harmony));
                 Install("Legends class passives", () => LegendsClassPassivesPatch.Install(harmony));
                 Install("Legends Duelist challenge", () => LegendsDuelistChallengePatch.Install(harmony));

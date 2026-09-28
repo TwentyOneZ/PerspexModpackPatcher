@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.21 — 2026-09-28
+
+- Added Deep North Zone Charge: firm footing on ice, free movement in deep snow, and Last Shelter, which consumes the buff to prevent one fatal hit.
+
 ## 0.2.20 — 2026-09-28
 
 - Merged PerspexCharacterAuthority 1.0.7 into the gameplay DLL while preserving its BepInEx plugin GUID, config and server snapshot format. Harmony patch installation is isolated by plugin namespace.
