@@ -25,7 +25,7 @@ internal static class LegendsCharmPatch
             prefix: new HarmonyMethod(typeof(LegendsCharmPatch), nameof(BeforeInput)),
             postfix: new HarmonyMethod(typeof(LegendsCharmPatch), nameof(AfterInput)));
         var add = AccessTools.Method(typeof(SEMan), "AddStatusEffect",
-            new[] { typeof(StatusEffect), typeof(bool), typeof(int), typeof(float) });
+            new[] { typeof(StatusEffect), typeof(bool), typeof(int), typeof(float), typeof(short) });
         if (add != null) harmony.Patch(add,
             prefix: new HarmonyMethod(typeof(LegendsCharmPatch), nameof(PreventCharm)));
         harmony.Patch(AccessTools.Method(typeof(Character), nameof(Character.SetTamed)),

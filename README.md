@@ -1,10 +1,10 @@
 # PerspexModpackPatcher
 
-One DLL containing the Perspex compatibility fixes and independently rebuilt features. Install on the client and server with Jötunn. The ZIP includes no binaries from other mods.
+Perspex compatibility fixes and independently rebuilt features. Install the package on the client and server with Jötunn. It contains the gameplay plugin and a small BepInEx preloader that adapts Dekas' Valheim Legends 0.7.10 to Valheim 1.0.15 in memory before the plugin loads. The original Legends DLL stays unchanged. The ZIP includes no binaries from other mods.
 
 ## Repository layout
 
-The root contains the patcher source, `PerspexModpackPatcher.csproj`, `manifest.json`, packaging script, and release documentation. `modpack-draft` contains the DLL-free Perspex 1.4.0 modpack manifest, README, changelog, and `BepInEx` configuration tree. Install the original mods listed in each manifest separately. Build outputs, extracted mod assemblies, game logs, and local profile backups are intentionally excluded from Git.
+The root contains the gameplay patcher source, `PerspexModpackPatcher.csproj`, `manifest.json`, and packaging scripts (`build-package.ps1` and `package-modpack.py`). `preloader` contains the early Legends compatibility patch. `modpack-draft` contains the DLL-free Perspex 1.4.1 modpack manifest, README, changelog, and `BepInEx` configuration tree. Install the original mods listed in each manifest separately. Build outputs, extracted mod assemblies, game logs, and local profile backups are intentionally excluded from Git.
 
 To build, install .NET SDK and set `ValheimPath` to your Valheim directory. The project also needs local copies of BepInEx, Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem at the reference paths in the project file; adjust those paths for your machine. Run `dotnet build PerspexModpackPatcher.csproj -c Release -p:ValheimPath="<Valheim directory>"`. The modpack draft has placeholder values for server address, password and webhooks; fill those only in a private deployment copy.
 
@@ -36,7 +36,7 @@ To build, install .NET SDK and set `ValheimPath` to your Valheim directory. The 
 
 ## Installation
 
-Install this package with a mod manager or put `PerspexModpackPatcher.dll` in `BepInEx/plugins` on every client and the server. Its manifest declares Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem as dependencies. The Perspex modpack separately depends on BowsBeforeHoes 2.0.0, ItemRequiresSkillLevel and Exploration. CraftyCarts and ServerCharacters are optional integrations that the modpack may include separately.
+Install this package with a mod manager or put `PerspexModpackPatcher.dll` in `BepInEx/plugins` and `patchers/PerspexLegendsPreloader.dll` in `BepInEx/patchers` on every client and the server. Its manifest declares Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem as dependencies. The Perspex modpack separately depends on BowsBeforeHoes 2.0.0, ItemRequiresSkillLevel and Exploration. CraftyCarts and ServerCharacters are optional integrations that the modpack may include separately.
 
 Remove the old `Hearthstone.dll`, `PlayerKeyTrophies.dll`, `RepairRequiresCoins.dll`, `UsefulTrophiesXP.dll`, `ExplorationMap.dll`, `ValheimLegendsHudFix.dll`, `BbhAmmoFix.dll`, `BbhTrace.dll`, `CraftyCartsValheim1Fix.dll` and `PerspexCharacterAuthority.dll` from the profile. Do not load old and new implementations together.
 

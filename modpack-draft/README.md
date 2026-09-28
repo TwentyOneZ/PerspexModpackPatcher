@@ -1,10 +1,8 @@
-# PerspexModpack 1.4.0 draft
+# PerspexModpack
 
-This draft stages the Perspex gameplay configuration, the two TradersExtended JSON files, and dependencies. It contains no original mod DLLs. The patcher rebuilds the local DLL features or patches separately installed dependencies; ServerCharacters supplies server character storage. Hearthstone and Marketstone items come from the patcher, with recipes in this modpack. Server address, password and webhook values were replaced with placeholders. The dependency list and patched gameplay still need a client/server play test before publication.
+Perspex changes many parts of Valheim to emphasize different play styles, character choices, exploration and rewards. It aims for a slightly harder but rewarding experience. The modpack distributes configuration and depends on the original mods; its custom gameplay changes are supplied by PerspexModpackPatcher. Patch source: https://github.com/TwentyOneZ/PerspexModpackPatcher
 
-Install with Gale, which can resolve Hexium and Thunderstore packages in one profile. The modpack uses Azumatt's BowsBeforeHoes 2.0.0 directly and lets it generate a fresh config on first launch. Valheim Legends comes from `Dekas-Valheim_Legends_Fork-0.7.10` on Thunderstore.
-
-This modpack changes many aspects of the game, focus on diversity of gameplay styles, choices, exploration and rewards. This is aimed to be balanced to a slightly harder experience than vanilla with some hardcore, but rewarding mechanics.
+Install with Gale, which resolves this pack's Hexium and Thunderstore dependencies in one profile. The pack uses Azumatt's BowsBeforeHoes 2.0.0 directly and Dekas' Valheim Legends Fork 0.7.10 as a separate dependency.
 
 Features:
 <ul>
@@ -38,8 +36,7 @@ Features:
 <li>Unlock the magic of Runestones!</li>
 </ul>
 
-Core Mods: Jewelcrafting, Valheim Legends, Rune Magic, ValheimRAFT, and some quality of life mods. 
-Gameplay adjustments to Valheim Legends and the rebuilt Hearthstone feature are supplied by PerspexModpackPatcher. The original Legends mod is installed as a separate dependency.
+Core mods include Jewelcrafting, Valheim Legends, Rune Magic and ValheimRAFT. PerspexModpackPatcher adjusts separately installed mods and rebuilds former local features such as Hearthstone, trophy keys and coin repairs. The modpack contains no third-party mod DLLs.
 
 <h2>Installation</h2>
 <ol>
@@ -52,4 +49,19 @@ Gameplay adjustments to Valheim Legends and the rebuilt Hearthstone feature are 
 <ul>
 <li>There are two saved NPCs that an admin can place anywhere (I suggest at the spawn). They will have quests and some stuff that will are meant to balance the coin earning and provide some basic tutorial for fishing.</li>
 <li>Found out that if your Marketplace NPC doesn't work on a server, delete the kg.Marketplace.dll.mdb file from <b>the client's</b> BepInEx/plugins/KGvalheim-Marketplace_And_Server_NPCs_Revamped folder. If playing solo, set Use Marketplace Locally = true in MarketplaceAndServerNPCs.cfg config file.</li>
+</ul>
+
+<h2>Credits and original mods</h2>
+
+The original mods remain the work of their authors. PerspexModpackPatcher applies compatibility and gameplay patches to separately installed dependencies, or independently rebuilds features formerly supplied by local DLLs.
+
+<ul>
+<li><b>Valheim Legends:</b> original class mod by <a href="https://github.com/TorannD/ValheimLegends">TorannD</a>; continued by <a href="https://github.com/Visteus/ValheimLegends">Visteus</a> and <a href="https://github.com/giafosu/ValheimLegends">Gia</a>; the modpack depends on <a href="https://thunderstore.io/c/valheim/p/Dekas/Valheim_Legends_Fork/">Dekas' fork</a>. The patcher supplies the Perspex ability, balance, HUD and class-state changes.</li>
+<li><b>Professions and Exploration:</b> by Smoothbrain / blaxxun; original sources: <a href="https://github.com/blaxxun-boop/Professions">Professions</a> and <a href="https://github.com/blaxxun-boop/Exploration">Exploration</a>. The patcher changes profession selection and progression, and map and treasure rules.</li>
+<li><b>EpicMMOSystem:</b> originally by <a href="https://github.com/Single-sh/EpicMMOSystem">Single-sh</a>, maintained in the <a href="https://github.com/Wacky-Mole/WackyEpicMMOSystem">WackyMole fork</a> used here. The patcher integrates trophy XP and addresses panel initialization.</li>
+<li><b>CraftyCarts:</b> original mod and assets by <a href="https://github.com/rolopogo/ValheimMods">RoloPogo</a>, remake by <a href="https://github.com/AzumattDev/CraftyCartsRemake">Azumatt / OdinPlus</a>, Valheim 1.0 compatibility release by <a href="https://thunderstore.io/c/valheim/p/Gathering_Team/CraftyCartsRemake_1_0_Fix/">Gathering Team (wocky)</a>. The patcher adds a cart crafting-station lookup fix.</li>
+<li><b>Hearthstone:</b> the rebuilt Perspex stones are based on <a href="https://thunderstore.io/c/valheim/p/Detalhes/Hearthstone/">Detalhes' Hearthstone</a> and <a href="https://github.com/MenNoWar/HearthStone_revived">MenNoWar's HearthStone Revived</a>.</li>
+<li><b>Useful Trophies:</b> original mod by <a href="https://github.com/Khairex/ValheimMods">Khairex</a>; the former EpicMMO XP adaptation was by TwentyOneZ. The patcher independently implements the trophy XP integration.</li>
+<li><b>Repair Requires Mats:</b> original mod by <a href="https://github.com/aedenthorn/ValheimMods">aedenthorn</a>. The patcher independently implements the Perspex coin-based repair mechanic.</li>
+<li><b>Incremental Trophy Keys:</b> former local mod identified by the plugin ID <code>com.gus.incrementaltrophykeys</code>. No public source or author page was provided with that project; Perspex rebuilds the consumable key trophies.</li>
 </ul>

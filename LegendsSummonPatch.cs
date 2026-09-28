@@ -17,7 +17,7 @@ internal static class LegendsSummonPatch
     internal static void Install(Harmony harmony)
     {
         harmony.Patch(AccessTools.Method(typeof(SEMan), nameof(SEMan.AddStatusEffect),
-                new[] { typeof(StatusEffect), typeof(bool), typeof(int), typeof(float) }),
+                new[] { typeof(StatusEffect), typeof(bool), typeof(int), typeof(float), typeof(short) }),
             postfix: new HarmonyMethod(typeof(LegendsSummonPatch), nameof(Capture)));
         harmony.Patch(AccessTools.Method(typeof(Character), nameof(Character.Damage)),
             prefix: new HarmonyMethod(typeof(LegendsSummonPatch), nameof(TagWolf)) { priority = Priority.First });

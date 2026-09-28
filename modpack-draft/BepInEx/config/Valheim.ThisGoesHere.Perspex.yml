@@ -1,7 +1,7 @@
 PrintComment: Copying Perspex Modpack files...
 
 CopyFile:
-- From: plugins\TwentyOneZ-PerspexModpack/shudnal.TradersExtended.common.buy.json
+- From: plugins\TwentyOneZ-PerspexModpack\TwentyOneZ-PerspexModpack\shudnal.TradersExtended.common.buy.json
   To: plugins\shudnal-TradersExtended/shudnal.TradersExtended.common.buy.json
-- From: plugins\TwentyOneZ-PerspexModpack/shudnal.TradersExtended.common.sell.json
+- From: plugins\TwentyOneZ-PerspexModpack\TwentyOneZ-PerspexModpack\shudnal.TradersExtended.common.sell.json
   To: plugins\shudnal-TradersExtended/shudnal.TradersExtended.common.sell.json

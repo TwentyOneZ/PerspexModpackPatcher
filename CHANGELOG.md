@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.16 — 2026-09-28
+
+- Added an early in-memory compatibility pass for the published Dekas Legends 0.7.10 DLL on Valheim 1.0.15. It updates obsolete status, message and effect calls without redistributing or overwriting the original DLL.
+- Updated Legends summon, charm and Spirit Drain hooks to the current status-effect signature, and load the Legends dependency before the gameplay patcher.
+- Package now includes `patchers/PerspexLegendsPreloader.dll` alongside the gameplay plugin.
+
 ## 0.2.15 — 2026-09-27
 
 - Refined Munin class and offering descriptions with readable gemstone names, including Diamond and Amethyst.

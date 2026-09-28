@@ -84,7 +84,7 @@ internal static class LegendsSpiritDrainPatch
     }
 
     private static StatusEffect SkipOriginalDrain(SEMan effects, StatusEffect drain, bool reset,
-        int level, float skillLevel) => null;
+        int level, float skillLevel, short variant) => null;
 
     private static IEnumerable<CodeInstruction> TickCalls(IEnumerable<CodeInstruction> source)
     {

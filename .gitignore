@@ -1,5 +1,9 @@
 /obj/
 /bin/
+/preloader/obj/
+/preloader/bin/
+/tests/obj/
+/tests/bin/
 /release/
 /audit/
 /prepare-modpack-draft.py
