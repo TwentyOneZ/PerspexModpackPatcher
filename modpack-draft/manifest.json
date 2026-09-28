@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpack",
-  "version_number": "1.4.4",
+  "version_number": "1.4.5",
   "website_url": "https://github.com/twentyonez",
   "description": "This modpack focus on diversity of gameplay styles, choices, exploration and rewards. Balanced, slightly harder experience than vanilla. Jewecrafting, character classes, magic, mounts, hardcore exploration, ship building, potions and economy.",
   "dependencies": [
@@ -139,6 +139,7 @@
 		"shudnal-ExtraSlots-1.2.14",
 		"shudnal-ConditionalConfigSync-1.0.9",
 		"ValheimModding-YamlDotNet-16.3.1",
-		"denikson-BepInExPack_Valheim-5.4.2351"
+		"denikson-BepInExPack_Valheim-5.4.2351",
+		"Wubarrk-Valheim10Compatibility-1.4.1"
   ]
 }

@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.5</h3>
+<ul>
+<li>Added Valheim10Compatibility 1.4.1 as a dependency for clients. It restores legacy Valheim 1.0 API members missing during character load, the cause of repeated spawn failures in the client log.</li>
+</ul>
+
 <h3>Changelog 1.4.4</h3>
 <ul>
 <li>Updated Wires Notification Overhaul 1.0.2 configuration: center notifications move to the left stack, while skill XP gain notifications remain off.</li>
