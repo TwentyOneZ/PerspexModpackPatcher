@@ -1,0 +1,11 @@
+/obj/
+/bin/
+/release/
+/audit/
+/prepare-modpack-draft.py
+*.dll
+*.dll.bak
+*.pdb
+*.zip
+*.log
+__pycache__/

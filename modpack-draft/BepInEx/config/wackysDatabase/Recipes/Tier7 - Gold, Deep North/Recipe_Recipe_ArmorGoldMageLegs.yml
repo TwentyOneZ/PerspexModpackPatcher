@@ -1,0 +1,20 @@
+name: Recipe_ArmorGoldMageLegs
+clonePrefabName: NO
+craftingStation: $piece_magetable
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: true
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Gold:6:3:True
+- MoldArmorMageLegs:1:0:True
+- MooseHide:6:3:True
+- NornThread:5:3:True
+- Upgrader7Armor:1:0:False
+- Coins:3840:3840:False

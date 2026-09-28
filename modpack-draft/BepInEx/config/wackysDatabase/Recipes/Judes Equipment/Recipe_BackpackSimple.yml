@@ -1,0 +1,17 @@
+name: BackpackSimple
+clonePrefabName: null
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_workbench
+amount: 1
+disabled: true
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:20:5:True
+- DeerHide:5:2:True
+- LeatherScraps:10:5:True

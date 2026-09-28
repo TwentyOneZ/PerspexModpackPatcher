@@ -1,0 +1,14 @@
+name: GF_Mace_Marble
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Iron:15:7:True
+- BlackMarble:20:10:True
+- ScaleHide:5:3:True
+- Coins:960:960:True

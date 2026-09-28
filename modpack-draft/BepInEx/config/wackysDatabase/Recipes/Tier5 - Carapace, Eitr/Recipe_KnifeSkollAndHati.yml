@@ -1,0 +1,14 @@
+name: KnifeSkollAndHati
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:4:0:True
+- Iron:10:4:True
+- BlackMetal:10:4:True
+- Coins:960:960:False

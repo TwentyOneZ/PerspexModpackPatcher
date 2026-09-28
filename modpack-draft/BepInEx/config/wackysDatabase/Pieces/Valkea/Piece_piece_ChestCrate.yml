@@ -1,0 +1,56 @@
+name: piece_ChestCrate
+piecehammer: Hammer
+m_name: Sizeable Crate
+sizeMultiplier: 1
+m_description: Supplies?
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: VALKEA Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 400
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData:
+  Width: 5
+  Height: 4
+  CheckWard: true
+  AutoDestoryIfEmpty: false
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- FineWood:8:1:True
+- IronNails:20:1:True

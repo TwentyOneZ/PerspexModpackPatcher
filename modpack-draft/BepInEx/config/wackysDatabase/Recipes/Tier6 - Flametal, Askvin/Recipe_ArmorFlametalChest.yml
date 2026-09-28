@@ -1,0 +1,20 @@
+name: ArmorFlametalChest
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FlametalNew:20:10:True
+- AskHide:3:1:True
+- CharredBone:5:0:True
+- MorgenHeart:1:0:True
+- Upgrader6Armor:1:0:False
+- Coins:1820:1820:False

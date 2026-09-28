@@ -1,0 +1,14 @@
+name: SpearChitin
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:8:0:True
+- Chitin:30:0:True
+- LeatherScraps:3:0:True
+- Coins:120:120:False

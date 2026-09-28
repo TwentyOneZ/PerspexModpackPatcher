@@ -1,0 +1,13 @@
+name: GemWhiteTransmute
+clonePrefabName: Uncut_White_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Black_Stone:1:1:True
+- Flint:1:1:True
+- Coins:10:10:False

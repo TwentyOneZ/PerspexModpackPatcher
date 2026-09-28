@@ -1,0 +1,62 @@
+name: LumberYard_ext2_RS
+piecehammer: Hammer
+m_name: $piece_lumberyard_ext2
+sizeMultiplier: 1
+m_description: $piece_lumberyard_ext2_desc
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_lumberyard
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort:
+  comfort: 1
+  comfortGroup: None
+  comfortObject: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: true
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData:
+  MainCraftingStationName: LumberYard_RS
+  maxStationDistance: 20
+  continousConnection: false
+  stack: false
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- rae_CampsiteResources:1:1:True
+- Wood:8:1:True
+- LinenThread:5:1:True
+- YggdrasilWood:20:1:True
+- questitem_lumberext2:1:1:True

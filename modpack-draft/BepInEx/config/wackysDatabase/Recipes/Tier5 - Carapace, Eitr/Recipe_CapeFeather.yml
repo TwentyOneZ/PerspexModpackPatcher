@@ -1,0 +1,14 @@
+name: CapeFeather
+clonePrefabName: 
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Feathers:10:2:True
+- ScaleHide:5:5:True
+- Eitr:20:3:True
+- Coins:960:960:False

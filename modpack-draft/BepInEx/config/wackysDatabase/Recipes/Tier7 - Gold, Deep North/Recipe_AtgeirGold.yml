@@ -1,0 +1,19 @@
+name: AtgeirGold
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: true
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Gold:20:10:True
+- MoldAtgeir:1:0:True
+- Frostwood:10:5:True
+- Upgrader1Weapon:1:0:False
+- Coins:3840:3840:False

@@ -1,0 +1,16 @@
+name: Recipe_SwordSaber
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Iron:12:6:True
+- CoalPaste:4:2:True
+- LeatherScraps:12:6:True
+- Coins:240:240:False

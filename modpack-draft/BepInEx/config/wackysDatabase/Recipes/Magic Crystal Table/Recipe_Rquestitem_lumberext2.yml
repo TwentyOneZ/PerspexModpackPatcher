@@ -1,0 +1,13 @@
+name: Rquestitem_lumberext2
+clonePrefabName: questitem_lumberext2
+craftingStation: $custom_sky_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:1:0:True
+- GreydwarfEye:2:0:True
+- Coins:480:0:False

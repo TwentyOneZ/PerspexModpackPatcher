@@ -1,0 +1,12 @@
+name: Lesser_Stamina_Vial
+clonePrefabName: 
+craftingStation: $pp_alchemy_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Honey:2:0:True
+- Raspberry:3:0:True

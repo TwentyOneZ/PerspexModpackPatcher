@@ -1,0 +1,12 @@
+name: Recipe_Boss_Crystal_3
+clonePrefabName: Boss_Crystal_3
+craftingStation: $custom_sky_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- QueenDrop:8:0:False
+- Uncut_Black_Stone:1:0:False

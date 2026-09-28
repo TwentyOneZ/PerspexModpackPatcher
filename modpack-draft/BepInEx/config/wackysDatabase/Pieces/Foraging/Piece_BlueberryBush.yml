@@ -1,0 +1,44 @@
+name: BlueberryBush
+piecehammer: Cultivator
+m_name: $peBlueberryBushName
+sizeMultiplier: 1
+m_description: $peBlueberryBushDescription
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: true
+ground: true
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData: 
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- BlueberrySeeds:1:1:False

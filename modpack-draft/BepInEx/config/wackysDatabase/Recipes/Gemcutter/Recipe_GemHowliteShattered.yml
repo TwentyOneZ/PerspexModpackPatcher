@@ -1,0 +1,11 @@
+name: GemHowliteShattered
+clonePrefabName: Shattered_howlite_Crystal
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_howlite_Stone:1:1:True

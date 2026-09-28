@@ -1,0 +1,12 @@
+name: RuneFocus
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Ruby:6:6:True
+- Stone:1:1:True

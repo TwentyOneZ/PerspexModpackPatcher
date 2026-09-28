@@ -1,0 +1,14 @@
+name: SaddleLox
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- LeatherScraps:10:1:True
+- LinenThread:20:1:True
+- BlackMetal:15:1:True
+- Coins:960:1:True

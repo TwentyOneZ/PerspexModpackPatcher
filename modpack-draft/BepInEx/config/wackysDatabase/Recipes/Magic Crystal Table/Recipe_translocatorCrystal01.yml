@@ -1,0 +1,13 @@
+name: Recipe_translocatorCrystal01
+clonePrefabName: translocatorCrystal01
+craftingStation: $custom_sky_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Cyan_Stone:1:1:True
+- Thunderstone:1:1:True
+- YmirRemains:1:1:True

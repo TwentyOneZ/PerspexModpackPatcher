@@ -1,0 +1,64 @@
+name: cartplayer
+piecehammer: Hammer
+m_name: Bard's Wagon
+sizeMultiplier: 1
+m_description: A mobile media player on wheels, controlled by a remote.
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: OOD
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: false
+notOnWood: false
+wearNTearData:
+  health: 500
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Weak
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+  burnable: true
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- Wood:26:0:True
+- Bronze:2:0:True
+- BronzeNails:14:0:True

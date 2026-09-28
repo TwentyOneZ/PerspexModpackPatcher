@@ -1,0 +1,77 @@
+name: ValheimVehicles_hull_rail_prow_corner_left_iron
+piecehammer: Hammer
+m_name: $valheim_vehicles_hull_rail_variant_prow_corner $valheim_vehicles_direction_left $valheim_vehicles_material_iron
+sizeMultiplier: 1
+m_description: $valheim_vehicles_hull_rail_desc
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Hull
+categoryOrderBeforePrefab: 
+minStationLevel: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+allowedInDeepSnow: false
+requireDeepSnow: false
+spaceRequirement: 0
+repairPiece: false
+isUpgrade: false
+usage: 0
+blockingPieces: []
+canRockJade: false
+wearNTearData:
+  health: 2000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Normal
+    m_spirit: Normal
+    m_nonPlayer: Normal
+  noRoofWear: true
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: Iron
+  burnable: false
+  snowDamageImmune: false
+  outsideRequiredBiomeDamage: 25
+  minToolTier: 0
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- Iron:1:0:True
+- Bronze:1:0:True
+- BronzeNails:4:0:True
+- YggdrasilWood:4:0:True

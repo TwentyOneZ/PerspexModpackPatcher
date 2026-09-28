@@ -1,0 +1,64 @@
+name: ValheimVehicles_WaterVehicleShip
+piecehammer: Hammer
+m_name: $valheim_vehicles_water_vehicle
+sizeMultiplier: 1
+m_description: $valheim_vehicles_water_vehicle_desc The 50 Coins for ship handling are not refundable. 
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Inventory Patch Detector Vehicles
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: true
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 250
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Normal
+    m_spirit: Normal
+  noRoofWear: true
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: HardWood
+  burnable: false
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- CoatedWoodCrate:4:0:False
+- questitem_book_04:1:0:False
+- Coins:50:0:False

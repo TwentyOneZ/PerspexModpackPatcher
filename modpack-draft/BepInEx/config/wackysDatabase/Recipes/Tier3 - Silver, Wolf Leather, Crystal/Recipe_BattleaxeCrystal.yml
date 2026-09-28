@@ -1,0 +1,14 @@
+name: BattleaxeCrystal
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:40:5:True
+- Silver:30:15:True
+- Crystal:10:0:True
+- Coins:240:240:False

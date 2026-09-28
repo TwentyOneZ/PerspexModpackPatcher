@@ -1,0 +1,14 @@
+name: SledgeDemolisher
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- YggdrasilWood:10:2:True
+- Iron:20:15:True
+- Eitr:10:2:True
+- Coins:960:960:False

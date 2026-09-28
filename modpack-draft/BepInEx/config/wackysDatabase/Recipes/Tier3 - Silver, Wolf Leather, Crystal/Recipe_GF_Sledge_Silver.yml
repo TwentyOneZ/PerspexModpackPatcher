@@ -1,0 +1,14 @@
+name: GF_Sledge_Silver
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:20:0:True
+- Obsidian:60:20:True
+- Silver:5:2:True
+- Coins:240:240:True

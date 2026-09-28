@@ -1,0 +1,13 @@
+name: IronCestus
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Iron:10:5:True
+- LeatherScraps:5:5:True
+- Coins:120:120:False

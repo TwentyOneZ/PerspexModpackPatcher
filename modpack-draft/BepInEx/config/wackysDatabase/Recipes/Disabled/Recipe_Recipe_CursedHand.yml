@@ -1,0 +1,16 @@
+name: Recipe_CursedHand
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CorruptedEitr:4:2:True
+- CultInsygnia:2:1:True
+- TrophyFenring:1:1:True
+- TrophyUlv:2:1:True

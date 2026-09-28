@@ -1,0 +1,12 @@
+name: Recipe_Boss_Crystal_4
+clonePrefabName: Boss_Crystal_4
+craftingStation: $custom_sky_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- DragonTear:24:0:False
+- Uncut_Blue_Stone:1:0:False

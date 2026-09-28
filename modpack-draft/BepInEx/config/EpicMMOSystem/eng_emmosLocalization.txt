@@ -1,0 +1,82 @@
+$attributes = Attributes
+$parameter_strength = Strength
+$parameter_intellect = Intellect
+$free_points = Available points
+$level = Level
+$lvl = Lvl.
+$exp = Experience
+$cancel = Cancel
+$apply = Accept
+$reset_parameters = Reset points
+$no = No
+$yes = Yes
+$get_exp = Experience received
+$reset_point_text = Do you really want to drop all the points for {0} {1}?
+$physic_damage = Physical Damage
+$add_weight = Carry weight
+$reduced_stamina = Stamina consumption (running, jumping)
+$magic_damage = Elemental damage
+$magic_armor = Elemental reduced
+$add_hp = Health increase
+$add_stamina = Stamina increase
+$physic_armor = Physical reduced
+$reduced_stamina_block = Block stamina consumption
+$regen_hp = Health regeneration
+$damage = Damage
+$armor = Armor
+$survival = Survival
+$regen_eitr = Eitr regeneration
+$stamina_reg = Stamina regeneration
+$add_eitr = Eitr Increase
+$parameter_agility = Dexterity
+$parameter_body = Endurance
+$parameter_vigour = Vigour
+$parameter_special = Specializing
+$specialother = Special
+$attack_speed = Attack speed
+$attack_stamina = Attack stamina consumption
+$crtcDmgMulti = Critical Damage Multiplier
+$mining_speed = Mining Damage increase
+$piece_health = Piece Health increase
+$tree_cutting = Tree Damage increase
+$crit_chance = Critical Chance increase
+$notify = <color=#00E6FF>Alert</color>
+$friends_list = Friends list
+$send = Send
+$invited = Invitations
+$friends = Friends
+$online = Online
+$offline = Offline
+$not_found = Player {0} is not found.
+$send_invite = A friend request has been sent to player {0}.
+$get_invite = Received a friend request from {0}.
+$accept_invite = Player {0}, accepted the friend request.
+$cancel_invite = Player {0}, canceled his friend request.
+$terminal_set_level = You got {0} level
+$terminal_reset_points = Your attributes points have been reset
+$strength_tooltip = <size=20>Strength will enhance:</size> 
+<color=yellow> Increase Physical Damage </color> 
+<color=blue> Increase Carry Weight </color> 
+<color=green> Decrease Block Stamina Consumption </color> 
+<color=red> Increase Critical Damage when crit hits </color>
+$dexterity_tooltip = <size=20>Dexterity will enhance:</size> 
+<color=red> Increase Attack Speed (not bows)</color> 
+<color=yellow> Decreased Attack Stamina Consumption </color> 
+<color=green> Decreased Running/Jumping Stamina Consumption</color> 
+$intelect_tooltip = <size=20>Intelligence will enhance:</size> 
+<color=green> Increase all Elemental Damage </color>
+<color=red> Increase base Eitr amount (once you have eitr)</color> 
+<color=red> Increase Eitr Regeneration</color> 
+$endurance_tooltip = <size=20>Endurance will enhance:</size> 
+<color=yellow> Increase Stamina amount</color>
+<color=yellow> Increase Stamina Regeneration </color> 
+<color=green> Reduce Physical Damage Taken</color> 
+$vigour_tooltip = <size=20>Vigour will enhance:</size> 
+<color=red> Increase HP amount</color>
+<color=yellow> Health Regeneration </color> 
+<color=green> Reduce Elemental Damage Taken</color> 
+$special_tooltip = <size=20>Special will enhance:</size> 
+<color=red> Increase Critical Attack Chance</color> 
+<color=blue> Increase Mining Damage </color> 
+<color=blue> Increase construction piece's health </color> 
+<color=green> Increase Tree Cutting Damage</color>

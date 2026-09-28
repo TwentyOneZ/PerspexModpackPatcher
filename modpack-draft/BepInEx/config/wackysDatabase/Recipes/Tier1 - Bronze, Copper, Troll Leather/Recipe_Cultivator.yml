@@ -1,0 +1,13 @@
+name: Cultivator
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- RoundLog:5:1:True
+- Bronze:5:1:True
+- Coins:30:30:False

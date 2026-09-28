@@ -1,0 +1,12 @@
+name: Grand_Spiritual_Healing_Potion
+clonePrefabName: 
+craftingStation: $pp_alchemy_table
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Guck:2:0:True
+- Barley:3:0:True

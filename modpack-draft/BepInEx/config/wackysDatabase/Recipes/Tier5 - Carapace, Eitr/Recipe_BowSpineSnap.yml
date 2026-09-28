@@ -1,0 +1,14 @@
+name: BowSpineSnap
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:10:5:True
+- BoneFragments:40:20:True
+- Eitr:10:0:True
+- Coins:960:960:False

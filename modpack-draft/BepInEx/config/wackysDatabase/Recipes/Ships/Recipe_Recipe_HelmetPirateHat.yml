@@ -1,0 +1,16 @@
+name: Recipe_HelmetPirateHat
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SailInk:10:5:True
+- LoxPelt:4:2:True
+- Feathers:14:7:True
+- Coins:960:960:False

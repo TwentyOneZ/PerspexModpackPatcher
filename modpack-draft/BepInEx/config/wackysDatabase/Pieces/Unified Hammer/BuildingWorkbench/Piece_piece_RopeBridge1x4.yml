@@ -1,0 +1,76 @@
+name: piece_RopeBridge1x4
+piecehammer: Hammer
+m_name: Suspension Bridge 1x4
+sizeMultiplier: 1
+m_description: Oh the suspension.
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: BuildingWorkbench
+categoryOrderBeforePrefab: 
+minStationLevel: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+allowedInDeepSnow: false
+requireDeepSnow: false
+spaceRequirement: 0
+repairPiece: false
+isUpgrade: false
+usage: 0
+blockingPieces: []
+canRockJade: false
+wearNTearData:
+  health: 2000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+    m_nonPlayer: Normal
+  noRoofWear: true
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+  materialType: Iron
+  burnable: true
+  snowDamageImmune: false
+  outsideRequiredBiomeDamage: 25
+  minToolTier: 0
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- RoundLog:4:1:True
+- Iron:4:1:True
+- LinenThread:4:1:True

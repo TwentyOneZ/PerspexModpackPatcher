@@ -1,0 +1,11 @@
+name: GemPyriteShattered
+clonePrefabName: Shattered_pyrite_Crystal
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_pyrite_Stone:1:1:True

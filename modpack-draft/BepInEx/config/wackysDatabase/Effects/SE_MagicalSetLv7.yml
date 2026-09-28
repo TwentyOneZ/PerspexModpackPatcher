@@ -1,0 +1,103 @@
+Name: magicalSetLv7
+Status_m_name: "Eitr Boost"
+Category: ''
+IconName: BMR_TatteredHelm
+ClonedSE: 
+CustomIcon: 
+FlashIcon: false
+CooldownIcon: false
+Tooltip: Boost wearer's <color=orange>Eitr</color> by <color=orange>+34</color>.
+Attributes: None
+StartMessageLoc: TopLeft
+StartMessage: ''
+StopMessageLoc: TopLeft
+StopMessage: ''
+RepeatMessageLoc: TopLeft
+RepeatMessage: ''
+RepeatInterval: 0
+TimeToLive: 0
+EndingStatusEffect: 
+StartEffect_: 
+StopEffect_: 
+StartEffect_PLUS: []
+StopEffect_PLUS: []
+Cooldown: 0
+ActivationAnimation: gpower
+SeData:
+  m_tickTimer: 0
+  m_healthOverTimeTimer: 0
+  m_healthOverTimeTicks: 0
+  m_healthOverTimeTickHP: 0
+  m_heatlhUpFront: 0
+  m_tickInterval: 0
+  m_healthPerTickMinHealthPercentage: 0
+  m_healthPerTick: 0
+  m_healthOverTime: 0
+  m_healthOverTimeDuration: 0
+  m_healthOverTimeInterval: 0
+  m_staminaUpFront: 0
+  m_staminaOverTime: 0
+  m_staminaOverTimeDuration: 0
+  m_staminaDrainPerSec: 0
+  m_runStaminaDrainModifier: 0
+  m_jumpStaminaUseModifier: 0
+  m_attackStaminaUseModifier: 0
+  m_blockStaminaUseModifier: 0
+  m_dodgeStaminaUseModifier: 0
+  m_swimStaminaUseModifier: 0
+  m_homeItemStaminaUseModifier: 0
+  m_sneakStaminaUseModifier: 0
+  m_runStaminaUseModifier: 0
+  m_adrenalineUpFront: 0
+  m_adrenalineModifier: 0
+  m_staggerModifier: 0
+  m_staggerTimeBlockBonus: 0
+  m_eitrUpFront: 0
+  m_eitrOverTime: 0
+  m_eitrOverTimeDuration: 0
+  m_healthRegenMultiplier: 1
+  m_staminaRegenMultiplier: 1
+  m_eitrRegenMultiplier: 1
+  m_armorAdd: 0
+  m_armorMultiplier: 0
+  m_raiseSkill: None
+  m_raiseSkillModifier: 0
+  m_skillLevel: None
+  m_skillLevelModifier: 0
+  m_skillLevel2: None
+  m_skillLevelModifier2: 0
+  m_mods: 
+  m_modifyAttackSkill: None
+  m_damageModifier: 0
+  m_noiseModifier: 0
+  m_stealthModifier: 0
+  m_addMaxCarryWeight: 0
+  m_speedModifier: 0
+  m_jumpModifier: &o0
+    x: 0
+    y: 0
+    z: 0
+    normalized: *o0
+    magnitude: 0
+    sqrMagnitude: 0
+  m_maxMaxFallSpeed: 0
+  m_fallDamageModifier: 0
+  m_windMovementModifier: 0
+  m_percentDamageModifiers:
+    m_damage: 0
+    m_blunt: 0
+    m_slash: 0
+    m_pierce: 0
+    m_chop: 0
+    m_pickaxe: 0
+    m_fire: 0
+    m_frost: 0
+    m_lightning: 0
+    m_poison: 0
+    m_spirit: 0
+SeShield: 
+SePoison: 
+SeFrost: 
+AddHP: 
+AddStamina: 
+AddEitr: 34

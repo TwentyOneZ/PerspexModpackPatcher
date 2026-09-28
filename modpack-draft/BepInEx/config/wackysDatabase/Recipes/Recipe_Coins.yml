@@ -1,0 +1,11 @@
+name: Coins
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1000
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Gold_Bar_Ygg:1:1:True

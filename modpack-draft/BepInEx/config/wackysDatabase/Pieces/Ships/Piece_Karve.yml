@@ -1,0 +1,56 @@
+name: Karve
+piecehammer: Hammer
+m_name: $ship_karve
+sizeMultiplier: 1
+m_description: 'Cheap and versatile. The 50 Coins for ship handling are not refundable.'
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: true
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: false
+wearNTearData:
+  health: 600
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Immune
+    m_pickaxe: Immune
+    m_fire: Weak
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- FineWood:30:0:True
+- BronzeNails:120:1:True
+- DeerHide:14:0:True
+- CoatedWoodCrate:4:0:True
+- questitem_book_01:1:1:True
+- Coins:50:0:False

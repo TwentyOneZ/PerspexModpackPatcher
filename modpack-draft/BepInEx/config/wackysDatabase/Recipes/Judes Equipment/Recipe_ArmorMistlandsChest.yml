@@ -1,0 +1,18 @@
+name: ArmorMistlandsChest
+clonePrefabName: null
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_forge
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- DeerHide:6:2:True
+- LeatherScraps:4:2:True
+- SurtlingCore:2:1:True
+- Coins:30:15:False

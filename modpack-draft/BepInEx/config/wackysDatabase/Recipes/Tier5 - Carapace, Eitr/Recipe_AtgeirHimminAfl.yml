@@ -1,0 +1,15 @@
+name: AtgeirHimminAfl
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_blackforge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- YggdrasilWood:10:0:True
+- Eitr:15:15:True
+- Silver:5:5:True
+- Mandible:2:2:True
+- Coins:960:960:False

@@ -1,0 +1,55 @@
+name: erkle_plateautem
+piecehammer: Hammer
+m_name: $piece_plateautem
+sizeMultiplier: 1
+m_description: $piece_plateautem_description
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: true
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Ignore
+    m_pickaxe: Ignore
+    m_fire: Normal
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- Wood:15:0:True
+- Uncut_Cyan_Stone:10:0:True
+- BeechSeeds:1:0:True
+- questitem_straw_doll:1:0:True
+- questitem_scroll_blue:1:0:True

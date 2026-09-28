@@ -1,0 +1,13 @@
+name: ShieldBanded
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:10:10:True
+- Iron:8:4:True
+- Coins:120:120:False

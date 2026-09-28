@@ -1,0 +1,59 @@
+name: piece_plan_totem
+piecehammer: Hammer
+m_name: $piece_plan_totem
+sizeMultiplier: 1
+m_description: $piece_plan_totem_desc
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Normal
+    m_spirit: Normal
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData:
+  Width: 6
+  Height: 2
+  CheckWard: false
+  AutoDestoryIfEmpty: false
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- Wood:15:0:True
+- Uncut_Cyan_Stone:10:0:True
+- FirCone:1:0:True
+- questitem_straw_doll:1:0:True
+- questitem_scroll_black:1:0:True

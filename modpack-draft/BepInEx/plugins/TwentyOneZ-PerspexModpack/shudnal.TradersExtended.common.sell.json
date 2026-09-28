@@ -1,0 +1,8108 @@
+[
+  {
+    "prefab": "Abomination_attack1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Abomination_attack2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Abomination_attack3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Acorn",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Amber",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AmberPearl",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AncientSeed",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBronzeChest",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBronzeLegs",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorCarapaceChest",
+    "stack": 1,
+    "price": 371,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorCarapaceLegs",
+    "stack": 1,
+    "price": 371,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress4",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDress9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorFenringChest",
+    "stack": 1,
+    "price": 93,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorFenringLegs",
+    "stack": 1,
+    "price": 93,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorIronChest",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorIronLegs",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorLeatherChest",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorLeatherLegs",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorMageChest",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorMageLegs",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPaddedCuirass",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPaddedGreaves",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorRagsChest",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorRagsLegs",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorRootChest",
+    "stack": 1,
+    "price": 82,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorRootLegs",
+    "stack": 1,
+    "price": 82,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTrollLeatherChest",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTrollLeatherLegs",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic4",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorTunic9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWolfChest",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWolfLegs",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowBronze",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowCarapace",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowFire",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowFlint",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowFrost",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowIron",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowNeedle",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowObsidian",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowPoison",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowSilver",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArrowWood",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AtgeirBlackmetal",
+    "stack": 1,
+    "price": 369,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AtgeirBronze",
+    "stack": 1,
+    "price": 118,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AtgeirHimminAfl",
+    "stack": 1,
+    "price": 169,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AtgeirIron",
+    "stack": 1,
+    "price": 119,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeBlackMetal",
+    "stack": 1,
+    "price": 259,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeBronze",
+    "stack": 1,
+    "price": 113,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeFlint",
+    "stack": 1,
+    "price": 14,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeIron",
+    "stack": 1,
+    "price": 131,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeJotunBane",
+    "stack": 1,
+    "price": 322,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AxeStone",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "babyseeker_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BarberKit",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Barley",
+    "stack": 10,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BarleyFlour",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BarleyWine",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BarleyWineBase",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "bat_melee",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Battleaxe",
+    "stack": 1,
+    "price": 305,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BattleaxeCrystal",
+    "stack": 1,
+    "price": 387,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard11",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard12",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard13",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard14",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard15",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard16",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard17",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard18",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard19",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard20",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard21",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard4",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Beard9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BeardNone",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BeechSeeds",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BeltStrength",
+    "stack": 1,
+    "price": 99,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bilebag",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BirchSeeds",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackCore",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackMarble",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackMetal",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackMetalScrap",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackSoup",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "blob_attack_aoe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "blobelite_attack_aoe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "blobtar_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bloodbag",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BloodPudding",
+    "stack": 1,
+    "price": 27,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Blueberries",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "boar_base_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarJerky",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoltBlackmetal",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoltBone",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoltCarapace",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoltIron",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BombBile",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BombOoze",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoneFragments",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "bonemass_attack_aoe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "bonemass_attack_punch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "bonemass_attack_spawn",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "bonemass_attack_throw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bow",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BowDraugrFang",
+    "stack": 1,
+    "price": 248,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BowFineWood",
+    "stack": 1,
+    "price": 46,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BowHuntsman",
+    "stack": 1,
+    "price": 163,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BowSpineSnap",
+    "stack": 1,
+    "price": 279,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bread",
+    "stack": 1,
+    "price": 22,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BreadDough",
+    "stack": 1,
+    "price": 45,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bronze",
+    "stack": 1,
+    "price": 13,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BronzeNails",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BronzeScrap",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BugMeat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeDeerHide",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeFeather",
+    "stack": 1,
+    "price": 468,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeLinen",
+    "stack": 1,
+    "price": 188,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeLox",
+    "stack": 1,
+    "price": 168,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeOdin",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeTest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeTrollHide",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeWolf",
+    "stack": 1,
+    "price": 61,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Carapace",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Carrot",
+    "stack": 10,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CarrotSeeds",
+    "stack": 10,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CarrotSoup",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Chain",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "chest_hildir1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "chest_hildir2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "chest_hildir3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ChickenEgg",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ChickenMeat",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Chitin",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Cloudberry",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Club",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Coal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Coins",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedBugMeat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedChickenMeat",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedDeerMeat",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedEgg",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedHareMeat",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedLoxMeat",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedMeat",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CookedWolfMeat",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Copper",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CopperOre",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CopperScrap",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CrossbowArbalest",
+    "stack": 1,
+    "price": 81,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CryptKey",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Crystal",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Cultivator",
+    "stack": 1,
+    "price": 36,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Dandelion",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Deathsquito_sting",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerHide",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerMeat",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerStew",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Demister",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_bite",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_claw_left",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_claw_right",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_coldbreath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_coldbreath_OLD",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_spit_shotgun",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "dragon_taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DragonEgg",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DragonTear",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "draugr_arrow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "draugr_axe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "draugr_bow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "draugr_sword",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Dverger_melee",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerArbalest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerArbalest_shoot",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerHairFemale",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerHairMale",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerMistile",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffBlocker",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffFire",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffFire_clusterbomb",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffFire_fireball",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffHeal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffHeal_heal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffIce",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffIce_icebolt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffNova",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffSupport",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerStaffSupport_buff",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerSuitArbalest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerSuitFire",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerSuitIce",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerSuitSupport",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergrKey",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergrKeyFragment",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergrNeedle",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eikthyr_antler",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eikthyr_charge",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eikthyr_flegs_OLD",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eikthyr_stomp",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eitr",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderBark",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Entrails",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Eyescream",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Feathers",
+    "stack": 10,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_claw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_fireclaw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_fireclaw_double",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_flames",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_frost",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_iceclaw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_iceclaw_double",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_IceNova",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_attack_jump",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fenring_taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FineWood",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FirCone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Blue",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Cyan",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Green",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Purple",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Red",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_White",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FireworksRocket_Yellow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish11",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish12",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish4_cave",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Fish9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishAndBread",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishAndBreadUncooked",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishAnglerRaw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishCooked",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBait",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitAshlands",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitCave",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitDeepNorth",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitForest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitMistlands",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitOcean",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitPlains",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingBaitSwamp",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishingRod",
+    "stack": 1,
+    "price": 35,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishRaw",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishWraps",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FistFenrirClaw",
+    "stack": 1,
+    "price": 154,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flametal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FlametalOre",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flax",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flint",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FreezeGland",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gd_king_punch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gd_king_rootspawn",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gd_king_scream",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gd_king_shoot",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gd_king_stomp",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ghost_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GiantBloodSack",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gjall_attack_egg",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gjall_attack_shake",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gjall_attack_spit",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "gjall_attack_taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinArmband",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_ArmGuard",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_Attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_Backbones",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_ExecutionerCap",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_HipCloth",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_LegBones",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_RageAttack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_ShoulderGuard",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBrute_Taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteBros_Attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteBros_RageAttack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinClub",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinHelmet",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinKing_Beam",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinKing_Meteors",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinKing_Nova",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinKing_Taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinLegband",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinLoin",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_attack_fireball",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_attack_fireball_hildir",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_attack_poke",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_attack_protect",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_attack_protect_hildir",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_Headdress_antlers",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_Headdress_feathers",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_Staff_Bones",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_Staff_Feathers",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShaman_Staff_Hildir",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShoulders",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinSpear",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinSword",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinTorch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinTotem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greydwarf_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greydwarf_elite_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greydwarf_shaman_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greydwarf_shaman_heal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greydwarf_throw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfEye",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Greyling_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Guck",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair10_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair11",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair11_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair11_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair12",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair12_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair13",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair13_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair13_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair14",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair14_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair15",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair15_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair15_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair16",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair16_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair17",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair17_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair18",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair18_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair19",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair20",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair21",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair21_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair22",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair22_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair23",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair24",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair24_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair24_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair25",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair26",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair27",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair27_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair27_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair28",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair28_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair28_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair29",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair29_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair3_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair3_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair30",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair30_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair30_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair31",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair31_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair31_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair4",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair4_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair4_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair5_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair6_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair6_3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair7_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair8_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hair9_2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HairNone",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hammer",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HardAntler",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareMeat",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "hatchling_spit_cold",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HealthUpgrade_Bonemass",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HealthUpgrade_GDKing",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetBronze",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetCarapace",
+    "stack": 1,
+    "price": 226,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetDrake",
+    "stack": 1,
+    "price": 194,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetDverger",
+    "stack": 1,
+    "price": 62,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetFenring",
+    "stack": 1,
+    "price": 93,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetFishingHat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat10",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat4",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat5",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat6",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat7",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat8",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetHat9",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetIron",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetLeather",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetMage",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetMidsummerCrown",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetOdin",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetPadded",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetPointyHat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetRoot",
+    "stack": 1,
+    "price": 84,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetTrollLeather",
+    "stack": 1,
+    "price": 11,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HelmetYule",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HildirKey_forestcrypt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HildirKey_mountaincave",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HildirKey_plainsfortress",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "hive_attack_aoe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "hive_attack_punch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "hive_attack_ranged",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "hive_attack_throw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hoe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Honey",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HoneyGlazedChicken",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HoneyGlazedChickenUncooked",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "imp_fireball_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Iron",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "IronNails",
+    "stack": 10,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "IronOre",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ironpit",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "IronScrap",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JuteBlue",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JuteRed",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeBlackMetal",
+    "stack": 1,
+    "price": 154,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeButcher",
+    "stack": 1,
+    "price": 19,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeChitin",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeCopper",
+    "stack": 1,
+    "price": 37,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeFlint",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeSilver",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "KnifeSkollAndHati",
+    "stack": 1,
+    "price": 225,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Lantern",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Larva",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeatherScraps",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Leech_BiteAttack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LinenThread",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "lox_bite",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "lox_stomp",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxMeat",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxPelt",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxPie",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxPieUncooked",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MaceBronze",
+    "stack": 1,
+    "price": 114,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MaceIron",
+    "stack": 1,
+    "price": 132,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MaceNeedle",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MaceSilver",
+    "stack": 1,
+    "price": 260,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MagicallyStuffedShroom",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MagicallyStuffedShroomUncooked",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Mandible",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseEitrMinor",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseFrostResist",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseHealthMajor",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseHealthMedium",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseHealthMinor",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBasePoisonResist",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseStaminaLingering",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseStaminaMedium",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseStaminaMinor",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadBaseTasty",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadEitrMinor",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadFrostResist",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadHealthMajor",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadHealthMedium",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadHealthMinor",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadPoisonResist",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadStaminaLingering",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadStaminaMedium",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadStaminaMinor",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeadTasty",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeatPlatter",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MeatPlatterUncooked",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MechanicalSpring",
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MinceMeatSauce",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MisthareSupreme",
+    "stack": 1,
+    "price": 23,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MisthareSupremeUncooked",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Mistile_kamikaze",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Mushroom",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomBlue",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomJotunPuffs",
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomMagecap",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomOmelette",
+    "stack": 1,
+    "price": 32,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomYellow",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Neck_BiteAttack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckTail",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckTailGrilled",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Needle",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Obsidian",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Onion",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "OnionSeeds",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "OnionSoup",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ooze",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PickaxeAntler",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PickaxeBlackMetal",
+    "stack": 1,
+    "price": 214,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PickaxeBronze",
+    "stack": 1,
+    "price": 63,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PickaxeIron",
+    "stack": 1,
+    "price": 131,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PickaxeStone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PineCone",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PlayerUnarmed",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Pukeberries",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "QueenBee",
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "QueenDrop",
+    "stack": 1,
+    "price": 21,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "QueensJam",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Raspberry",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RawMeat",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Resin",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Root",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RottenMeat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RoundLog",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RoyalJelly",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ruby",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SaddleLox",
+    "stack": 1,
+    "price": 300,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Salad",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Sap",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Sausages",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ScaleHide",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_claw_left",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_claw_right",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_groundslam",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_groundslam_flying",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_land",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_pincers",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "seeker_takeoff",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerAspic",
+    "stack": 1,
+    "price": 32,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerBrute_bite",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerBrute_groundslam",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerBrute_ram",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerBrute_Taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Bite",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Call",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_PierceAOE",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Rush",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Slap",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Spit",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerQueen_Teleport",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Serpent_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Serpent_taunt",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentMeat",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentMeatCooked",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentScale",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentStew",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SharpeningStone",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldBanded",
+    "stack": 1,
+    "price": 77,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldBlackmetal",
+    "stack": 1,
+    "price": 133,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldBlackmetalTower",
+    "stack": 1,
+    "price": 177,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldBoneTower",
+    "stack": 1,
+    "price": 28,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldBronzeBuckler",
+    "stack": 1,
+    "price": 138,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldCarapace",
+    "stack": 1,
+    "price": 340,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldCarapaceBuckler",
+    "stack": 1,
+    "price": 286,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldIronBuckler",
+    "stack": 1,
+    "price": 73,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldIronSquare",
+    "stack": 1,
+    "price": 92,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldIronTower",
+    "stack": 1,
+    "price": 103,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldKnight",
+    "stack": 1,
+    "price": 94,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldSerpentscale",
+    "stack": 1,
+    "price": 62,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldSilver",
+    "stack": 1,
+    "price": 151,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldWood",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShieldWoodTower",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShocklateSmoothie",
+    "stack": 1,
+    "price": 19,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Silver",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SilverNecklace",
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SilverOre",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_bow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_bow2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_hildir_firenova",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_mace",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_sword",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_sword_hildir",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "skeleton_sword2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SledgeCheat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SledgeDemolisher",
+    "stack": 1,
+    "price": 333,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SledgeIron",
+    "stack": 1,
+    "price": 134,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SledgeStagbreaker",
+    "stack": 1,
+    "price": 63,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Softtissue",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Sparkler",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearBronze",
+    "stack": 1,
+    "price": 87,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearCarapace",
+    "stack": 1,
+    "price": 371,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearChitin",
+    "stack": 1,
+    "price": 95,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearElderbark",
+    "stack": 1,
+    "price": 173,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearFlint",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SpearWolfFang",
+    "stack": 1,
+    "price": 199,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaffFireball",
+    "stack": 1,
+    "price": 226,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaffIceShards",
+    "stack": 1,
+    "price": 244,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaffShield",
+    "stack": 1,
+    "price": 366,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaffSkeleton",
+    "stack": 1,
+    "price": 377,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaminaUpgrade_Greydwarf",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaminaUpgrade_Troll",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StaminaUpgrade_Wraith",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Stone",
+    "stack": 50,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "stonegolem_attack_doublesmash",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "stonegolem_attack_sonicboom_NOTUSED",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "stonegolem_attack1_spike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "stonegolem_attack2_left_groundslam",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "stonegolem_attack3_spikesweep",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolem_clubs",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolem_hat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolem_spikes",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingCore",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordBlackmetal",
+    "stack": 1,
+    "price": 251,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordBronze",
+    "stack": 1,
+    "price": 117,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordCheat",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordIron",
+    "stack": 1,
+    "price": 130,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordIronFire",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordMistwalker",
+    "stack": 1,
+    "price": 334,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SwordSilver",
+    "stack": 1,
+    "price": 360,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Tankard",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Tankard_dvergr",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TankardAnniversary",
+    "stack": 1,
+    "price": 45,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TankardOdin",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Tar",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "tentaroot_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Thistle",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "THSwordKrom",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Thunderstone",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "tick_attack",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "tick_attack_attach",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Tin",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TinOre",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Torch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TorchMist",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "troll_groundslam",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "troll_log_swing_h",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "troll_log_swing_v",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "troll_punch",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "troll_throw",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollHide",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDeer",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyBoar",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyNeck",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGreydwarf",
+    "stack": 1,
+    "price": 32,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGreydwarfBrute",
+    "stack": 1,
+    "price": 48,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGreydwarfShaman",
+    "stack": 1,
+    "price": 43,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySkeleton",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySkeletonPoison",
+    "stack": 1,
+    "price": 48,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyForestTroll",
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyTroll",
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySurtling",
+    "stack": 1,
+    "price": 70,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyLeech",
+    "stack": 1,
+    "price": 64,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDraugr",
+    "stack": 1,
+    "price": 58,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDraugrElite",
+    "stack": 1,
+    "price": 106,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyBlob",
+    "stack": 1,
+    "price": 64,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyWraith",
+    "stack": 1,
+    "price": 106,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyAbomination",
+    "stack": 1,
+    "price": 80,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyWolf",
+    "stack": 1,
+    "price": 104,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyFenring",
+    "stack": 1,
+    "price": 111,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyHatchling",
+    "stack": 1,
+    "price": 96,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySGolem",
+    "stack": 1,
+    "price": 207,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyUlv",
+    "stack": 1,
+    "price": 111,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyCultist",
+    "stack": 1,
+    "price": 111,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGoblin",
+    "stack": 1,
+    "price": 134,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGoblinBrute",
+    "stack": 1,
+    "price": 228,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGoblinShaman",
+    "stack": 1,
+    "price": 126,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyLox",
+    "stack": 1,
+    "price": 167,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGrowth",
+    "stack": 1,
+    "price": 155,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDeathsquito",
+    "stack": 1,
+    "price": 155,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySerpent",
+    "stack": 1,
+    "price": 77,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyHare",
+    "stack": 1,
+    "price": 45,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGjall",
+    "stack": 1,
+    "price": 135,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyTick",
+    "stack": 1,
+    "price": 156,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDvergr",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySeeker",
+    "stack": 1,
+    "price": 302,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySeekerBrute",
+    "stack": 1,
+    "price": 356,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyEikthyr",
+    "stack": 1,
+    "price": 14,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyTheElder",
+    "stack": 1,
+    "price": 67,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyBonemass",
+    "stack": 1,
+    "price": 150,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyDragonQueen",
+    "stack": 1,
+    "price": 262,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophyGoblinKing",
+    "stack": 1,
+    "price": 493,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrophySeekerQueen",
+    "stack": 1,
+    "price": 738,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Turnip",
+    "stack": 10,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TurnipSeeds",
+    "stack": 10,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TurnipStew",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TurretBolt",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TurretBoltWood",
+    "stack": 20,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ulv_attack1_bite",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Ulv_attack2_slash",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "VegvisirShard_Bonemass",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wishbone",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wisp",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WitheredBone",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wolf_Attack1",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wolf_Attack2",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wolf_Attack3",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfClaw",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfFang",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfHairBundle",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfJerky",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfMeat",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfMeatSkewer",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfPelt",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Wood",
+    "stack": 25,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "wraith_melee",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "YagluthDrop",
+    "stack": 1,
+    "price": 45,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "YggdrasilPorridge",
+    "stack": 1,
+    "price": 67,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "YggdrasilWood",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "YmirRemains",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackMeadows",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackBlackForest",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackSwamp",
+    "stack": 1,
+    "price": 48,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackMountains",
+    "stack": 1,
+    "price": 92,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackPlains",
+    "stack": 1,
+    "price": 115,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackMistlands",
+    "stack": 1,
+    "price": 180,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeIronBackpack",
+    "stack": 1,
+    "price": 92,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CapeSilverBackpack",
+    "stack": 1,
+    "price": 115,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Gem_Bag",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Gem_Box",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Blue_Crystal_Frame",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Black_Crystal_Frame",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Blessed_Crystal_Mirror",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Celestial_Crystal_Mirror",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Orb_of_Divinity",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Black_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Black_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Black_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Black_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Black_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Blue_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Blue_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Blue_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Blue_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Blue_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Red_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Red_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Red_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Red_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Red_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Yellow_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Yellow_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Yellow_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Yellow_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Yellow_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Green_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Green_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Green_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Green_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Green_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Purple_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Purple_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Purple_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Purple_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Purple_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Orange_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Orange_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Orange_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Orange_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Orange_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Shattered_Cyan_Crystal",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Uncut_Cyan_Stone",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Simple_Cyan_Socket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Cyan_Socket",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Cyan_Socket",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_7",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_1",
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_2",
+    "stack": 1,
+    "price": 60,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_4",
+    "stack": 1,
+    "price": 240,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_5",
+    "stack": 1,
+    "price": 480,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Boss_Crystal_3",
+    "stack": 1,
+    "price": 120,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Friendship_Group_Gem",
+    "stack": 1,
+    "price": 60,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Black_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Black_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Black_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Blue_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Blue_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Blue_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Red_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Red_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Red_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Yellow_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Yellow_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Yellow_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Green_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Green_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Green_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Purple_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Purple_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Purple_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Orange_Cyan",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Orange_Cyan",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Orange_Cyan",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Black",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Black",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Black",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Blue",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Blue",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Red",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Red",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Yellow",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Yellow",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Green",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Green",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Purple",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Purple",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Common_Merged_Gemstone_Cyan_Orange",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Advanced_Merged_Gemstone_Cyan_Orange",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Perfect_Merged_Gemstone_Cyan_Orange",
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Necklace_Red",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Necklace_Green",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Necklace_Blue",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Necklace_Yellow",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Necklace_Purple",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Ring_Purple",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Ring_Green",
+    "stack": 1,
+    "price": 02,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Ring_Red",
+    "stack": 1,
+    "price": 02,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Ring_Blue",
+    "stack": 1,
+    "price": 02,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Ring_Black",
+    "stack": 1,
+    "price": 02,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Common_Gembox",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Epic_Gembox",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Legendary_Gembox",
+    "stack": 1,
+    "price": 90,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Gacha_Coins",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Axe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Bow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Pickaxe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Sword",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Battleaxe",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_TH_Mace",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_TH_Sword",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Spear",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Shield",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Knife",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Lightning_Staff",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Poison_Staff",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Shield_Tower",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Shield_Buckler",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Crossbow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Reaper_Mace",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Blue_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Purple_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Orange_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Blue_Item_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Purple_Item_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_Orange_Item_Chest",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_xp_drink1",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_xp_drink2",
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_xp_drink3",
+    "stack": 1,
+    "price": 90,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb1",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb2",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb3",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb4",
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb5",
+    "stack": 1,
+    "price": 75,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_orb6",
+    "stack": 1,
+    "price": 130,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_mead_minor",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_mead_med",
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "mmo_mead_greater",
+    "stack": 1,
+    "price": 60,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Mob_chunks",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ResetTrophy",
+    "stack": 1,
+    "price": 50,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flask_of_Elements",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flask_of_Fortification",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flask_of_the_Gods",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flask_of_Magelight",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Flask_of_Second_Wind",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Grand_Healing_Tide_Potion",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Grand_Spiritual_Healing_Potion",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Grand_Stamina_Elixir",
+    "stack": 1,
+    "price": 14,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Grand_Stealth_Elixir",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Medium_Healing_Tide_Flask",
+    "stack": 1,
+    "price": 8,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Medium_Spiritual_Healing_Flask",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Medium_Stamina_Flask",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Lesser_Healing_Tide_Vial",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Lesser_Spiritual_Healing_Vial",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Lesser_Stamina_Vial",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Odins_Weapon_Oil",
+    "stack": 1,
+    "price": 34,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Potion_Meadbase",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Odins_Alchemy_Wand",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Odins_Wizard_Hat",
+    "stack": 1,
+    "price": 54,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Odins_Warlock_Hat",
+    "stack": 1,
+    "price": 54,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Odins_Dragon_Staff",
+    "stack": 1,
+    "price": 94,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Lesser_Group_Healing",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Medium_Group_Healing",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Grand_Group_Healing",
+    "stack": 1,
+    "price": 14,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Brew_of_Cunning_Toxicity",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Brew_of_Fiery_Revenge",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Brew_of_Icy_Touch",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Brew_of_Spiritual_Death",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Brew_of_Thunderous_Words",
+    "stack": 1,
+    "price": 18,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Flames",
+    "stack": 1,
+    "price": 6,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Flames_Charge",
+    "stack": 1,
+    "price": 3,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Frost",
+    "stack": 1,
+    "price": 12,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Frost_Charge",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Thors_Fury",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Thors_Fury_Charge",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Eternal_Life",
+    "stack": 1,
+    "price": 16,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hellbroth_of_Eternal_Life_Charge",
+    "stack": 1,
+    "price": 4,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PhilosopherStoneBlue",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PhilosopherStoneGreen",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PhilosopherStoneRed",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PhilosopherStonePurple",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PhilosopherStoneBlack",
+    "stack": 1,
+    "price": 29,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_SoulNecklace_Necklace",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "JC_SoulRing_Ring",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishBasket",
+    "stack": 1,
+    "price": 2,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FishExtract",
+    "stack": 1,
+    "price": 50,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ResinWood",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CaulkedWood",
+    "stack": 5,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ClothShip",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ShipRope",
+    "stack": 10,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_whetstone",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_wind_essence",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_wraiths_breath",
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_dragoneyes",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_red",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_green",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_yellow",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_purple",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_blue",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_scroll_black",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_necklace_green",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_necklace_red",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_pot_01",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_iceball",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_goblet",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_coinpurse",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_ghostlyheart",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_dragonheart",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_griffinfeather",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_book_01",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_book_02",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_book_03",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_book_04",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "questitem_straw_doll",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Custom_Eitr_Powerup",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CL_Crystal_Hammer",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Axe_Flint",
+    "stack": 1,
+    "price": 24,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Sword_Flint",
+    "stack": 1,
+    "price": 24,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Atgeir_Flint",
+    "stack": 1,
+    "price": 24,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Sword_Flint",
+    "stack": 1,
+    "price": 24,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Sledge_Bronze",
+    "stack": 1,
+    "price": 113,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Axe_Bronze",
+    "stack": 1,
+    "price": 113,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Sword_Bronze",
+    "stack": 1,
+    "price": 113,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Sword_Iron",
+    "stack": 1,
+    "price": 131,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Atgeir_Silver",
+    "stack": 1,
+    "price": 233,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Sledge_Silver",
+    "stack": 1,
+    "price": 233,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Sword_Silver",
+    "stack": 1,
+    "price": 233,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Axe_Silver",
+    "stack": 1,
+    "price": 188,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Sword_Blackmetal",
+    "stack": 1,
+    "price": 251,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Sledge_Blackmetal",
+    "stack": 1,
+    "price": 251,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Spear_Blackmetal",
+    "stack": 1,
+    "price": 188,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Axe_Blackmetal",
+    "stack": 1,
+    "price": 251,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_Mace_Marble",
+    "stack": 1,
+    "price": 360,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GF_TH_Axe_Marble",
+    "stack": 1,
+    "price": 360,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "rae_CampsiteResources",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BJORKSNAS",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "$PlumgaClutterTool",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlackMetalCestus",
+    "stack": 1,
+    "price": 154,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BronzeCestus",
+    "stack": 1,
+    "price": 113,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SilverCestus",
+    "stack": 1,
+    "price": 260,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "IronCestus",
+    "stack": 1,
+    "price": 131,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StuddedKnuckles",
+    "stack": 1,
+    "price": 13,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WoodKnuckles",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlueprintRune",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PlanCrystal",
+    "stack": 1,
+    "price": 1,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "PlanHammer",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SaddleT1",
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SaddleT2",
+    "stack": 1,
+    "price": 50,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Hearthstone",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RuneFocus",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "NeckGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BoarGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfBruteGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfBruteGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfBruteGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfBruteGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfBruteGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfShamanGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfShamanGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfShamanGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfShamanGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GreydwarfShamanGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TrollGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SkeletonGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SkeletonGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SkeletonGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SkeletonGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SkeletonGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DraugrGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DraugrGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DraugrGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DraugrGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DraugrGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlobGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlobGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlobGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlobGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BlobGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeechGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeechGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeechGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeechGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeechGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WraithGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WraithGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WraithGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WraithGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WraithGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AbominationGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AbominationGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AbominationGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AbominationGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "AbominationGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "WolfGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BatGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BatGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BatGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BatGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BatGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FenringGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FenringGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FenringGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FenringGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FenringGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CultistGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CultistGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CultistGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CultistGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "CultistGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "UlvGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "UlvGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "UlvGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "UlvGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "UlvGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolemGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolemGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolemGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolemGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "StoneGolemGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HatchlingGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HatchlingGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HatchlingGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HatchlingGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HatchlingGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeathsquitoGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeathsquitoGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeathsquitoGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeathsquitoGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeathsquitoGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LoxGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinBruteGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShamanGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShamanGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShamanGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShamanGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GoblinShamanGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TarBlobGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TarBlobGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TarBlobGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TarBlobGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TarBlobGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SurtlingGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SerpentGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "HareGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemFireMage",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemFireMage_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemFireMage_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemFireMage_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemFireMage_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemBloodMage",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemBloodMage_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemBloodMage_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemBloodMage_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemBloodMage_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemIceMage",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemIceMage_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemIceMage_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemIceMage_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DvergerGemIceMage_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TickGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TickGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TickGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TickGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TickGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GjallGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GjallGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GjallGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GjallGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "GjallGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "SeekerBruteGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "EikthyrGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "EikthyrGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "EikthyrGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "EikthyrGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "EikthyrGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ElderGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BonemassGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ModerGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ModerGem_Ascend",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ModerGem_Immortal",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ModerGem_Godlike",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ModerGem_Odinwrath",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "YagluthGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "TheQueenGem",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LanternSoulcatcher",
+    "stack": 1,
+    "price": 15,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Soulcatcher_CursedDoll",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LootBox_Base",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Marketstone",
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorNobleHelmet",
+    "stack": 1,
+    "price": 648,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorNobleChest",
+    "stack": 1,
+    "price": 648,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorNobleLegs",
+    "stack": 1,
+    "price": 648,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorNobleCape",
+    "stack": 1,
+    "price": 148,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBarbarianBronzeHelmetJD",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBarbarianBronzeChestJD",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBarbarianBronzeLegsJD",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBarbarianCapeJD",
+    "stack": 1,
+    "price": 69,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWarriorHelmet",
+    "stack": 1,
+    "price": 471,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWarriorChest",
+    "stack": 1,
+    "price": 471,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWarriorLegs",
+    "stack": 1,
+    "price": 471,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPlateIronHelmetJD",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPlateIronChestJD",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPlateIronLegsJD",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorPlateCape",
+    "stack": 1,
+    "price": 127,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDragonslayerHelmet",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDragonslayerChest",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorDragonslayerLegs",
+    "stack": 1,
+    "price": 174,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWandererHelmet",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWandererChest",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWandererLegs",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorWandererCape",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBlackmetalgarbHelmet",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBlackmetalgarbChest",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorBlackmetalgarbLegs",
+    "stack": 1,
+    "price": 243,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorSerpentHelmet",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorSerpentChest",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorSerpentLegs",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorSerpentCape",
+    "stack": 1,
+    "price": 198,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorMistlandsHelmet",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorMistlandsChest",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "ArmorMistlandsLegs",
+    "stack": 1,
+    "price": 9,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackSimple",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "BackpackHeavy",
+    "stack": 1,
+    "price": 0,
+    "requiredGlobalKey": ""
+  }
+]

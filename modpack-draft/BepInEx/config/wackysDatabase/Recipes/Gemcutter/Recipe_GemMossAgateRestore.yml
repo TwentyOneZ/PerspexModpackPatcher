@@ -1,0 +1,12 @@
+name: GemMossAgateRestore
+clonePrefabName: Uncut_mossagate_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Shattered_mossagate_Crystal:12:1:True
+- Resin:1:1:True

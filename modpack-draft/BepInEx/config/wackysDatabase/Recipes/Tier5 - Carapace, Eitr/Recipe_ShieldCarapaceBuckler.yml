@@ -1,0 +1,14 @@
+name: ShieldCarapaceBuckler
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Carapace:16:8:True
+- ScaleHide:3:3:True
+- Eitr:10:3:True
+- Coins:960:960:False

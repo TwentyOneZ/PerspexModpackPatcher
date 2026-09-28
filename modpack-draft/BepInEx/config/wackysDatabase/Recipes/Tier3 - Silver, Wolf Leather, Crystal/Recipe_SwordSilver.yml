@@ -1,0 +1,14 @@
+name: SwordSilver
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:2:1:True
+- Silver:40:20:True
+- Iron:5:3:True
+- Coins:240:240:False

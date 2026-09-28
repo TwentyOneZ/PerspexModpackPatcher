@@ -1,0 +1,12 @@
+name: ArmorRagsLegs
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- LeatherScraps:5:5:True
+- Coins:0:15:True

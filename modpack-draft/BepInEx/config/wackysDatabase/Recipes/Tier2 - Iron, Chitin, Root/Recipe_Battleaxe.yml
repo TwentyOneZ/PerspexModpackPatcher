@@ -1,0 +1,14 @@
+name: Battleaxe
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:30:5:True
+- Iron:35:15:True
+- LeatherScraps:4:0:True
+- Coins:120:120:False

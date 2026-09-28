@@ -1,0 +1,16 @@
+name: Recipe_CapeCultist
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- JuteRed:3:3:True
+- WolfPelt:5:2:True
+- LeatherScraps:0:12:True
+- TrophyUlv:2:1:True

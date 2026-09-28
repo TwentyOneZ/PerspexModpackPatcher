@@ -1,0 +1,16 @@
+name: Recipe_ArmorBerserkerChest
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BjornHide:5:2:True
+- BjornPaw:2:0:True
+- Blueberries:4:1:True
+- Coins:90:90:False

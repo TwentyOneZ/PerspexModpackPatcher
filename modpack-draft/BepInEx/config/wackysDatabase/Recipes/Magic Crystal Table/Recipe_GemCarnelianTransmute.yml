@@ -1,0 +1,13 @@
+name: GemCarnelianTransmute
+clonePrefabName: Uncut_carnelian_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Orange_Stone:1:1:True
+- DeerHide:1:1:True
+- Coins:10:10:False

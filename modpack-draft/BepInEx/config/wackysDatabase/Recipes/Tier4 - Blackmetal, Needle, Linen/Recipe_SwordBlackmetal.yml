@@ -1,0 +1,14 @@
+name: SwordBlackmetal
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:2:0:True
+- BlackMetal:20:10:True
+- LinenThread:5:5:True
+- Coins:480:480:False

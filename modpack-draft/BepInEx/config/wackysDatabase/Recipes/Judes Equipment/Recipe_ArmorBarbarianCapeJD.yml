@@ -1,0 +1,18 @@
+name: ArmorBarbarianCapeJD
+clonePrefabName: null
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Boss_Crystal_7:3:0:False
+- DeerHide:8:4:True
+- Bronze:1:1:True
+- Coins:60:30:False

@@ -1,0 +1,14 @@
+name: BowFineWood
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:10:5:True
+- RoundLog:10:5:True
+- DeerHide:2:2:True
+- Coins:60:60:False

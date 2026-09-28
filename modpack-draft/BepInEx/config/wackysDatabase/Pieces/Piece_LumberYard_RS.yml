@@ -1,0 +1,100 @@
+name: LumberYard_RS
+piecehammer: Hammer
+m_name: $piece_lumberyard
+sizeMultiplier: 1
+m_description: $piece_lumberyard_desc
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort:
+  comfort: 1
+  comfortGroup: None
+  comfortObject: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: VeryResistant
+    m_slash: VeryResistant
+    m_pierce: VeryResistant
+    m_chop: Normal
+    m_pickaxe: VeryResistant
+    m_fire: Normal
+    m_frost: Immune
+    m_lightning: Immune
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: true
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+craftingStationData:
+  cStationCustomIcon: 
+  discoveryRange: 4
+  buildRange: 20
+  craftRequiresRoof: false
+  craftRequiresFire: false
+  showBasicRecipes: false
+  useDistance: 0
+  useAnimation: 1
+cSExtensionData: 
+contData: 
+smelterData:
+  smelterName: LumberYard_RS
+  addOreTooltip: $piece_lumberyardr_additem
+  emptyOreTooltip: $piece_lumberyard_empty
+  fuelItem:
+    name: Coins
+  maxOre: 120
+  maxFuel: 1200
+  fuelPerProduct: 10
+  secPerProduct: 60
+  spawnStack: false
+  requiresRoof: false
+  addOreAnimationLength: 0
+  smelterConversion:
+  - FromName: Acorn
+    ToName: FineWood
+    Remove: false
+  - FromName: BirchSeeds
+    ToName: FineWood
+    Remove: false
+  - FromName: BeechSeeds
+    ToName: Wood
+    Remove: false
+  - FromName: AncientSeed
+    ToName: ElderBark
+    Remove: false
+  - FromName: PineCone
+    ToName: RoundLog
+    Remove: false
+  - FromName: Sap
+    ToName: YggdrasilWood
+    Remove: false
+  - FromName: FirCone
+    ToName: Wood
+    Remove: false
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+build:
+- Wood:15:0:True
+- Uncut_Yellow_Stone:10:0:True
+- BronzeNails:8:0:True
+- questitem_straw_doll:1:0:True
+- questitem_scroll_yellow:1:0:True

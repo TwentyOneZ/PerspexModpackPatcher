@@ -1,0 +1,75 @@
+name: piece_MagnifyingGlass
+piecehammer: Hammer
+m_name: Inspector's Magnifying Glass
+sizeMultiplier: 1
+m_description: I spy with my little eye... But not on your neighbors, that's weird.
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Crafting
+categoryOrderBeforePrefab: 
+minStationLevel: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+allowedInDeepSnow: false
+requireDeepSnow: false
+spaceRequirement: 0
+repairPiece: false
+isUpgrade: false
+usage: 0
+blockingPieces: []
+canRockJade: false
+wearNTearData:
+  health: 10
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+    m_nonPlayer: Normal
+  noRoofWear: false
+  noSupportWear: true
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+  burnable: true
+  snowDamageImmune: false
+  outsideRequiredBiomeDamage: 25
+  minToolTier: 0
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- FineWood:1:1:True
+- Bronze:1:1:True

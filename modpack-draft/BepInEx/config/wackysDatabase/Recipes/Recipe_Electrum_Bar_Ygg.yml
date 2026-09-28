@@ -1,0 +1,15 @@
+name: Electrum_Bar_Ygg
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Copper:1:0:True
+- Silver:1:0:True
+- Gold_Bar_Ygg:1:0:True

@@ -1,0 +1,16 @@
+name: Recipe_ArmorBerserkerUndeadLegs
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BjornHide:10:5:True
+- UndeadBjornRibcage:1:1:True
+- LinenThread:4:1:True
+- Coins:720:720:False

@@ -1,0 +1,68 @@
+name: VikingShip_Ashlands
+piecehammer: Hammer
+m_name: $ship_longship_ashlands
+sizeMultiplier: 1
+m_description: 'Viking sea supremacy. The 50 Coins for ship handling are not refundable. '
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Misc
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: true
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: false
+notOnWood: false
+wearNTearData:
+  health: 3000
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Resistant
+    m_chop: Immune
+    m_pickaxe: Immune
+    m_fire: VeryResistant
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: true
+  triggerPrivateArea: true
+  materialType: Wood
+  burnable: true
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData:
+  ashlandProof: true
+shieldGenData: 
+batteringRamData: 
+build:
+- YggdrasilWood:25:1:True
+- IronNails:400:1:True
+- CeramicPlate:30:1:True
+- CoatedWoodCrate:20:0:True
+- questitem_book_03:1:1:True
+- Coins:50:0:False

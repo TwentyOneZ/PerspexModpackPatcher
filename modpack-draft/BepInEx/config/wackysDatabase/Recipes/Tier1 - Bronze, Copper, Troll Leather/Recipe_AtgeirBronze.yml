@@ -1,0 +1,14 @@
+name: AtgeirBronze
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:10:0:True
+- Bronze:8:4:True
+- LeatherScraps:2:0:True
+- Coins:60:60:False

@@ -1,0 +1,17 @@
+name: BJORKSNAS
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- FineWood:1:0:True
+- QueenBee:1:0:True
+- Coins:999:99:True

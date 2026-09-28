@@ -1,0 +1,13 @@
+name: Hoe
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:5:1:True
+- Stone:2:1:True
+- Coins:0:15:True

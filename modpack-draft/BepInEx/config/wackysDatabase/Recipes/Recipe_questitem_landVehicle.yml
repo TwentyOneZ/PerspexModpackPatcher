@@ -1,0 +1,14 @@
+name: questitem_landVehicle
+clonePrefabName: questitem_landVehicle
+craftingStation: Scribe Table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- LeatherScraps:1:0:True
+- Feathers:1:0:False
+- Coal:1:0:False
+- Coins:240:0:False

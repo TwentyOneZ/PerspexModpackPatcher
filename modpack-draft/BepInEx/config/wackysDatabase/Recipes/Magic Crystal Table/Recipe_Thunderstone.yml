@@ -1,0 +1,12 @@
+name: Recipe_Thunderstone
+clonePrefabName: Thunderstone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 6
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Boss_Crystal_7:1:0:False
+- Stone:6:0:False

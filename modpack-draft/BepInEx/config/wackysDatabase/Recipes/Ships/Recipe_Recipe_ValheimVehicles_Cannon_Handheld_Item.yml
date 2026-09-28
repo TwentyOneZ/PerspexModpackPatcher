@@ -1,0 +1,15 @@
+name: Recipe_ValheimVehicles_Cannon_Handheld_Item
+clonePrefabName: NO
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Bronze:4:1:True
+- Chain:1:0:True
+- Coins:480:480:False

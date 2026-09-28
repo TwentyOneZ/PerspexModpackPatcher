@@ -1,0 +1,11 @@
+name: RaspberrySeeds
+clonePrefabName: RaspberrySeeds
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Raspberry:5:0:True

@@ -1,0 +1,14 @@
+name: SpearWolfFang
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:10:5:True
+- WolfFang:4:2:True
+- Silver:2:1:True
+- Coins:240:240:False

@@ -1,0 +1,16 @@
+name: Recipe_ArmorCultistLegs
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- JuteRed:4:2:True
+- CultInsygnia:5:1:True
+- WolfPelt:5:2:True
+- LeatherScraps:20:10:True

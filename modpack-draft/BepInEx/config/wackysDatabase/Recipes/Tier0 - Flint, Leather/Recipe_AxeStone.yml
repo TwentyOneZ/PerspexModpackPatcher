@@ -1,0 +1,13 @@
+name: AxeStone
+clonePrefabName: 
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:5:0:True
+- Stone:4:2:True
+- Coins:0:15:True

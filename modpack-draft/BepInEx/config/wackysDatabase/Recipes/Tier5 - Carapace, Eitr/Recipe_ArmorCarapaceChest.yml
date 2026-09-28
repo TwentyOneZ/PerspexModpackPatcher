@@ -1,0 +1,15 @@
+name: ArmorCarapaceChest
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Carapace:20:10:True
+- ScaleHide:3:1:True
+- Iron:5:0:True
+- Eitr:4:2:True
+- Coins:960:960:False

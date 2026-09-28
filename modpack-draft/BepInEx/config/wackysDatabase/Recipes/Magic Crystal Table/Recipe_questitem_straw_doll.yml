@@ -1,0 +1,13 @@
+name: questitem_straw_doll
+clonePrefabName: questitem_straw_doll
+craftingStation: $custom_sky_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:1:0:True
+- GreydwarfEye:2:0:True
+- Coins:120:0:False

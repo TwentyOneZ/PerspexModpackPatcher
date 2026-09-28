@@ -1,0 +1,11 @@
+name: CloudberrySeeds
+clonePrefabName: CloudberrySeeds
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Cloudberry:5:0:True

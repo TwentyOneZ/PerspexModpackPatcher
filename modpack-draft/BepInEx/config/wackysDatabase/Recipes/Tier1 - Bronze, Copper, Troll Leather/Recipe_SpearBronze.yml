@@ -1,0 +1,14 @@
+name: SpearBronze
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:5:3:True
+- Bronze:6:4:True
+- DeerHide:2:1:True
+- Coins:60:60:False

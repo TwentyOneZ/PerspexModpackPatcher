@@ -1,0 +1,17 @@
+name: FistBjornUndeadClaw
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BjornHide:2:1:True
+- UndeadBjornRibcage:2:1:True
+- BlackMetal:2:1:True
+- LinenThread:4:2:True
+- Coins:720:720:False

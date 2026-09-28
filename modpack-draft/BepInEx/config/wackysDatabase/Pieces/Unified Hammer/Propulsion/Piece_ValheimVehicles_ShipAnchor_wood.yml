@@ -1,0 +1,53 @@
+name: ValheimVehicles_ShipAnchor_wood
+piecehammer: Hammer
+m_name: ValheimVehicles_ShipAnchor_wood
+sizeMultiplier: 1
+m_description: $valheim_vehicles_ship_anchor_desc
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: ''
+piecehammerCategory: Propulsion
+categoryOrderBeforePrefab: 
+minStationLevel: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+allowedInDeepSnow: false
+requireDeepSnow: false
+spaceRequirement: 0
+repairPiece: false
+isUpgrade: false
+usage: 0
+blockingPieces: []
+canRockJade: false
+wearNTearData: 
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- RoundLog:20:0:True
+- Chain:3:0:True

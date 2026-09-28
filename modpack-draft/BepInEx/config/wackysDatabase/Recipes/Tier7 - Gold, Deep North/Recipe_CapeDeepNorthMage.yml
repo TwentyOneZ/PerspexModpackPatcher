@@ -1,0 +1,20 @@
+name: CapeDeepNorthMage
+clonePrefabName: 
+craftingStation: $piece_magetable
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- SealHide:6:3:True
+- NornThread:2:1:True
+- Gold:5:2:True
+- Eitr:15:5:True
+- Upgrader7Armor:1:0:False
+- Coins:3840:3840:False

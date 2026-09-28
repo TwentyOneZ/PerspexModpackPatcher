@@ -1,0 +1,11 @@
+name: GemCyanShattered
+clonePrefabName: Shattered_Cyan_Crystal
+craftingStation: $jc_transmution_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $jc_transmution_table
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Cyan_Stone:1:1:True

@@ -1,0 +1,17 @@
+name: ArmorSerpentLegs
+clonePrefabName: null
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_forge
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Iron:10:3:True
+- SerpentScale:12:4:True
+- Coins:240:120:False

@@ -1,0 +1,11 @@
+name: CoinsYellow
+clonePrefabName: Coins
+craftingStation: $jc_transmution_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $jc_transmution_table
+amount: 10
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Shattered_Yellow_Crystal:1:1:True

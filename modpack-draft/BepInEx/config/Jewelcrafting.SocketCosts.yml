@@ -1,0 +1,216 @@
+# Resource map is taken from the Loot yaml
+
+# Use "3: disabled" to allow items from a specific biome to only have 2 sockets, for example.
+# If you leave out a number, it will take the resource cost of the previous socket.
+
+socket cost:
+  meadows:
+    1:
+      flint: 2
+      LeatherScraps: 5
+      Coins: 10
+    2:
+      flint: 3
+      DeerHide: 5
+      Coins: 20
+    3:
+      flint: 5
+      BoneFragments: 5
+      Coins: 40
+    4:
+      flint: 8
+      HardAntler: 3
+      Coins: 80
+    5:
+      flint: 10
+      Boss_Crystal_7: 1
+      Coins: 160
+  Black Forest:
+    1:
+      bronze: 1
+      MushroomYellow: 5
+      Coins: 20
+    2:
+      bronze: 2
+      GreydwarfEye: 10
+      Coins: 40
+    3:
+      bronze: 3
+      AncientSeed: 3
+      Coins: 80
+    4:
+      bronze: 5
+      CryptKey: 1
+      Coins: 160
+    5:
+      bronze: 8
+      Boss_Crystal_1: 1
+      Coins: 320
+  swamp:
+    1:
+      iron: 1
+      Ooze: 5
+      Coins: 30
+    2:
+      iron: 2
+      WitheredBone: 5
+      Coins: 60
+    3:
+      iron: 3
+      Root: 5
+      Coins: 120
+    4:
+      iron: 5
+      Wishbone: 1
+      Coins: 240
+    5:
+      iron: 8
+      Boss_Crystal_2: 1
+      Coins: 480
+  ash lands:
+    1:
+      Flametal: 1
+      SurtlingCore: 1
+      Coins: 60
+    2:
+      Flametal: 2
+      SurtlingCore: 2
+      Coins: 120
+    3:
+      Flametal: 3
+      SurtlingCore: 4
+      Coins: 240
+    4:
+      Flametal: 5
+      SurtlingCore: 7
+      Coins: 480
+    5:
+      Flametal: 8
+      SurtlingCore: 11
+      Coins: 960
+  ocean:
+    1:
+      chitin: 3
+      Fish1: 1
+      Coins: 40
+    2:
+      chitin: 5
+      Fish2: 1
+      Coins: 80
+    3:
+      chitin: 10
+      Fish5: 1
+      Coins: 160
+    4:
+      chitin: 15
+      SerpentScale: 3
+      Coins: 320
+    5:
+      chitin: 20
+      TrophySerpent: 1
+      Coins: 640
+  mountain:
+    1:
+      silver: 1
+      WolfFang: 5
+      Coins: 40
+    2:
+      silver: 2
+      FreezeGland: 5
+      Coins: 80
+    3:
+      silver: 3
+      WolfHairBundle: 5
+      Coins: 160
+    4:
+      silver: 5
+      DragonTear: 8
+      Coins: 320
+    5:
+      silver: 8
+      Boss_Crystal_4: 1
+      Coins: 640
+  plains:
+    1:
+      Black metal: 1
+      Cloudberry: 5
+      Coins: 50
+    2:
+      Black metal: 2
+      Needle: 5
+      Coins: 100
+    3:
+      Black metal: 3
+      LoxPelt: 5
+      Coins: 200
+    4:
+      Black metal: 5
+      YagluthDrop: 3
+      Coins: 400
+    5:
+      Black metal: 8
+      Boss_Crystal_5: 1
+      Coins: 800
+  mistlands:
+    1:
+      Refined eitr: 1
+      Softtissue: 5
+      Coins: 60
+    2:
+      Refined eitr: 2
+      Carapace: 5
+      Coins: 120
+    3:
+      Refined eitr: 3
+      Mandible: 5
+      Coins: 240
+    4:
+      Refined eitr: 5
+      QueenDrop: 3
+      Coins: 480
+    5:
+      Refined eitr: 8
+      Boss_Crystal_3: 1
+      Coins: 960
+  ash lands:
+    1:
+      Flametal: 1
+      Asksvin Hide: 5
+      Coins: 70
+    2:
+      Flametal: 2
+      Morgen Sinew: 3
+      Coins: 140
+    3:
+      Flametal: 3
+      Morgen Heart: 1
+      Coins: 280
+    4:
+      Flametal: 5
+      FaderDrop: 3
+      Coins: 560
+    5:
+      Flametal: 8
+      Boss_Crystal_8: 1
+      Coins: 1120
+  deep north:
+    1:
+      Bloodgold: 1
+      Seal Pelt: 5
+      Coins: 80
+    2:
+      Bloodgold: 2
+      Moose Hide: 5
+      Coins: 160
+    3:
+      Bloodgold: 3
+      Nornathread: 5
+      Coins: 320
+    4:
+      Bloodgold: 5
+      FrozenKingDrop: 1
+      Coins: 640
+    5:
+      Bloodgold: 8
+      Boss_Crystal_9: 1
+      Coins: 1280

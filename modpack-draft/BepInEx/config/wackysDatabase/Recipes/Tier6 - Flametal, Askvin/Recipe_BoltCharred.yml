@@ -1,0 +1,18 @@
+name: BoltCharred
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- CharredBone:2:1:True
+- Blackwood:8:1:True
+- Feathers:2:1:True
+- Coins:1820:1820:False

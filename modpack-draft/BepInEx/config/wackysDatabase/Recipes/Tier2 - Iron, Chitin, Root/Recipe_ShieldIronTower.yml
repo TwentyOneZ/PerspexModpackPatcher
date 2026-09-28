@@ -1,0 +1,13 @@
+name: ShieldIronTower
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:15:10:True
+- Iron:10:5:True
+- Coins:120:120:False

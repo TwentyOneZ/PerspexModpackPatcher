@@ -1,0 +1,11 @@
+name: MushroomSeeds
+clonePrefabName: MushroomSeeds
+craftingStation: $piece_preptable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Mushroom:5:0:True

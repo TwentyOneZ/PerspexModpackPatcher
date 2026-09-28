@@ -1,0 +1,14 @@
+name: THSwordKrom
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Iron:30:15:True
+- Bronze:20:10:True
+- ScaleHide:5:5:True
+- Coins:960:960:False

@@ -1,0 +1,1084 @@
+vfx_creature_soothed(Clone)
+vfx_creature_soothed(Clone)
+vfx_creature_soothed(Clone)
+vfx_creature_soothed(Clone)
+vfx_creature_soothed(Clone)
+vfx_creature_soothed(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_clubhit(Clone)
+vfx_BloodHit 1
+vfx_Potion_health_medium(Clone)
+vfx_Potion_health_medium(Clone)
+vfx_Potion_stamina_medium(Clone)
+vfx_Potion_stamina_medium(Clone)
+vfx_Potion_stamina_medium(Clone)
+vfx_Potion_stamina_medium(Clone)
+vfx_Potion_stamina_medium(Clone)
+vfx_BloodHit 1
+vfx_water_surface
+vfx_water_surface
+vfx_gfire
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_planes
+vfx_bath_mist
+vfx
+vfx
+vfx_water_surface
+vfx_water_surface
+vfx_water_surface
+vfx_water_surface
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_PlanBuildConnection
+vfx_water_surface
+vfx_water_surface
+vfx_water_surface
+vfx_water_surface
+vfx_RockHit (1)
+vfx_reaper_destroyed
+vfx_Splosh (1)
+vfx_HitSparks
+vfx_blocked
+vfx_arrowhit
+vfx_BloodHit 1
+vfx_jc_crossbow
+VFX_Arrow_Explosion
+VFX_Reaper_Weapon_CamShake
+VFX_Reaper_Bow_Fire
+VFX_Reaper_Weapon_Hit
+vfx_BloodHit 1
+VFX_Orbital
+vfx_reaper_hit
+vfx_RockHit (1)
+VFX_Crystal_Explosion_Blue
+VFX_Crystal_Explosion_Red
+vfx_BloodHit 1
+vfx_RockHit (1)
+vfx_crystal_destroyed
+VFX_Boss_Death
+vfx_reaper_water_surface
+vfx_puff_small
+vfx_Destroy_Alchemy
+vfx_SawDust
+VFX_StoneRed
+vfx_potionhit
+vfx_BloodHit 1
+vfx_RockHit (1)
+VFX_Crystal_Explosion_Blue
+vfx_clubhit
+VFX_Electricity
+vfx_Splosh (1)
+vfx_troll_rock_destroyed
+vfx_sledge_iron_hit
+VFX_Crystal_Explosion_Green
+VFX_Group_Loneliness
+VFX_Hearts_Start
+VFX_StoneBlack
+vfx_CheatDeath
+VFX_Hearts_Start
+vfx_asksvin_spawn
+VFX_FriendLine_Render
+VFX_Buff_Green
+vfx_bow_fire
+vfx_blocked
+vfx_poisonarrow_hit
+vfx_ice_hit
+vfx_SawDust
+vfx_RockHit (1)
+vfx_stone_wall_4x2_destroyed
+vfx_gfire
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_blocked
+vfx_Splosh (1)
+vfx_HitSparks
+vfx_Damaged_VikingShip
+vfx_Place_VikingShip
+vfx_water_surface
+vfx_WaterImpact_VikingShip
+vfx_clubhit
+vfx_SawDust
+vfx_watersplash_longship
+vfx_Place_wood_roof
+vfx_Place_wood_beam
+vfx_SawDust
+vfx_Splosh (1)
+vfx_Harpooned
+vfx_troll_rock_destroyed
+vfx_sledge_iron_hit
+vfx_Place_wood_pole
+vfx_walltorch_addFuel
+vfx_Place_chest
+vfx_water_surface
+vfx_Place_wood_floor
+vfx_water_surface
+vfx_WaterImpact_Raft
+vfx_water_surface_fish
+vfx_Place_wood_wall
+vfx_Place_workbench
+vfx_Place_Karve
+vfx_Destroyed_Karve
+vfx_water_surface
+vfx_Damaged_Karve
+vfx_WaterImpact_Karve
+vfx_SawDust
+vfx_water_surface
+vfx_SawDust_abomination
+vfx_Place_wood_floor
+BMP_Vfx_ArcticStaff_Iceblocker_Destroyed
+BMP_Vfx_ArcticStaff_Ice_Hit
+BMP_Vfx_ArcticStaff_Ice_Hit_2
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_ice_hit
+BMP_Vfx_Water_Surface
+BMP_Vfx_Blocked
+bmp_vfx_lightningstaff_fire
+vfx_ice_hit
+bmp_vfx_dragon_ice_hit
+vfx_RockHit (1)
+vfx_FireballHit
+vfx_RockHit (1)
+bmp_vfx_Place_wood_pole
+BMP_Vfx_ToxicSlime_Attack
+vfx_FireballHit
+BMP_Vfx_ToxicSlime_Hit
+vfx_RockHit (1)
+BMP_Vfx_Hitsparks
+BMP_Vfx_Creature_Soothed
+BMP_Vfx_IcycleSlime_Attack
+BMP_Vfx_IcycleSlime_Hit
+BMP_Vfx_IcycleSlime_Death
+vfx_Splosh (1)
+vfx_water_surface
+vfx_RockHit (1)
+vfx_RockHit (1)
+BMP_Vfx_LightningSlime_Attack
+BMP_Vfx_LightningSlime_Death
+BMP_Vfx_LightningSlime_Hit
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_ice_hit
+BMP_Vfx_EikthyrsStaff_Clubhit
+vfx_RockHit (1)
+BMP_Vfx_FierySlime_Death
+vfx_RockHit (1)
+BMP_Vfx_FierySlime_Attack
+BMP_Vfx_ToxicSlime_Death
+BMP_Vfx_FierySlime_Hit
+vfx_RockHit (1)
+bse_vfx_SawDust
+bse_vfx_Place_workbench
+bse_vfx_MarbleHit
+bse_vfx_Place_stone_wall_2x1
+vfx_RockHit (1)
+vfx_RockHit (1)
+bse_vfx_MarbleDestroyed
+JVLmock_vfx_RockDestroyed
+vfx_RockHit (1)
+JVLmock_vfx_Place_stone_wall_2x1
+JVLmock_vfx_Place_wood_roof
+JVLmock_vfx_Place_wood_floor
+JVLmock_vfx_Place_wood_wall_half
+JVLmock_vfx_stone_stair_destroyed
+vfx_RockHit (1)
+JVLmock_vfx_Place_wood_stair
+JVLmock_vfx_Place_chest
+LevelUpVFX2
+LevelUpVFX
+vfx_Potion_stamina_medium
+vfx_Place_forge
+vfx_SawDust
+vfx_raven_feathers
+vfx_raven_land
+vfx_Place_cauldron
+vfx_Place_workbench
+vfx_BloodHit 1
+vfx_fermenter_add
+vfx_MeadSplash
+vfx_RockDestroyed
+vfx_RockHit (1)
+vfx_Place_smelter
+vfx_SawDust
+VFX_BluePotionDrink
+VFX_StoneBlue
+VFX_PurplePotionDrink
+VFX_GreenPotionDrink
+vfx_BloodHit 1
+VFX_StoneBlack
+PP_vfx_potionhit
+vfx_AlcSkillProc
+vfx_SawDust_0
+VFX_Butterflies
+VFX_RedPotionDrink
+VFX_StoneRed
+VFX_StoneGreen
+vfx_Destroy_Alchemy
+vfx_CheatDeath
+VFX_Potion_Eitr
+vfx_ExtensionConnection 1
+VFX_Electricity
+VFX_Butterflies
+VFX_StonePurple
+vfx_staff_shield
+JVLmock_vfx_Place_workbench
+JVLmock_vfx_SawDust
+JVLmock_vfx_Place_wood_pole
+JVLmock_vfx_pickable_pick
+vfx_clubhit
+vfx_FloatingRuneSprite_OceanCurrents
+vfx_OceanCurrents
+vfx_FloatingRuneSprite_Decumberance
+CanopyField-NoVFX
+vfx_Decumberance
+vfx_AlertnessIndicator
+JVLmock_vfx_Place_stone_floor
+Hatchling_VFX
+Eikthyr_VFX
+GreydwarfShaman_VFX2
+Serpent_VFX
+StoneGolemBuff_VFX
+Ulv_VFX
+GreydwarfGem_VFX2
+Elder_VFX
+GreydwarfGem_VFX
+Elder_VFX2
+Moder_VFX
+WolfGem_VFX
+BowlAttack_VFX
+Wraith_VFX2
+Hatchling_VFX2
+BlobGem_VFX
+TrollGem_VFX
+Surtling_VFX
+Yagluth_VFX
+Skeleton_VFX
+Moder_Main_VFX
+Cultist_VFX
+Wraith_VFX
+TarBlob_VFX
+GreydwarfShaman_VFX
+Fenring_VFX
+Bonemass_VFX
+Abomination_VFX
+vfx_SawDust
+vfx_Place_forge
+vfx_Place_stone_wall_2x1
+vfx_HitSparks
+vfx_SawDust
+vfx_Splosh (1)
+vfx_BloodHit 1
+vfx_arrowhit
+vfx_blocked
+vfx_Splosh (1)
+vfx_sledge_iron_hit
+vfx_troll_rock_destroyed
+vfx_HitSparks
+vfx_Splosh (1)
+vfx_clubhit
+vfx_Place_wood_beam
+vfx_SawDust
+vfx_SawDust
+vfx_Place_wood_roof
+vfx_Place_bed
+vfx_RockHit
+vfx_Place_wood_pole
+vfx_FireAddFuel
+vfx_RockHit (1)
+JVLmock_vfx_RockHit
+JVLmock_vfx_SawDust
+JVLmock_vfx_Place_portal
+vfx_Place_wood_pole
+vfx_beehive_hit
+vfx_Place_stone_floor
+vfx_Place_wood_floor
+vfx_RockHit
+vfx_RockHit (1)
+vfx_Place_bed
+vfx_SawDust
+vfx_BloodHit 1
+vfx_coin_pile_destroyed
+vfx_Splosh (1)
+vfx_Place_forge
+vfx_coin_stack_destroyed
+vfx_Place_stone_wall_4x2
+vfx_Place_wood_wall
+vfx_Place_stone_wall_2x1
+vfx_RockDestroyed
+vfx_Place_bed
+vfx_Place_beehive
+vfx_Place_wood_stair
+vfx_Place_workbench
+vfx_beehive_hit
+vfx_Place_wood_roof
+vfx_stone_wall_4x2_destroyed
+vfx_RockHit (1)
+vfx_Place_stone_floor_2x2
+vfx_stone_stair_destroyed
+vfx_MeadSplash
+vfx_Place_wood_beam
+vfx_Place_cauldron
+vfx_HitSparks
+vfx_cooking_station_transform
+vfx_MeadSplash
+vfx_coin_stack_destroyed
+vfx_Place_stone_wall_2x1
+vfx_RockHit (1)
+vfx_Place_wood_wall_half
+vfx_RockHit (1)
+vfx_pickable_pick
+vfx_arrowhit
+vfx_BloodHit 1
+vfx_ice_hit
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_wolf_death
+vfx_water_surface
+vfx_creature_soothed
+vfx_Splosh (1)
+vfx_corpse_destruction_small
+vfx_wolf_hit
+vfx_boar_love
+vfx_boar_birth
+vfx_HitSparks
+vfx_water_surface
+vfx_BloodHit 1
+vfx_BloodHit_decals
+vfx_ice_hit
+vfx_ColdBall_Hit
+vfx_RockHit (1)
+vfx_MarbleHit
+vfx_Place_stone_wall_2x1
+vfx_ExtensionConnection
+vfx_MarbleDestroyed
+vfx_SawDust
+vfx_Place_wood_pole
+vfx_HitSparks
+vfx_stone_floor_2x2_destroyed
+vfx_RockHit (1)
+vfx_Place_wood_wall_roof
+vfx_Firework_Rocket
+vfx_Firework_Rocket_Blue
+vfx_RockHit
+vfx_Firework_Rocket_Cyan
+vfx_Firework_Rocket_Purple
+vfx_FireWork_BlackCore
+vfx_FireAddFuel
+vfx_Firework_Rocket_Red
+vfx_FireWork_SurtlingCore
+vfx_FireWork_ThunderStone
+vfx_Firework_Rocket_Yellow
+vfx_Firework_Rocket_Green
+vfx_CoalHit
+vfx_CoalDestroyed
+vfx_Ashruin_window6_destroyed
+vfx_tree_fall_hit
+vfx_blocked
+vfx_RockDestroyed
+vfx_goblin_woodwall_destroyed
+vfx_clubhit
+vfx_watersplash_longship
+vfx_Damaged_VikingShip
+vfx_Destroyed_VikingShip
+vfx_Place_VikingShip
+vfx_WaterImpact_VikingShip
+vfx_water_surface
+vfx_pickable_pick
+vfx_player_death
+vfx_BloodHit 1
+vfx_water_surface_fish
+vfx_crow_death
+vfx_lox_groundslam
+vfx_RockHit (1)
+vfx_Place_wood_wall
+vfx_troll_rock_destroyed
+vfx_sledge_iron_hit
+vfx_Splosh (1)
+vfx_lever
+vfx_Place_chest
+vfx_serpent_watersurface
+vfx_GraustenDestroyed_large
+vfx_water_surface
+vfx_RockHit_Marble
+vfx_RockDestroyed_marble
+vfx_greydwarf_hit
+vfx_raven_feathers
+vfx_raven_land
+vfx_hatchling_hurt
+vfx_gdking_stomp
+vfx_perfectblock
+vfx_tar_surface
+vfx_player_hit
+vfx_auto_pickup
+vfx_skilllevelup
+vfx_arrowhit
+vfx_Potion_health_medium
+vfx_Place_turret
+vfx_MeadSplash
+vfx_RockHit (1)
+vfx_firlogdestroyed_half
+vfx_ashland_wall_2x2_destruction
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_dvergr_curtain_banner_destroyed
+vfx_water_surface
+vfx_troll_footstep_water
+vfx_ProjectileHit
+vfx_Place_wood_roof
+vfx_Place_cauldron
+vfx_dvergr_beam_destroyed
+vfx_corpse_destruction_large
+vfx_RockHit (1)
+vfx_Ash_Arch2_Broken1_destroyed
+vfx_RockHit (2)
+vfx_ice_hit
+vfx_wood_stack_destroyed
+vfx_dvergrcreep_support_destroyed
+vfx_turnip_grow
+vfx_Place_smallitem
+vfx_barley_destroyed
+vfx_water_surface
+vfx_hatchling_death
+vfx_Splosh (1)
+vfx_smelter_addfuel
+vfx_Place_smelter
+vfx_smelter_addore
+vfx_smelter_produce
+vfx_Place_wood_beam
+vfx_leech_death
+vfx_leech_hit
+vfx_corpse_destruction_medium
+vfx_spawn_small
+vfx_lightningstaff_fire
+vfx_mountainkit_chair_destroyed
+vfx_fir_oldlog
+vfx_Place_wood_floor
+vfx_stonegolem_footstep
+vfx_greydwarf_shaman_pray
+vfx_dragon_coldbreath
+vfx_Tared
+Slayer_Blood_Vfx
+vfx_eikthyr_footstep
+vfx_groundtorch_addFuel
+vfx_Place_mud_road
+vfx_dvergr_wood_wall04_destroyed
+vfx_dvergr_stakewall_destroyed
+vfx_Ashpiece_roof_destroyed
+vfx_AshPieceDestroyed
+vfx_mountainkit_table_destroyed
+vfx_wood_black_stack_destroyed
+vfx
+vfx_ashlandsbow_blood_fire
+vfx_BloodHit 1
+vfx_dvergrcreep_beam_destroyed
+vfx_beech_cut
+vfx_RockHit (1)
+vfx_ColdBall_launch
+vfx_skeleton_death
+vfx_MudDestroyed
+vfx_MudHit
+vfx_crate_destroyed
+vfx_Splosh (1)
+vfx_Splosh (1)
+vfx_troll_attack_hit
+vfx_goblin_death
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_GraustenDestroyed
+vfx_shrub_heath_hit
+vfx_BloodHit 1
+vfx_foresttroll_hit
+vfx_skeleton_mace_hit
+vfx_drippingwater
+vfx_BombBlob_explode_lava
+niedhogg_naturevfx
+vfx_BloodHit
+vfx_Place_workbench
+vfx_SawDust_Ashlands
+vfx_ashlandstreecut
+vfx_firetree_regrow
+vfx_wolf_hit
+vfx_wolf_death
+vfx_TrollPheromones
+vfx_Place_stone_wall_4x2
+vfx_troll_rock_destroyed
+vfx_Splosh (2)
+vfx_Splosh (1)
+vfx_troll_rock_destroyed (1)
+vfx_GiantMetal_destroyed
+vfx_catapult_load
+vfx_RockHit (1)
+vfx_RockHit_Obsidian
+vfx_RockHit (2)
+vfx_catapult_release
+vfx_corpse_destruction_small
+vfx_cloth_hanging_destroyed
+vfx_RockHit (1)
+vfx_Frost
+vfx_BloodHit 1
+vfx_guardstone_connection
+vfx_kiln_addore
+vfx_Place_charcoalkiln
+vfx_BloodHit 1
+vfx_boar_death
+vfx_corpse_destruction_small
+vfx_BloodHit 1
+vfx_seagull_death
+vfx_BloodHit 1
+vfx_catapult_legdown
+vfx_RockHit (1)
+vfx_ice_hit
+vfx_pinetreecut
+vfx_RockHit (1)
+vfx_fenrirhide_hanging_destroyed
+vfx_shieldgenerator_refuel
+vfx_greydwarf_death
+vfx_BloodHit 1
+vfx_bones_pick
+vfx_beech_small1_destroy
+vfx_water_surface
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_Place_brazierceiling01
+vfx_yggashoot_cut
+vfx_tentaroot_hit
+vfx_troll_rock_destroyed
+vfx_BugRepellent
+vfx_swamptree_cut
+vfx_troll_footstep
+vfx_blob_attack
+vfx_wood_fine_stack_destroyed
+vfx_bowl_AddItem
+vfx_dvergr_curtain_banner_destroyed_horisontal
+vfx_FernAshlands_destroyed
+vfx_ice_destroyed_shelf
+vfx_RockHit (1)
+vfx_LightFoot
+vfx_greydwarfnest_destroyed
+vfx_greydwarfnest_hit
+vfx_beech_small2_destroy
+Slayer_Lightning_Vfx
+vfx_ghost_death
+vfx_ghost_hit
+vfx_RockHit (1)
+vfx_ashland_ruin_wall_windows_broken_4x6_destruction
+vfx_RockHit (2)
+vfx_ForgeAddFuel
+vfx_WaterImpact_Karve
+vfx_DraugrSpawn
+vfx_beehive_hit
+vfx_beehive_hit
+vfx_oak_cut
+vfx_RockHit (1)
+vfx_BombBlob_explode_frost
+vfx_boar_hit
+vfx_ashlandsbow_lightning_fire
+vfx_RockHit (1)
+vfx_birch2_aut_cut
+vfx_BloodHit 1
+vfx_FireballHit
+vfx_BombBlob_explode_poisonelite
+vfx_RockDestroyed_large
+vfx_HitSparks
+vfx_ImpDeath
+vfx_bow_fire
+vfx_fermenter_add
+vfx_MeadSplash
+vfx_draugrpile_hit
+vfx_blastfurance_addfuel
+vfx_BloodHit 1
+vfx_boar_birth
+vfx_boar_love
+vfx_creature_soothed
+vfx_RockHit (1)
+vfx_ice_hit
+vfx_pinelogdestroyed
+vfx_BonemassHit
+vfx_Place_stone_floor
+vfx_firlogdestroyed
+vfx_blob_death
+vfx_blob_hit
+vfx_poisonarrow_hit
+vfx_CharredBanner2_destroyed
+vfx_HitSparks
+vfx_CharredBanner1_destroyed
+vfx_ashland_wall_2x2_corner_destruction
+vfx_troll_rock_destroyed
+vfx_gdking_projectile_hit
+vfx_Ashruin_steepstair_destroyed
+vfx_Place_wood_stair
+vfx_UndeadBurn
+VFX
+Eldner_Blood_Vfx
+vfx_bonfire_destroyed
+vfx_bonfire_AddFuel
+vfx_draugrpile_destroyed
+vfx_Potion_stamina_medium
+vfx_crossbow_lightning_fire
+vfx_dvergrcomponentcrate_destruction
+vfx_bonepile_destroyed
+vfx_skeleton_hit
+vfx_ashland_gate_destruction
+vfx_Ash_Arch2_Broken2_destroyed
+vfx_seekerbrute_groundslam
+vfx_coin_stack_destroyed
+vfx_FernAshlands_puff
+vfx_SawDust_abomination
+vfx_beechlog_destroyed
+vfx_barnacle_destroyed
+vfx_barnacle_hit
+vfx_Place_forge
+vfx_spikey_beam_destruction
+vfx_ice_hit
+vfx_BloodHit 1
+vfx_deer_hit
+vfx_eikthyr_death
+vfx_fenring_hurt
+vfx_fenring_cultist_hildir_death
+vfx_RockHit (1)
+vfx_Place_bed
+vfx_Potion_eitr_minor
+vfx_charredcross_spawner_destroyed
+vfx_FireballHit
+vfx_archerytarget_bullseye_quint
+vfx_Freezing
+vfx_BloodHit 1
+vfx_iceblocker_destroyed
+vfx_water_surface
+vfx_troll_summoned_death
+vfx_oaklogdestroyed_half
+vfx_firetreecut
+vfx_CoalHit
+vfx_BloodHit 1
+vfx_greydwarf_root_destroyed
+vfx_BloodHit_decals
+vfx_BloodHit 1
+vfx_ExtensionConnection_mage
+vfx_Place_refinery
+vfx_standing_brazier_destroyed
+vfx_BombBlob_explode_poison
+vfx_dragon_footstep
+vfx_dragon_footstep_snow
+vfx_dragon_hurt
+vfx_dragon_death
+vfx_WaterImpact_Raft
+vfx_stubbe
+vfx_water_surface
+vfx_water_surface
+vfx_Poison
+vfx_RockDestroyed_Obsidian
+vfx_BonemassDeath
+vfx_stonegolem_footstep_snow
+vfx_RockHit (1)
+vfx_greydwarf_elite_death
+vfx_Place_raise
+vfx_torch_hit
+vfx_BloodHit 1
+vfx_blobelite_attack
+vfx_Place_digg
+vfx_ice_hit
+vfx_blastfurnace_produce
+vfx_MeadSwimmer
+vfx_Destroyed_Raft
+vfx_Place_stone_wall_2x1
+vfx_bush_destroyed_heath
+vfx_dvergrcreep_wood_wall02_destroyed
+vfx_blob_frost_attack
+vfx_skullpile_destroyed
+vfx_Burning
+vfx_Ashruin_window3_destroyed
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_crypt_skeleton_chest_destroyed
+vfx_ carrion_destroyed
+vfx_troll_log_hitground
+vfx_BloodHit 1
+vfx_blob_frost_death
+vfx_blob_frost_hit
+vfx_water_surface
+vfx_ice_hit
+vfx_fenring_death
+vfx_BloodHit 1
+vfx_ashlandsbow_nature_fire
+vfx
+vfx_dvergpost_destroyed
+vfx_Ashruin_wall5_destroyed
+vfx_serpent_attack_trigger
+vfx_frostarrow_hit
+vfx_neck_hit
+vfx_BloodHit_decals
+vfx_goblin_hit
+vfx_dvergr_stake_destroyed
+vfx_BloodHit 1
+vfx_mistlands_mist
+vfx_gjall_spit
+vfx_watersplash_karve
+vfx_Place_Karve
+vfx_drippingwater
+vfx_draugr_hit
+vfx_draugr_death
+vfx_troll_groundslam
+vfx_blobtar_death
+vfx_blobtar_hit
+vfx_water_surface
+vfx_water_surface
+vfx_Place_Raft
+vfx_Damaged_Raft
+vfx_water_surface
+vfx_BloodHit 1
+vfx_Cold
+vfx_skeleton_fire_death
+vfx_stonegolem_attack_hit
+vfx_Place_throne02
+vfx_BloodHit 1
+vfx_Splosh (1)
+vfx_MeadSplash
+vfx_arbalest_fire
+vfx_BloodHit 1 (1)
+vfx_bush2_en_destroyed
+vfx_bush_leaf_puff
+vfx_bush_destroyed
+vfx_bone_stack_destroyed
+vfx_hjall_spit_hit
+vfx_RockHit (1)
+vfx_ice_hit
+vfx_ulv_death
+vfx
+vfx
+vfx_dvergrcreep_wood_wall03_destroyed
+vfx_RockHit (1)
+vfx_GuckSackHit
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_BloodHit 1
+vfx_oaklogdestroyed
+vfx_BloodHit 1
+vfx_water_surface
+vfx_Place_HildirTableClothes
+vfx_BloodHit 1
+vfx_wood_core_stack_destroyed
+vfx_grausten_stair_destroyed
+vfx_lox_love
+vfx_HealthUpgrade
+vfx_lootspawn
+vfx_StaffShield
+vfx_Place_HildirClothesRack
+vfx_Place_spinningwheel
+vfx_BloodHit 1
+vfx_bonemawserpent_death
+vfx_corpse_destruction_large
+vfx_dvergr_wood_wall03_destroyed
+vfx_BloodHit 1
+vfx_BloodHit 1 (1)
+vfx_watersplash_bathtub
+vfx_fermenter_tap
+vfx_bjorn_groundslam
+vfx_RockHit (1)
+vfx_ColdBall_Hit
+vfx_ice_hit
+vfx_Harpooned
+vfx_walltorch_addFuel
+vfx_RockHit (1)
+vfx_Wet
+vfx_RockHit (2)
+vfx_Ashruin_window2_destroyed
+vfx_RockHit (1)
+vfx_Place_oven
+vfx_MeadBzerker
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_wagon_destroyed
+vfx_BloodHit 1
+vfx_beehive_destroyed
+vfx_Smoked
+vfx_BloodHit 1
+vfx_Place_stone_floor_2x2
+vfx_troll_summoned_prespawn
+vfx_lox_soothed
+vfx_RockHit (1)
+vfx_ice_hit
+vfx_mill_produce
+vfx_Place_windmill
+vfx_mill_add
+vfx_pinetree_regrow
+vfx_wraith_death
+vfx_wraith_hit
+vfx_MeadHasty
+vfx_BloodHit 1
+vfx_deer_death
+vfx_MeadTamer
+vfx_Splosh (1)
+vfx_Ashruin_wall3_destroyed
+vfx_GuckSackSmall_Destroyed
+vfx_MeadStrength
+vfx_Destroyed_AshlandsShip
+vfx_GuckSackDestroyed
+vfx_sledge_hit
+vfx_BloodDeath
+vfx_Place_portal
+vfx_birch2_cut
+vfx_dvergr_pole_destroyed
+vfx_coin_pile_destroyed
+vfx_stone_stair_destroyed
+vfx_dragonegg_destroy
+vfx_barrle_destroyed
+vfx_WishbonePing
+vfx_stonegolem_hurt
+vfx_Place_beehive
+vfx_charredbanner_destroyed
+vfx_Place_replant
+vfx_shrub_2_hit
+vfx_pinelogdestroyed_half
+vfx_fenring_cultist_death
+vfx_goblinbrute_hildir_death
+vfx_firetreecut_dead
+vfx_stonegolem_wakeup
+vfx_HearthAddFuel
+vfx_GodExplosion
+vfx_bush2_e_hit
+vfx_Damaged_Karve
+vfx_ArcheryTarget_hit
+vfx_StaminaUpgrade
+vfx_blastfurnace_addore
+vfx_damaged_cart
+vfx_Place_cart
+vfx_shrub_2_destroyed
+vfx_wood_yggdrasil_stack_destroyed
+vfx_shrub_2_heath_destroyed
+vfx_firetreecut_dead_abomination
+vfx_prespawn_fader
+vfx_archerytarget_bullseye
+vfx_ice_destroyed
+vfx_prespawn
+vfx_morgenhole_pile_destroyed
+vfx_vines_destroyed
+vfx_crossbow_blood_fire
+vfx_Ashruin_wall4_destroyed
+vfx_kiln_produce
+vfx_GoblinShield
+vfx_Place_wood_wall_half
+vfx_birch1_aut_cut
+vfx_troll_death
+vfx_Place_darkwood_gate
+vfx_birch1_cut
+vfx_dvergrchair_destroyed
+vfx_BombBlob_explode_tar
+vfx_serpent_hurt
+vfx_odin_despawn
+vfx_Ashruin_window5_destroyed
+vfx_FlameBall_launch
+vfx_ashlandslogdestroyed
+vfx_Place_cookingstation_iron
+vfx_swamp_mist
+vfx_goblinbrute_hit
+vfx_frosttroll_hit
+vfx_crossbow_nature_fire
+vfx_cartograpertable_write
+vfx_stone_wall_4x2_destroyed
+vfx_ashlandslogdestroyed_half
+vfx_Place_HildirFabricRoll
+vfx_darkland_groundfog
+vfx_stonegolem_death
+vfx_Slimed
+vfx_spawn
+vfx_TrainingDummy_destruction
+vfx_cooking_station_transform
+vfx_stone_floor_destroyed
+vfx_dvergrcreep_pole_destroyed
+vfx_edge_clouds
+vfx_dragon_ice_hit
+vfx_silvermace_hit
+vfx_neck_death
+vfx_ocean_clouds
+vfx_Destroyed_Karve
+vfx_offering
+vfx_dvergr_wood_wall02_destroyed
+vfx_beechlog_half_destroyed
+vfx_goblinbrute_death
+vfx_pick_wisp
+vfx_bush_leaf_puff_heath
+vfx_spawn_large
+vfx_dvergrtable_destroyed
+vfx_skeleton_big_death
+vfx_Ashruin_window4_destroyed
+vfx_dvergrstool_destroyed
+vfx_shieldgenerator_startup
+vfx_yggashoot_small1_destroy
+vfx_goblinking_beam_OLD
+vfx_TrainingDummy_hit
+vfx_serpent_death
+vfx_CharredBanner3_destroyed
+vfx_creep_hangingdetroyed
+vfx_archerytarget_bullseye_double
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_RockHit (3)
+vfx_BloodHit 1
+vfx_troll_rock_destroyed
+vfx_Splosh (1)
+vfx_swamp_mist (1)
+vfx_BloodHit 1
+vfx_BloodHit 1
+VFX
+Slayer_Nature_Vfx
+vfx_drippingwater
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_Firework_Sparkler
+vfx_BloodHit 1
+vfx_clubhit
+vfx_HitSparks
+vfx_BloodHit 1
+vfx_BloodHit 1
+Eldner_Nature_Vfx
+vfx_troll_rock_destroyed
+vfx_RockHit (1)
+VFX
+Eldner_Lightning_Vfx
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit_decals
+vfx_troll_rock_destroyed
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_bath_mist
+vfx_planes
+vfx_RockHit (1)
+vfx_fenring_flames
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_beehive_hit
+vfx_RockHit (1)
+vfx_RockHit (1)
+VFX
+vfx_BloodHit 1
+vfx_RockHit (1)
+vfx_CoalHit
+niedhogg_bloodvfx
+vfx_RockHit (3)
+vfx_RockHit (4)
+vfx_BloodHit 1
+Burny vfx
+vfx_RockHit (1)
+VFX
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_water_surface
+vfx_RockHit (1)
+vfx_RockDestroyed
+vfx_water_surface
+vfx_Splosh (3)
+vfx_Splosh (5)
+vfx_Splosh (2)
+vfx_Splosh (4)
+vfx_Splosh (1)
+vfx_swamp_mist (1)
+vfx_RockHit (1)
+vfx_water_surface
+vfx_water_surface
+vfx_RockHit (1)
+vfx_troll_rock_destroyed
+vfx_Splosh (1)
+vfx_RockHit (1)
+vfx_corpse_destruction_small
+vfx_drippingwater
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_water_surface
+vfx_RockHit (1)
+vfx_swamp_mist (1)
+VFX
+vfx_BloodHit 1
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_Splosh (1)
+vfx_BloodHit 1
+vfx_RockHit (4)
+vfx_RockHit (3)
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_fenring_flames
+vfx_RockHit (2)
+vfx_ice_hit
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_BloodHit_decals
+vfx_RockHit (1)
+vfx_Splosh (1)
+vfx_Splosh (1)
+vfx_Splosh (1)
+vfx_Splosh (1)
+vfx_BloodHit 1
+vfx_fenring_flames
+vfx
+vfx
+niedhogg_lightningvfx
+vfx_RockHit (1)
+vfx_FireballHit (1)
+vfx_MeadSplash
+vfx_blobtar_death
+vfx_RockHit (1)
+vfx_corpse_destruction_small
+vfx_BloodHit_decals
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_BloodHit_decals
+vfx_RockHit (1)
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_drippingwater
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_water_surface
+vfx_RockHit (2)
+vfx_RockHit (1)
+vfx_FireballHit
+vfx_BloodHit 1
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_Place_bed
+vfx_BloodHit 1
+vfx_Splosh (1)
+vfx_troll_rock_destroyed
+vfx_RockHit (1)
+vfx_RockHit (1)
+vfx_BloodHit 1
+vfx_BloodHit 1
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_Ashlands_HeatDistortion
+vfx_ground_fog

@@ -1,0 +1,16 @@
+name: Recipe_HelmetPirateBandana
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- JuteRed:8:4:True
+- CoalPaste:6:3:True
+- TrophySerpent:1:0:True
+- Coins:240:240:False

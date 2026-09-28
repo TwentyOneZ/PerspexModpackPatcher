@@ -1,0 +1,14 @@
+name: KnifeCopper
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:2:0:True
+- Copper:8:4:True
+- GreydwarfEye:0:8:True
+- Coins:60:60:False

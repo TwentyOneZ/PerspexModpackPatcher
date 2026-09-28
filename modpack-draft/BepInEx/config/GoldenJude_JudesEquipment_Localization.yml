@@ -1,0 +1,69 @@
+English:
+  ArmorNobleHelmet: Noble Hat
+  ArmorNobleHelmet_description: Fashionable hat made of enchanted thread. <color=YELLOW>Requires Endurance 15, Intellect 51</color>
+  ArmorNobleChest: Noble's garb
+  ArmorNobleChest_description: A garb stitched together with enchanted thread. <color=YELLOW>Requires Endurance 21, Intellect 55</color>
+  ArmorNobleLegs: Noble's pants
+  ArmorNobleLegs_description: Pants made of enchanted thread, soft to the touch. <color=YELLOW>Requires Endurance 18, Intellect 54</color>
+  ArmorNobleCape: Noble's cape
+  ArmorNobleCape_description: Cape fashioned with enchanted thread with a vegvisir pattern. <color=YELLOW>Requires Level 30</color>
+  ArmorBarbarianBronzeHelmetJD: Barbarian's helmet
+  ArmorBarbarianBronzeHelmetJD_description: Helmet made from a bronze alloy. <color=YELLOW>Requires Strength 7</color>
+  ArmorBarbarianBronzeChestJD: Barbarian's armor
+  ArmorBarbarianBronzeChestJD_description: A bronze disc attached to leather straps, a true barbarian hurls himself into battle despite the lack of protection. <color=YELLOW>Requires Strength 10</color>
+  ArmorBarbarianBronzeLegsJD: Barbarian's boots
+  ArmorBarbarianBronzeLegsJD_description: Thick hide wrapped around one's waist, fastened with a fashionable bronze belt. <color=YELLOW>Requires Strength 9</color>
+  ArmorBarbarianCapeJD: Barbarian's fur cape
+  ArmorBarbarianCapeJD_description: Thick, short cape made from fur. Covers ones back when his drunk raidmates can't. <color=YELLOW>Requires Level 3</color>
+  ArmorWarriorHelmet: Rune Warrior's helmet
+  ArmorWarriorHelmet_description: Chainmail wrapping and carved runes provides good protection around the neck. <color=YELLOW>Requires Endurance 42, Intellect 21</color>
+  ArmorWarriorChest: Rune Warrior's hauberk
+  ArmorWarriorChest_description: Long vest made from linked chains and a large slate with a carved rune pulsating Eitr. <color=YELLOW>Requires Endurance 50, Intellect 25</color>
+  ArmorWarriorLegs: Rune Warrior's boots
+  ArmorWarriorLegs_description: Multi-layered pants with enchanted runes to keep it's wearer warm and protected. <color=YELLOW>Requires Endurance 46, Intellect 23</color>
+  ArmorPlateIronHelmetJD: Sturdy helmet
+  ArmorPlateIronHelmetJD_description: A sturdy helmet with a leather neckguard. <color=YELLOW>Requires Endurance 16</color>
+  ArmorPlateIronChestJD: Plate mail
+  ArmorPlateIronChestJD_description: Thick plates of metal riveted to a leather harness. <color=YELLOW>Requires Endurance 24</color>
+  ArmorPlateIronLegsJD: Plate greaves
+  ArmorPlateIronLegsJD_description: Reliable greaves and kneeguards. <color=YELLOW>Requires Endurance 20</color>
+  ArmorPlateCape: Boar cape
+  ArmorPlateCape_description: Reinforced boar hide worn around one's shoulders like a trophy. <color=YELLOW>Requires Level 8</color>
+  ArmorDragonslayerHelmet: Horned helm
+  ArmorDragonslayerHelmet_description: Dragon's tremble in fear when they see the blackened helmet adorned with the horns of their kin. <color=YELLOW>Requires Endurance 12, Agility 12</color>
+  ArmorDragonslayerChest: Dragonslayer's armor
+  ArmorDragonslayerChest_description: Obsidian layer over silver plates makes for reliable protection. <color=YELLOW>Requires Endurance 16, Agility 16</color>
+  ArmorDragonslayerLegs: Spiked greaves
+  ArmorDragonslayerLegs_description: Unlucky is he who finds himself in the way of these. <color=YELLOW>Requires Endurance 14, Agility 14</color>
+  ArmorWandererHelmet: Straw hat
+  ArmorWandererHelmet_description: A reinforced straw hat. <color=YELLOW>Requires Agility 41</color>
+  ArmorWandererChest: Coat of plates
+  ArmorWandererChest_description: Small metal plates attached to a leather jerkin, easy to maintain during travels. <color=YELLOW>Requires Agility 51</color>
+  ArmorWandererLegs: Wanderer's pants
+  ArmorWandererLegs_description: Durable pants with makeshift protection around the shins. <color=YELLOW>Requires Agility 45</color>
+  ArmorWandererCape: Straw cape
+  ArmorWandererCape_description: Cheap to make cape made from straw collected in the plains, protects against the elements but is quick to catch fire. <color=YELLOW>Requires Level 12</color>
+  ArmorBlackmetalgarbHelmet: Nomadic helmet
+  ArmorBlackmetalgarbHelmet_description: Blackmetal helmet with colorful padding fit for a nomad. <color=YELLOW>Requires Endurance 21 and Agility 20</color>
+  ArmorBlackmetalgarbChest: Nomadic garb
+  ArmorBlackmetalgarbChest_description: A nomadic garb adorned with protective elements made from blackmetal, found commonly in the nomad's homeland, the plains. <color=YELLOW>Requires Endurance 26 and Agility 25</color>
+  ArmorBlackmetalgarbLegs: Nomadic boots
+  ArmorBlackmetalgarbLegs_description: Thick leather boots with blackmetal toe guard, helpful when one happens to get stomped on by a Lox. <color=YELLOW>Requires Endurance 23 and Agility 22</color>
+  ArmorSerpentHelmet: Finned helm
+  ArmorSerpentHelmet_description: A thick iron casque adorned by the fins of a mighty serpent. The style is popular with raiding knights of the South. <color=YELLOW>Requires Endurance 15</color>
+  ArmorSerpentChest: Serpent armor
+  ArmorSerpentChest_description: Plates of iron overtop a surcoat of sea serpent scales. The perfect garb for spreading Odin's good word. <color=YELLOW>Requires Endurance 24</color>
+  ArmorSerpentLegs: Serpent Cuisses
+  ArmorSerpentLegs_description: Iron cuisses, greaves and sabatons. Excellent protection with a slightly fishy smell. <color=YELLOW>Requires Endurance 18</color>
+  ArmorSerpentCape: Serpent knight's cape
+  ArmorSerpentCape_description: Heavy dark cape of the Serpent order. <color=YELLOW>Requires Level 9</color>
+  ArmorMistlandsHelmet: Scorched sallet
+  ArmorMistlandsHelmet_description: Helmet made from a surtling core. <color=YELLOW>Requires Endurance 4</color>
+  ArmorMistlandsChest: Scorched armor
+  ArmorMistlandsChest_description: Thick, multi layered gambeson provides protection from the searing heat of a surtling core, which also protects from blows. <color=YELLOW>Requires Endurance 7</color>
+  ArmorMistlandsLegs: Scorched greaves
+  ArmorMistlandsLegs_description: One need not fear the cold while wearing these. <color=YELLOW>Requires Endurance 6</color>
+  BackpackSimple: Simple backpack
+  BackpackSimple_description: Leather container attached to a wooden frame
+  BackpackHeavy: Heavy backpack
+  BackpackHeavy_description: Large chest hauled on ones shoulders with a canvas bag for additional storage

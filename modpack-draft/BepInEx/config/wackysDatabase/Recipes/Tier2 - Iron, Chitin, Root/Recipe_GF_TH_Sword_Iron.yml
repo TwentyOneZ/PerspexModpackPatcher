@@ -1,0 +1,14 @@
+name: GF_TH_Sword_Iron
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:40:20:True
+- Iron:60:20:True
+- Guck:10:5:True
+- Coins:120:120:True

@@ -1,0 +1,12 @@
+name: Recipe_Boss_Crystal_1
+clonePrefabName: Boss_Crystal_1
+craftingStation: $custom_sky_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- CryptKey:3:0:False
+- Uncut_Orange_Stone:1:0:False

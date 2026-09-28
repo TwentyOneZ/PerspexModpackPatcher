@@ -1,0 +1,14 @@
+name: BowDraugrFang
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:10:5:True
+- Silver:20:10:True
+- Guck:10:2:True
+- Coins:240:240:False

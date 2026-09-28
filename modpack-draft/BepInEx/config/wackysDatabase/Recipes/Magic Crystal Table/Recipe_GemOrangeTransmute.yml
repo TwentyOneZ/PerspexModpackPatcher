@@ -1,0 +1,13 @@
+name: GemOrangeTransmute
+clonePrefabName: Uncut_Orange_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Red_Stone:1:1:True
+- BeechSeeds:1:1:True
+- Coins:10:10:False

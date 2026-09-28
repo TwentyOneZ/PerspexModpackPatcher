@@ -1,0 +1,12 @@
+name: HelmetMidsummerCrown
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Dandelion:10:6:True
+- Coins:0:15:True

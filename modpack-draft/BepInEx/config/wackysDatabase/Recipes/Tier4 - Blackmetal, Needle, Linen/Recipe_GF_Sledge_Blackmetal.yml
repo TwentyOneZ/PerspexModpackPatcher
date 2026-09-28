@@ -1,0 +1,14 @@
+name: GF_Sledge_Blackmetal
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:30:0:True
+- BlackMetal:30:20:True
+- LinenThread:30:10:True
+- Coins:480:480:True

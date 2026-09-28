@@ -1,0 +1,356 @@
+{
+  "pieces": {
+    "wood_floor_1x1": {
+      "buildup": "Reduced"
+    },
+    "wood_floor": {
+      "buildup": "Reduced",
+      "position": {
+        "y": -0.19
+      }
+    },
+    "wood_stair": {
+      "buildup": "Reduced"
+    },
+    "wood_stepladder": {
+      "buildup": "Reduced"
+    },
+    "stone_floor_2x2": {
+      "buildup": "Reduced",
+      "position": {
+        "y": 0.23
+      }
+    },
+    "stone_stair": {
+      "buildup": "Reduced"
+    },
+    "blackmarble_2x2x2": {
+      "buildup": "Reduced",
+      "position": {
+        "y": 0.73
+      }
+    },
+    "blackmarble_floor": {
+      "buildup": "Reduced",
+      "position": {
+        "y": 0.23
+      }
+    },
+    "blackmarble_floor_triangle": {
+      "buildup": "Reduced"
+    },
+    "blackmarble_stair": {
+      "buildup": "Reduced"
+    },
+    "piece_dvergr_spiralstair": {
+      "buildup": "Reduced"
+    },
+    "piece_dvergr_spiralstair_right": {
+      "buildup": "Reduced"
+    },
+    "ashwood_floor_1x1": {
+      "buildup": "Reduced"
+    },
+    "ashwood_floor_2x2": {
+      "buildup": "Reduced"
+    },
+    "ashwood_deco_floor": {
+      "buildup": "Reduced"
+    },
+    "ashwood_stair": {
+      "buildup": "Reduced",
+      "position": {
+        "y": 0.9
+      }
+    },
+    "Piece_grausten_floor_1x1": {
+      "buildup": "Reduced"
+    },
+    "Piece_grausten_floor_2x2": {
+      "buildup": "Reduced"
+    },
+    "Piece_grausten_floor_4x4": {
+      "buildup": "Reduced",
+      "position": {
+        "y": -0.02
+      }
+    },
+    "Piece_grausten_stone_ladder": {
+      "buildup": "Reduced"
+    },
+    "charcoal_kiln": {
+      "buildup": "Reduced"
+    },
+    "piece_beehive": {
+      "buildup": "Reduced"
+    },
+    "stone_pile": {
+      "buildup": "Reduced"
+    },
+    "flint_pile": {
+      "buildup": "Reduced"
+    },
+    "blackmarble_pile": {
+      "buildup": "Reduced"
+    },
+    "grausten_pile": {
+      "buildup": "Reduced"
+    },
+    "coal_pile": {
+      "buildup": "Reduced"
+    },
+    "piece_chest_barrel": {
+      "buildup": "Reduced"
+    },
+    "skull_pile": {
+      "buildup": "Reduced"
+    },
+    "stone_arch": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 0.46
+      }
+    },
+    "smelter": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 3.8
+      }
+    },
+    "piece_bed02": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 0.24
+      }
+    },
+    "bed": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 0.14
+      }
+    },
+    "piece_chest_grausten": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 0.75
+      }
+    },
+    "stave_gate": {
+      "buildup": "Seasonal",
+      "position": {
+        "y": 6.14
+      },
+      "scale": {
+        "x": 1.11,
+        "y": 1.0,
+        "z": 1.3
+      }
+    },
+    "stone_fence": {
+      "buildup": "Seasonal",
+      "copyFrom": "stone_wall_2x1",
+      "position": {
+        "y": 0.19
+      },
+      "scale": {
+        "x": 1.9,
+        "y": 1.0,
+        "z": 0.75
+      }
+    },
+    "wood_fence_gate": {
+      "buildup": "Disabled"
+    }
+  },
+  "creatureMaterials": {
+    "Abomination_mat": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "goblin_armor": {
+      "min": 0.65,
+      "max": 0.79
+    },
+    "BruteArmor_mat": {
+      "min": 0.65,
+      "max": 0.79
+    },
+    "GoblinStuff_mat": {
+      "min": 0.65,
+      "max": 0.8
+    },
+    "BruteHipCloth_mat": {
+      "min": 0.65,
+      "max": 0.8
+    },
+    "dvergerArbalest_mat": {
+      "min": 0.77,
+      "max": 0.79
+    },
+    "RangerAshlands_mat": {
+      "min": 0.77,
+      "max": 0.79
+    },
+    "dvergermage_mat": {
+      "min": 0.77,
+      "max": 0.79
+    },
+    "DvergerMageICe_mat": {
+      "min": 0.77,
+      "max": 0.79
+    },
+    "DvergerMageSupport_mat": {
+      "min": 0.77,
+      "max": 0.79
+    },
+    "goblin": {
+      "min": 0.7,
+      "max": 0.73
+    },
+    "GoblinBrute_hildir_mat": {
+      "min": 0.7,
+      "max": 0.79
+    },
+    "GoblinBrute_mat": {
+      "min": 0.7,
+      "max": 0.75
+    },
+    "GoblinShaman_mat": {
+      "min": 0.45,
+      "max": 0.65,
+      "renderers": [
+        "Shaman"
+      ]
+    },
+    "GoblinShaman_Hildir_mat": {
+      "min": 0.66,
+      "max": 0.72,
+      "renderers": [
+        "Shaman"
+      ]
+    },
+    "DvergerBody": {
+      "min": 0.75,
+      "max": 0.765
+    },
+    "DvergerBodyashlands_mat": {
+      "min": 0.74,
+      "max": 0.765
+    },
+    "Skeleton": {
+      "min": 0.68,
+      "max": 0.78
+    },
+    "Skeleton_dark": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Skeleton_Swamps": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "SkeletonBig": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Skeleton_Mountains": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Skeleton_Meadows": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Draugr_mat": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Draugr_Archer_mat": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "Draugr_elite_mat": {
+      "min": 0.7,
+      "max": 0.8
+    },
+    "troll": {
+      "min": 0.65,
+      "max": 0.72
+    },
+    "lox": {
+      "min": 0.7,
+      "max": 0.75,
+      "renderers": [
+        "Furr1"
+      ]
+    },
+    "Bjorn_mat": {
+      "min": 0.75,
+      "max": 0.77
+    },
+    "Boar Skin Valheim": {
+      "min": 0.75,
+      "max": 0.77
+    },
+    "Deer 2": {
+      "min": 0.755,
+      "max": 0.765
+    },
+    "greydwarf": {
+      "min": 0.7,
+      "max": 0.74
+    }
+  },
+  "playerCapeMaterials": {
+    "CapeLinen": {
+      "min": 0.76,
+      "max": 0.8
+    },
+    "Ashcape_Mat": {
+      "min": 0.76,
+      "max": 0.79
+    },
+    "asksvincape_mat": {
+      "min": 0.7,
+      "max": 0.79
+    },
+    "NordCape_mat": {
+      "min": 0.4,
+      "max": 0.74
+    },
+    "MageCape_mat": {
+      "min": 0.75,
+      "max": 0.78
+    },
+    "feathercape_mat": {
+      "min": 0.76,
+      "max": 0.79
+    },
+    "LoxCape_Mat": {
+      "min": 0.75,
+      "max": 0.79
+    },
+    "CapeTrollHide": {
+      "min": 0.75,
+      "max": 0.79
+    },
+    "CapeDeerHide": {
+      "min": 0.76,
+      "max": 0.81
+    },
+    "WolfCape": {
+      "min": 0.5,
+      "max": 0.75,
+      "renderers": [
+        "WolfCape_cloth"
+      ]
+    },
+    "WolfCapeChain": {
+      "min": 0.5,
+      "max": 0.7,
+      "renderers": [
+        "WolfCape"
+      ]
+    }
+  }
+}

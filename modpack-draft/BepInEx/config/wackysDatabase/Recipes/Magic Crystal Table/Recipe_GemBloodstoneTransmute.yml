@@ -1,0 +1,13 @@
+name: GemBloodstoneTransmute
+clonePrefabName: Uncut_bloodstone_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Red_Stone:1:1:True
+- NeckTail:1:1:True
+- Coins:10:10:False

@@ -1,0 +1,4220 @@
+- PrefabName: ArmorAshlandsMediumChest
+  Requirements:
+  - Skill: Agility
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorAshlandsMediumlegs
+  Requirements:
+  - Skill: Agility
+    Level: 78
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBarbarianBronzeChestJD
+  Requirements:
+  - Skill: Strength
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorBarbarianBronzeHelmetJD
+  Requirements:
+  - Skill: Strength
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorBarbarianBronzeLegsJD
+  Requirements:
+  - Skill: Strength
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorBarbarianCapeJD
+  Requirements:
+  - Skill: Level
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorBerserkerChest
+  Requirements:
+  - Skill: Body
+    Level: 5
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBerserkerLegs
+  Requirements:
+  - Skill: Body
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 5
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBerserkerUndeadChest
+  Requirements:
+  - Skill: Body
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 44
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBerserkerUndeadLegs
+  Requirements:
+  - Skill: Body
+    Level: 24
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBlackmetalgarbChest
+  Requirements:
+  - Skill: Body
+    Level: 37
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 37
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBlackmetalgarbHelmet
+  Requirements:
+  - Skill: Body
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBlackmetalgarbLegs
+  Requirements:
+  - Skill: Body
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorBronzeChest
+  Requirements:
+  - Skill: Body
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorBronzeLegs
+  Requirements:
+  - Skill: Body
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorCarapaceChest
+  Requirements:
+  - Skill: Body
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorCarapaceLegs
+  Requirements:
+  - Skill: Body
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorDeepNorthHeavyChest
+  Requirements:
+  - Skill: Body
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorDeepNorthHeavylegs
+  Requirements:
+  - Skill: Body
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorDeepNorthMageChest
+  Requirements:
+  - Skill: Intellect
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorDeepNorthMagelegs
+  Requirements:
+  - Skill: Intellect
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorDeepNorthMediumChest
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorDeepNorthMediumlegs
+  Requirements:
+  - Skill: Agility
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorDragonslayerChest
+  Requirements:
+  - Skill: Body
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorDragonslayerHelmet
+  Requirements:
+  - Skill: Body
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorDragonslayerLegs
+  Requirements:
+  - Skill: Body
+    Level: 25
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Agility
+    Level: 25
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorFenringChest
+  Requirements:
+  - Skill: Agility
+    Level: 42
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorFenringLegs
+  Requirements:
+  - Skill: Agility
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorFlametalChest
+  Requirements:
+  - Skill: Body
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorFlametalLegs
+  Requirements:
+  - Skill: Body
+    Level: 83
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorIronChest
+  Requirements:
+  - Skill: Body
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorIronLegs
+  Requirements:
+  - Skill: Body
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorLeatherChest
+  Requirements:
+  - Skill: Agility
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorLeatherLegs
+  Requirements:
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorMageChest
+  Requirements:
+  - Skill: Intellect
+    Level: 57
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorMageChest_Ashlands
+  Requirements:
+  - Skill: Intellect
+    Level: 83
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorMageLegs
+  Requirements:
+  - Skill: Intellect
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorMageLegs_Ashlands
+  Requirements:
+  - Skill: Intellect
+    Level: 81
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorMistlandsChest
+  Requirements:
+  - Skill: Body
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorMistlandsHelmet
+  Requirements:
+  - Skill: Body
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorMistlandsLegs
+  Requirements:
+  - Skill: Body
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorNobleCape
+  Requirements:
+  - Skill: Level
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorNobleChest
+  Requirements:
+  - Skill: Body
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 57
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorNobleHelmet
+  Requirements:
+  - Skill: Body
+    Level: 19
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorNobleLegs
+  Requirements:
+  - Skill: Body
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorPaddedCuirass
+  Requirements:
+  - Skill: Body
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorPaddedGreaves
+  Requirements:
+  - Skill: Body
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorPlateCape
+  Requirements:
+  - Skill: Level
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorPlateIronChestJD
+  Requirements:
+  - Skill: Body
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorPlateIronHelmetJD
+  Requirements:
+  - Skill: Body
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorPlateIronLegsJD
+  Requirements:
+  - Skill: Body
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorRootChest
+  Requirements:
+  - Skill: Agility
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorRootLegs
+  Requirements:
+  - Skill: Agility
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorSerpentCape
+  Requirements:
+  - Skill: Level
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorSerpentChest
+  Requirements:
+  - Skill: Body
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorSerpentHelmet
+  Requirements:
+  - Skill: Body
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorSerpentLegs
+  Requirements:
+  - Skill: Body
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorTrollLeatherChest
+  Requirements:
+  - Skill: Agility
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorTrollLeatherLegs
+  Requirements:
+  - Skill: Agility
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorWandererCape
+  Requirements:
+  - Skill: Level
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorWandererChest
+  Requirements:
+  - Skill: Agility
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorWandererHelmet
+  Requirements:
+  - Skill: Agility
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorWandererLegs
+  Requirements:
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArmorWarriorChest
+  Requirements:
+  - Skill: Body
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorWarriorHelmet
+  Requirements:
+  - Skill: Body
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorWarriorLegs
+  Requirements:
+  - Skill: Body
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ArmorWolfChest
+  Requirements:
+  - Skill: Body
+    Level: 42
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArmorWolfLegs
+  Requirements:
+  - Skill: Body
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ArrowBloodGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowBronze
+  Requirements:
+  - Skill: Agility
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowCarapace
+  Requirements:
+  - Skill: Agility
+    Level: 64
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowCharred
+  Requirements:
+  - Skill: Agility
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowFire
+  Requirements:
+  - Skill: Agility
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowFlint
+  Requirements:
+  - Skill: Agility
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowFrost
+  Requirements:
+  - Skill: Agility
+    Level: 64
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowIron
+  Requirements:
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowNeedle
+  Requirements:
+  - Skill: Agility
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowObsidian
+  Requirements:
+  - Skill: Agility
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowPoison
+  Requirements:
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ArrowSilver
+  Requirements:
+  - Skill: Agility
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AtgeirBlackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 47
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AtgeirBronze
+  Requirements:
+  - Skill: Strength
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AtgeirGold
+  Requirements:
+  - Skill: Strength
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AtgeirGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AtgeirGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AtgeirHimminAfl
+  Requirements:
+  - Skill: Strength
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AtgeirIron
+  Requirements:
+  - Skill: Strength
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AxeBerzerkr
+  Requirements:
+  - Skill: Strength
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeBerzerkrBlood
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeBerzerkrLightning
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeBerzerkrNature
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeBlackMetal
+  Requirements:
+  - Skill: Strength
+    Level: 50
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeBronze
+  Requirements:
+  - Skill: Strength
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeEarly
+  Requirements:
+  - Skill: Strength
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AxeFlint
+  Requirements:
+  - Skill: Strength
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeGold
+  Requirements:
+  - Skill: Strength
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeIron
+  Requirements:
+  - Skill: Strength
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: AxeJotunBane
+  Requirements:
+  - Skill: Strength
+    Level: 66
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackBlackForest
+  Requirements:
+  - Skill: Level
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackMeadows
+  Requirements:
+  - Skill: Level
+    Level: 1
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackMistlands
+  Requirements:
+  - Skill: Level
+    Level: 36
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackMountains
+  Requirements:
+  - Skill: Level
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackPlains
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BackpackSwamp
+  Requirements:
+  - Skill: Level
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: Battleaxe
+  Requirements:
+  - Skill: Strength
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BattleaxeCrystal
+  Requirements:
+  - Skill: Strength
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 17
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BattleaxeGold
+  Requirements:
+  - Skill: Strength
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BattleaxeGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BattleaxeGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BeltStrength
+  Requirements:
+  - Skill: Body
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: BlackMetalCestus
+  Requirements:
+  - Skill: Strength
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BlueberrySeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 40
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: blueprintFishtrap
+  Requirements:
+  - Skill: Fishing
+    Level: 50
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: BMP_AdvanceMagicBook
+  Requirements:
+  - Skill: Intellect
+    Level: 42
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_ArcticStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 39
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_AskvinTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 74
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_BeginnersMagicBook
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_BeginnerStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_BjornTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_BlazeArm
+  Requirements:
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_CharredTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_CrystalTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 47
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_DrakeTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 39
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_DruidsTome
+  Requirements:
+  - Skill: Intellect
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_Dvergr_Earring
+  Requirements:
+  - Skill: Level
+    Level: 45
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_DvergrBelt
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_EikthyrsStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_Eitr_Earring
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_EitrBelt
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_ElementalistBelt
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FireResist_Earring
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FlameScepter
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FlameStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FlameWand
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FrostArm
+  Requirements:
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_FrostResist_Earring
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_HealStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_HogwartsBelt
+  Requirements:
+  - Skill: Level
+    Level: 48
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_IceScepter
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_IceWand
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_LightBelt
+  Requirements:
+  - Skill: Level
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_LightningScepter
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_LightningStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_LightningWand
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_ModersInheritence
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_NeckTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_NecromancerBelt
+  Requirements:
+  - Skill: Level
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_PoisonResist_Earring
+  Requirements:
+  - Skill: Level
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_PoisonStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_PoisonWand
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_SeekerBruteTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_SkullTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_SurtlingStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_ThunderStaff
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_ValkyrieTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_VenomArm
+  Requirements:
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_VileTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_WolfTotem
+  Requirements:
+  - Skill: Intellect
+    Level: 39
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMP_YagluthsInheritence
+  Requirements:
+  - Skill: Intellect
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_CrimsonCape
+  Requirements:
+  - Skill: Level
+    Level: 48
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_CrimsonChest
+  Requirements:
+  - Skill: Intellect
+    Level: 74
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_CrimsonHood
+  Requirements:
+  - Skill: Intellect
+    Level: 67
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_CrimsonLegs
+  Requirements:
+  - Skill: Intellect
+    Level: 69
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_PolarWolfCape
+  Requirements:
+  - Skill: Level
+    Level: 36
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_PolarWolfChest
+  Requirements:
+  - Skill: Intellect
+    Level: 41
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_PolarWolfHood
+  Requirements:
+  - Skill: Intellect
+    Level: 37
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_PolarWolfLegs
+  Requirements:
+  - Skill: Intellect
+    Level: 39
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SeekerCape
+  Requirements:
+  - Skill: Level
+    Level: 36
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SeekerChest
+  Requirements:
+  - Skill: Intellect
+    Level: 50
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SeekerHat
+  Requirements:
+  - Skill: Intellect
+    Level: 47
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SeekerLegs
+  Requirements:
+  - Skill: Intellect
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SorcerersCape
+  Requirements:
+  - Skill: Level
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SorcerersHat
+  Requirements:
+  - Skill: Intellect
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SorcerersTrousers
+  Requirements:
+  - Skill: Intellect
+    Level: 19
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_SorcerersTunic
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_TatteredCape
+  Requirements:
+  - Skill: Level
+    Level: 2
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_TatteredChest
+  Requirements:
+  - Skill: Intellect
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_TatteredHelm
+  Requirements:
+  - Skill: Intellect
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_TatteredLegs
+  Requirements:
+  - Skill: Intellect
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_WarlocksCape
+  Requirements:
+  - Skill: Level
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_WarlocksHood
+  Requirements:
+  - Skill: Intellect
+    Level: 25
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_WarlocksPants
+  Requirements:
+  - Skill: Intellect
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BMR_WarlocksVest
+  Requirements:
+  - Skill: Intellect
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BoltBlackmetal
+  Requirements:
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BoltBloodGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BoltCarapace
+  Requirements:
+  - Skill: Agility
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BoltCharred
+  Requirements:
+  - Skill: Agility
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BoltIron
+  Requirements:
+  - Skill: Agility
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BombBlob_Frost
+  Requirements:
+  - Skill: Intellect
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BombBlob_Lava
+  Requirements:
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BombBlob_Morkhalla
+  Requirements:
+  - Skill: Intellect
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BombLava
+  Requirements:
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BombSiege
+  Requirements:
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: Bow
+  Requirements:
+  - Skill: Agility
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowAshlands
+  Requirements:
+  - Skill: Agility
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowAshlandsBlood
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BowAshlandsRoot
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BowAshlandsStorm
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BowDraugrFang
+  Requirements:
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowFineWood
+  Requirements:
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowGold_BloodLightning
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BowGold_FrostFire
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BowHuntsman
+  Requirements:
+  - Skill: Agility
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BowSpineSnap
+  Requirements:
+  - Skill: Agility
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BronzeCestus
+  Requirements:
+  - Skill: Strength
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: CapeAsh
+  Requirements:
+  - Skill: Level
+    Level: 78
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeAsksvin
+  Requirements:
+  - Skill: Level
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeDeepNorth
+  Requirements:
+  - Skill: Level
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeDeepNorthMage
+  Requirements:
+  - Skill: Level
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeDeerHide
+  Requirements:
+  - Skill: Level
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeFeather
+  Requirements:
+  - Skill: Level
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeLinen
+  Requirements:
+  - Skill: Level
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeLox
+  Requirements:
+  - Skill: Level
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeTrollHide
+  Requirements:
+  - Skill: Level
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CapeWolf
+  Requirements:
+  - Skill: Level
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CloudberrySeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 60
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: CrossbowArbalest
+  Requirements:
+  - Skill: Strength
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CrossbowGold
+  Requirements:
+  - Skill: Agility
+    Level: 95
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: CrossbowGold_BloodLightning
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CrossbowGold_FrostFire
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CrossbowRipper
+  Requirements:
+  - Skill: Agility
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: CrossbowRipperBlood
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CrossbowRipperLightning
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: CrossbowRipperNature
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: DandelionSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 25
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: FiddleheadSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 80
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: FistBjornClaw
+  Requirements:
+  - Skill: Strength
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: FistBjornUndeadClaw
+  Requirements:
+  - Skill: Strength
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: FistFenrirClaw
+  Requirements:
+  - Skill: Strength
+    Level: 11
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: FistGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: FistGold_BloodLightning
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: FistGold_FrostFire
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Atgeir_Flint
+  Requirements:
+  - Skill: Strength
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 1
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_Atgeir_Silver
+  Requirements:
+  - Skill: Strength
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 17
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Axe_Silver
+  Requirements:
+  - Skill: Strength
+    Level: 31
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 19
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Mace_Marble
+  Requirements:
+  - Skill: Strength
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Sledge_Blackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 57
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Sledge_Bronze
+  Requirements:
+  - Skill: Strength
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Sledge_Silver
+  Requirements:
+  - Skill: Strength
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 18
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_Spear_Blackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 24
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_Sword_Flint
+  Requirements:
+  - Skill: Strength
+    Level: 2
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 2
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_TH_Axe_Blackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_TH_Axe_Bronze
+  Requirements:
+  - Skill: Strength
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_TH_Axe_Flint
+  Requirements:
+  - Skill: Strength
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_TH_Axe_Marble
+  Requirements:
+  - Skill: Strength
+    Level: 69
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GF_TH_Sword_Blackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 46
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 28
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_TH_Sword_Bronze
+  Requirements:
+  - Skill: Strength
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_TH_Sword_Flint
+  Requirements:
+  - Skill: Strength
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_TH_Sword_Iron
+  Requirements:
+  - Skill: Strength
+    Level: 27
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: GF_TH_Sword_Silver
+  Requirements:
+  - Skill: Strength
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 13
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 13
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: GrapplingHook
+  Requirements:
+  - Skill: Agility
+    Level: 88
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetAshlandsMediumHood
+  Requirements:
+  - Skill: Agility
+    Level: 76
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetBerserkerHood
+  Requirements:
+  - Skill: Body
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetBerserkerUndead
+  Requirements:
+  - Skill: Body
+    Level: 13
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetBronze
+  Requirements:
+  - Skill: Body
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetCarapace
+  Requirements:
+  - Skill: Body
+    Level: 64
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetDNHeavy
+  Requirements:
+  - Skill: Body
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetDNMage
+  Requirements:
+  - Skill: Intellect
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: HelmetDNMediumHood
+  Requirements:
+  - Skill: Agility
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetDrake
+  Requirements:
+  - Skill: Body
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetDverger
+  Requirements:
+  - Skill: Level
+    Level: 1
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: HelmetFenring
+  Requirements:
+  - Skill: Agility
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetFlametal
+  Requirements:
+  - Skill: Body
+    Level: 81
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetIron
+  Requirements:
+  - Skill: Body
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetLeather
+  Requirements:
+  - Skill: Agility
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetMage
+  Requirements:
+  - Skill: Body
+    Level: 19
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+  - Skill: Intellect
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: HelmetMage_Ashlands
+  Requirements:
+  - Skill: Intellect
+    Level: 79
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: HelmetPadded
+  Requirements:
+  - Skill: Body
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: HelmetRoot
+  Requirements:
+  - Skill: Agility
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HelmetTrollLeather
+  Requirements:
+  - Skill: Agility
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: IronCestus
+  Requirements:
+  - Skill: Strength
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: JC_Reaper_Axe
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: JC_Reaper_Bow
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: JC_Reaper_Pickaxe
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: JC_Reaper_Sword
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: KnifeBlackMetal
+  Requirements:
+  - Skill: Agility
+    Level: 46
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: KnifeChitin
+  Requirements:
+  - Skill: Agility
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: KnifeCopper
+  Requirements:
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: KnifeFlint
+  Requirements:
+  - Skill: Agility
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: KnifeGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: KnifeGold_BloodLightning
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: KnifeGold_FrostFire
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: KnifeSilver
+  Requirements:
+  - Skill: Agility
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 9
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: KnifeSkollAndHati
+  Requirements:
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: MaceBronze
+  Requirements:
+  - Skill: Strength
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceEldner
+  Requirements:
+  - Skill: Strength
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceEldnerBlood
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceEldnerLightning
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceEldnerNature
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceGold
+  Requirements:
+  - Skill: Strength
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceIron
+  Requirements:
+  - Skill: Strength
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceNeedle
+  Requirements:
+  - Skill: Strength
+    Level: 53
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MaceSilver
+  Requirements:
+  - Skill: Strength
+    Level: 29
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 17
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MushroomBlueSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 70
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: MushroomSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 35
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: MushroomSmokePuffSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 70
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: MushroomYellowSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 50
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: Odins_Alchemy_Wand
+  Requirements:
+  - Skill: Intellect
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: Odins_Dragon_Staff
+  Requirements:
+  - Skill: Intellect
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: Odins_Warlock_Hat
+  Requirements:
+  - Skill: Intellect
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: Odins_Weapon_Oil
+  Requirements:
+  - Skill: Level
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: Odins_Wizard_Hat
+  Requirements:
+  - Skill: Intellect
+    Level: 46
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PhilosopherStoneBlack
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PhilosopherStoneBlue
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PhilosopherStoneGreen
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PhilosopherStonePurple
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PhilosopherStoneRed
+  Requirements:
+  - Skill: Intellect
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Alchemy
+    Level: 1
+    BlockCraft: true
+    BlockEquip: true
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: PickaxeBlackMetal
+  Requirements:
+  - Skill: Strength
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: PickaxeBronze
+  Requirements:
+  - Skill: Strength
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: PickaxeIron
+  Requirements:
+  - Skill: Strength
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: questitem_book_01
+  Requirements:
+  - Skill: Sailing
+    Level: 20
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_book_02
+  Requirements:
+  - Skill: Sailing
+    Level: 40
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_book_03
+  Requirements:
+  - Skill: Sailing
+    Level: 60
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_book_04
+  Requirements:
+  - Skill: Sailing
+    Level: 80
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_cartographerBlueprint
+  Requirements:
+  - Skill: Exploration
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_landVehicle
+  Requirements:
+  - Skill: Exploration
+    Level: 80
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_lumberext1
+  Requirements:
+  - Skill: Lumberjacking
+    Level: 50
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_lumberext2
+  Requirements:
+  - Skill: Lumberjacking
+    Level: 80
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_scroll_black
+  Requirements:
+  - Skill: Building
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_scroll_blue
+  Requirements:
+  - Skill: Mining
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_scroll_green
+  Requirements:
+  - Skill: Farming
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_scroll_yellow
+  Requirements:
+  - Skill: Lumberjacking
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: questitem_seedTotemBlueprintAdv
+  Requirements:
+  - Skill: Farming
+    Level: 50
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: RaspberrySeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 30
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: RuneFocus
+  Requirements:
+  - Skill: Intellect
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SaddleAsksvin
+  Requirements:
+  - Skill: Ranching
+    Level: 90
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: SaddleLox
+  Requirements:
+  - Skill: Ranching
+    Level: 80
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: SaddleMoose
+  Requirements:
+  - Skill: Ranching
+    Level: 95
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: SaddleT1
+  Requirements:
+  - Skill: Ranching
+    Level: 20
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: SaddleT2
+  Requirements:
+  - Skill: Ranching
+    Level: 50
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: ShieldBanded
+  Requirements:
+  - Skill: Strength
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldBlackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldBlackmetalTower
+  Requirements:
+  - Skill: Body
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ShieldBoneTower
+  Requirements:
+  - Skill: Body
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ShieldBronzeBuckler
+  Requirements:
+  - Skill: Agility
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ShieldCarapace
+  Requirements:
+  - Skill: Strength
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldCarapaceBuckler
+  Requirements:
+  - Skill: Agility
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ShieldGold
+  Requirements:
+  - Skill: Strength
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldGoldBuckler
+  Requirements:
+  - Skill: Agility
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ShieldGoldTower
+  Requirements:
+  - Skill: Body
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ShieldIronBuckler
+  Requirements:
+  - Skill: Agility
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: ShieldIronTower
+  Requirements:
+  - Skill: Body
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ShieldSerpentscale
+  Requirements:
+  - Skill: Body
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ShieldSilver
+  Requirements:
+  - Skill: Strength
+    Level: 38
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldWood
+  Requirements:
+  - Skill: Strength
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ShieldWoodTower
+  Requirements:
+  - Skill: Body
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: SilverCestus
+  Requirements:
+  - Skill: Strength
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 26
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeDemolisher
+  Requirements:
+  - Skill: Strength
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeGold
+  Requirements:
+  - Skill: Strength
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeIron
+  Requirements:
+  - Skill: Strength
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SledgeStagbreaker
+  Requirements:
+  - Skill: Strength
+    Level: 10
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearBronze
+  Requirements:
+  - Skill: Strength
+    Level: 5
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SpearCarapace
+  Requirements:
+  - Skill: Strength
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SpearChitin
+  Requirements:
+  - Skill: Strength
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SpearElderbark
+  Requirements:
+  - Skill: Strength
+    Level: 7
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 21
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SpearFlint
+  Requirements:
+  - Skill: Strength
+    Level: 2
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 4
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SpearGold
+  Requirements:
+  - Skill: Agility
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearGold_BloodLightning
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearGold_FrostFire
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearSplitner
+  Requirements:
+  - Skill: Agility
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 48
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearSplitner_Blood
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearSplitner_Lightning
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearSplitner_Nature
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Strength
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SpearWolfFang
+  Requirements:
+  - Skill: Strength
+    Level: 11
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: StaffClusterbomb
+  Requirements:
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffFireball
+  Requirements:
+  - Skill: Intellect
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffFrostOrbs
+  Requirements:
+  - Skill: Intellect
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffGreenRoots
+  Requirements:
+  - Skill: Intellect
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffIceShards
+  Requirements:
+  - Skill: Intellect
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffLightning
+  Requirements:
+  - Skill: Intellect
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffOrbofAhri
+  Requirements:
+  - Skill: Intellect
+    Level: 97
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffRedTroll
+  Requirements:
+  - Skill: Intellect
+    Level: 84
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: StaffShield
+  Requirements:
+  - Skill: Intellect
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 24
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: StaffSkeleton
+  Requirements:
+  - Skill: Intellect
+    Level: 53
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: StaffSpiritCaller
+  Requirements:
+  - Skill: Intellect
+    Level: 98
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 58
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: StaffThunderBlood
+  Requirements:
+  - Skill: Intellect
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordBlackmetal
+  Requirements:
+  - Skill: Strength
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SwordBronze
+  Requirements:
+  - Skill: Strength
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 6
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SwordDyrnwyn
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordGold
+  Requirements:
+  - Skill: Strength
+    Level: 94
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 56
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SwordGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordIron
+  Requirements:
+  - Skill: Strength
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 12
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SwordMistwalker
+  Requirements:
+  - Skill: Strength
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 34
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordNiedhogg
+  Requirements:
+  - Skill: Strength
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 49
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SwordNiedhoggBlood
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordNiedhoggLightning
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordNiedhoggNature
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 51
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: SwordSilver
+  Requirements:
+  - Skill: Strength
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 23
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ThistleSeeds
+  Requirements:
+  - Skill: Foraging
+    Level: 45
+    BlockCraft: true
+    BlockEquip: false
+    EpicMMO: false
+    ExhibitionName: 
+- PrefabName: THSwordGold
+  Requirements:
+  - Skill: Strength
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordGold_BloodLightning
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordGold_FrostFire
+  Requirements:
+  - Skill: Strength
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordKrom
+  Requirements:
+  - Skill: Strength
+    Level: 53
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Agility
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: THSwordSlayer
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordSlayerBlood
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordSlayerLightning
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: THSwordSlayerNature
+  Requirements:
+  - Skill: Strength
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TrinketBlackDamageHealth
+  Requirements:
+  - Skill: Strength
+    Level: 52
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TrinketBlackStamina
+  Requirements:
+  - Skill: Agility
+    Level: 52
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketBloodGoldHealth
+  Requirements:
+  - Skill: Body
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: TrinketBloodGoldStamina
+  Requirements:
+  - Skill: Agility
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketBronzeHealth
+  Requirements:
+  - Skill: Body
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: TrinketBronzeStamina
+  Requirements:
+  - Skill: Agility
+    Level: 20
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketCarapaceEitr
+  Requirements:
+  - Skill: Intellect
+    Level: 65
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TrinketChitinSwim
+  Requirements:
+  - Skill: Agility
+    Level: 25
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketFlametalEitr
+  Requirements:
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TrinketFlametalStaminaHealth
+  Requirements:
+  - Skill: Body
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: TrinketIronHealth
+  Requirements:
+  - Skill: Body
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: TrinketIronStamina
+  Requirements:
+  - Skill: Agility
+    Level: 32
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketScaleStaminaDamage
+  Requirements:
+  - Skill: Agility
+    Level: 97
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: TrinketSilverDamage
+  Requirements:
+  - Skill: Strength
+    Level: 42
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TrinketSilverResist
+  Requirements:
+  - Skill: Body
+    Level: 42
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance
+- PrefabName: ValheimVehicles_Cannon_Handheld_Item
+  Requirements:
+  - Skill: Strength
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+  - Skill: Body
+    Level: 54
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Endurance

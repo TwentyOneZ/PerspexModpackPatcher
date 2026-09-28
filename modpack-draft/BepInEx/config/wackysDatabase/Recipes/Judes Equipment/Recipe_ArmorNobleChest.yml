@@ -1,0 +1,18 @@
+name: ArmorNobleChest
+clonePrefabName: null
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Boss_Crystal_3:3:0:False
+- LinenThread:15:5:True
+- Eitr:20:8:True
+- Coins:960:480:False

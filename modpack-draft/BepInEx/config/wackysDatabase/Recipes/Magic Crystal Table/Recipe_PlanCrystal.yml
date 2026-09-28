@@ -1,0 +1,13 @@
+name: PlanCrystal
+clonePrefabName: 
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Cyan_Stone:1:0:True
+- GreydwarfEye:1:0:True
+- Coins:120:30:True

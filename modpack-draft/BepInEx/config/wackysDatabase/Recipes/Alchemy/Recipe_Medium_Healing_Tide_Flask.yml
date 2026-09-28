@@ -1,0 +1,12 @@
+name: Medium_Healing_Tide_Flask
+clonePrefabName: 
+craftingStation: $pp_alchemy_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- GreydwarfEye:2:0:True
+- MushroomYellow:3:0:True

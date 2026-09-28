@@ -1,0 +1,16 @@
+name: Recipe_HelmetCultist
+clonePrefabName: NO
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: true
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- TrophyCultist:1:1:True
+- JuteRed:3:2:True
+- CultInsygnia:2:1:True
+- CorruptedEitr:4:2:True

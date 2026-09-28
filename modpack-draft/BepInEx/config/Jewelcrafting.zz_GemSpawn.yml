@@ -1,0 +1,194 @@
+# Jewelcrafting spawn distribution: stock + EpicJewels + MyriadJewels
+#
+# Goals:
+# - Total chance of ANY gemstone formation per candidate spawner: 0.10 (10%).
+#   Stock Jewelcrafting is 0.50 (50%), so gemstones overall are 5x rarer.
+# - EpicJewels gems are 3x rarer than the corresponding standard-color gem.
+# - MyriadJewels gems are 5x rarer than the corresponding standard-color gem.
+# - Color affinity follows stock Jewelcrafting biome colors.
+#
+# Color mapping:
+# Epic: jade=green, amber=yellow, aquamarine=blue, garnet=red, opal=white, amethyst=purple
+# Myriad: howlite=white, carnelian=orange, bloodstone=red, pyrite=yellow,
+#         hematite=black, tourmaline=purple, mossagate=green
+#
+# IMPORTANT: Enable 'Use External YAML = On' in Jewelcrafting's .cfg.
+# Recommended filename: Jewelcrafting.zz_GemSpawn.yml (loads late among external YAMLs).
+
+gems:
+  meadows:
+    green: 0.05672823
+    black: 0.00131926
+    purple: 0.00131926
+    blue: 0.00131926
+    yellow: 0.00131926
+    orange: 0.00131926
+    red: 0.00131926
+    white: 0.00131926
+    jade: 0.01890941
+    amber: 0.00043975
+    aquamarine: 0.00043975
+    garnet: 0.00043975
+    opal: 0.00043975
+    amethyst: 0.00043975
+    howlite: 0.00026385
+    carnelian: 0.00026385
+    bloodstone: 0.00026385
+    pyrite: 0.00026385
+    hematite: 0.00026385
+    tourmaline: 0.00026385
+    mossagate: 0.01134565
+  black forest:
+    green: 0.00161812
+    black: 0.06957929
+    purple: 0.00161812
+    blue: 0.00161812
+    yellow: 0.00161812
+    orange: 0.00161812
+    red: 0.00161812
+    white: 0.00161812
+    jade: 0.00053937
+    amber: 0.00053937
+    aquamarine: 0.00053937
+    garnet: 0.00053937
+    opal: 0.00053937
+    amethyst: 0.00053937
+    howlite: 0.00032362
+    carnelian: 0.00032362
+    bloodstone: 0.00032362
+    pyrite: 0.00032362
+    hematite: 0.01391586
+    tourmaline: 0.00032362
+    mossagate: 0.00032362
+  swamp:
+    green: 0.00131926
+    black: 0.00131926
+    purple: 0.05672823
+    blue: 0.00131926
+    yellow: 0.00131926
+    orange: 0.00131926
+    red: 0.00131926
+    white: 0.00131926
+    jade: 0.00043975
+    amber: 0.00043975
+    aquamarine: 0.00043975
+    garnet: 0.00043975
+    opal: 0.00043975
+    amethyst: 0.01890941
+    howlite: 0.00026385
+    carnelian: 0.00026385
+    bloodstone: 0.00026385
+    pyrite: 0.00026385
+    hematite: 0.00026385
+    tourmaline: 0.01134565
+    mossagate: 0.00026385
+  mountain:
+    green: 0.00148368
+    black: 0.00148368
+    purple: 0.00148368
+    blue: 0.06379822
+    yellow: 0.00148368
+    orange: 0.00148368
+    red: 0.00148368
+    white: 0.00148368
+    jade: 0.00049456
+    amber: 0.00049456
+    aquamarine: 0.02126607
+    garnet: 0.00049456
+    opal: 0.00049456
+    amethyst: 0.00049456
+    howlite: 0.00029674
+    carnelian: 0.00029674
+    bloodstone: 0.00029674
+    pyrite: 0.00029674
+    hematite: 0.00029674
+    tourmaline: 0.00029674
+    mossagate: 0.00029674
+  plains:
+    green: 0.00131926
+    black: 0.00131926
+    purple: 0.00131926
+    blue: 0.00131926
+    yellow: 0.05672823
+    orange: 0.00131926
+    red: 0.00131926
+    white: 0.00131926
+    jade: 0.00043975
+    amber: 0.01890941
+    aquamarine: 0.00043975
+    garnet: 0.00043975
+    opal: 0.00043975
+    amethyst: 0.00043975
+    howlite: 0.00026385
+    carnelian: 0.00026385
+    bloodstone: 0.00026385
+    pyrite: 0.01134565
+    hematite: 0.00026385
+    tourmaline: 0.00026385
+    mossagate: 0.00026385
+  mistlands:
+    green: 0.00161812
+    black: 0.00161812
+    purple: 0.00161812
+    blue: 0.00161812
+    yellow: 0.00161812
+    orange: 0.06957929
+    red: 0.00161812
+    white: 0.00161812
+    jade: 0.00053937
+    amber: 0.00053937
+    aquamarine: 0.00053937
+    garnet: 0.00053937
+    opal: 0.00053937
+    amethyst: 0.00053937
+    howlite: 0.00032362
+    carnelian: 0.01391586
+    bloodstone: 0.00032362
+    pyrite: 0.00032362
+    hematite: 0.00032362
+    tourmaline: 0.00032362
+    mossagate: 0.00032362
+  ash lands:
+    green: 0.00131926
+    black: 0.00131926
+    purple: 0.00131926
+    blue: 0.00131926
+    yellow: 0.00131926
+    orange: 0.00131926
+    red: 0.05672823
+    white: 0.00131926
+    jade: 0.00043975
+    amber: 0.00043975
+    aquamarine: 0.00043975
+    garnet: 0.01890941
+    opal: 0.00043975
+    amethyst: 0.00043975
+    howlite: 0.00026385
+    carnelian: 0.00026385
+    bloodstone: 0.01134565
+    pyrite: 0.00026385
+    hematite: 0.00026385
+    tourmaline: 0.00026385
+    mossagate: 0.00026385
+  deep north:
+    green: 0.00131926
+    black: 0.00131926
+    purple: 0.00131926
+    blue: 0.00131926
+    yellow: 0.00131926
+    orange: 0.00131926
+    red: 0.00131926
+    white: 0.05672823
+    jade: 0.00043975
+    amber: 0.00043975
+    aquamarine: 0.00043975
+    garnet: 0.00043975
+    opal: 0.01890941
+    amethyst: 0.00043975
+    howlite: 0.01134565
+    carnelian: 0.00026385
+    bloodstone: 0.00026385
+    pyrite: 0.00026385
+    hematite: 0.00026385
+    tourmaline: 0.00026385
+    mossagate: 0.00026385

@@ -1,0 +1,14 @@
+name: SpearElderbark
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- TrollHide:4:1:True
+- Iron:10:5:True
+- ElderBark:10:5:True
+- Coins:120:120:False

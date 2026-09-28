@@ -1,0 +1,14 @@
+name: BronzeCestus
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Bronze:10:3:False
+- LeatherScraps:5:4:False
+- Tin:5:2:False
+- Coins:60:60:False

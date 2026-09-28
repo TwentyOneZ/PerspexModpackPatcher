@@ -1,0 +1,14 @@
+name: RuneFocusX
+clonePrefabName: RuneFocus
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Shattered_Red_Crystal:4:0:False
+- Stone:1:0:False
+- Coins:30:30:False
+- Advanced_Red_Socket:0:1:False

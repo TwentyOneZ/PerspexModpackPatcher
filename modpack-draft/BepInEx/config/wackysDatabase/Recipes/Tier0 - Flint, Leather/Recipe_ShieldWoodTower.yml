@@ -1,0 +1,13 @@
+name: ShieldWoodTower
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:10:5:True
+- LeatherScraps:6:3:True
+- Coins:30:30:False

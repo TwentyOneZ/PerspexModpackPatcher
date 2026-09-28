@@ -1,0 +1,14 @@
+name: StaffIceShards
+clonePrefabName: 
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- YggdrasilWood:20:10:True
+- FreezeGland:4:2:True
+- Eitr:16:8:True
+- Coins:960:960:False

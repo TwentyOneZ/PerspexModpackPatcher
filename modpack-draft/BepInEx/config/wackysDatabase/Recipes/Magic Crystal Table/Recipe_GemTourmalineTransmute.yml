@@ -1,0 +1,13 @@
+name: GemTourmalineTransmute
+clonePrefabName: Uncut_tourmaline_Stone
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Purple_Stone:1:1:True
+- Honey:1:1:True
+- Coins:10:10:False

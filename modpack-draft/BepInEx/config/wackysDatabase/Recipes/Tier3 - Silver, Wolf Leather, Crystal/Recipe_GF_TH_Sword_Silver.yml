@@ -1,0 +1,14 @@
+name: GF_TH_Sword_Silver
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:20:0:True
+- Silver:60:20:True
+- Obsidian:5:2:True
+- Coins:240:240:True

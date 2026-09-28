@@ -1,0 +1,74 @@
+Don't forget to upgrade your crafting stations, weapons, and armor.
+Eating food increases your health and stamina pools. Try to balance your three food slots accordingly.
+Upgraded stations enable various crafting options and let you improve your equipment.
+Enemies won't spawn near player-built structures (e.g., crafting tables, campfires, etc.).
+Sitting is the safest way to travel while on a boat.
+Upon your arrival in Valheim, try to find stones and branches on the ground to build your first weapon.
+It is generally a bad idea to venture outside at night...
+Hunting deer with a ranged weapon provides a good source of meat and skin.
+Build a rudimentary shelter as soon as possible!
+Different enemies are weak to different damage types. For instance, Greydwarfs don't like fire.
+When you have built a bed, do not forget to claim it. You can mark your Hearthstone there too!
+Attacking with knives and bows while sneaking confers a large damage bonus.
+Birds are a good source of feathers. They will stay close to the ground while the weather is bad.
+Hugin the raven offers helpful hints if you didn't know them all already!
+Some resources require better gear to harvest them.
+Being rested helps to regenerate stamina and health faster.
+A resting state allows you to use a Hearthstone or check your map (if you have already visited a cartography table before).
+Yellow damage numbers indicate a weakness; grey numbers indicate a resistance.
+The hoe (or a Plateautem) can flatten the ground, which makes it much easier to construct buildings.
+Build a cart for hauling heavy goods over long distances. Haul it easier by gathering friends or attaching it to a tamed companion.
+Boats are controlled by interacting with the steering oar.
+A high Sailing skill allows you to craft better boats, sail faster, and reveal a greater part of the map.
+Tin and copper can be found in the Black Forest, iron in the Swamp, and silver in the Mountains.
+Some gems resonate with two classes. Offer them multiple times at the Eikthyr altar to switch between classes.
+Present your defeated foes' trophies to the gods as a way to gain experience.
+Use a Magic Crystal Table to imbue magic into stones, transmute gems, and create magic resources for building totems and portals.
+Creating and repairing equipment costs coins.
+Discipline improves physical class abilities such as Berserker's Dash, Ranger's Power Shot, and Monk's Chi attacks.
+Abjuration improves defensive abilities and the Valkyrie's Shield Release.
+Alteration improves abilities such as Priest healing, Druid regeneration, and Rogue poison attacks.
+Conjuration improves summoned allies and Druid roots.
+Evocation improves magical attacks such as Mage fireballs and Shaman spirit attacks.
+Illusion improves Metavoker's Replica and Light abilities.
+For many damaging class abilities, the relevant Legends skill increases power as it levels; some abilities also use a second attribute such as Endurance or Dexterity.
+Intellect reduces the cooldown of many class abilities by up to 50%.
+Dexterity reduces the cost of many class abilities by up to 50%; some abilities have a fixed cost.
+Rangers have an extra chance of critical damage when attacking with a Bow or a thrown Spear; critical chance improves this bonus.
+Rangers can heal their wolf companion (use the Wolf skill while on cooldown), consuming wolf food from inventory.
+Duelists have an extra chance of critical damage when attacking with a Sword, Knife, Axe, or Spear while their other hand is empty.
+Shamans have a chance of an extra melee attack based on Evocation skill.
+Berserkers have stamina discount when attacking with Two-Handed weapons or Dual Wielding.
+Rogues cause extra poison damage (scaled by their level and Alteration skill) when using only daggers.
+Rogues have stamina discount when attacking when using dual daggers.
+Priests cause extra spirit damage (scaled by their level and Discipline skill) when attacking with clubs.
+Monks cause extra spirit damage (scaled by their level and Discipline skill) when attacking with their fists.
+Monks have increased unarmed damage based on their level and Strength with their bare fists.
+Enchanters can imbue weapons with elemental effects; their Evocation skill improves the added elemental damage.
+Choose professions from Alchemist, Blacksmith, Builder, Cook, Farmer, Forager, Explorer, Jeweler, Lumberjack, Miner, Rancher, or Sailor.
+You can choose one profession at a time. Changing it resets that profession's skill level, and each profession is capped at level 50.
+A skilled Sailor can build superior, customizable ships. Extract oil from fish in the workbench and craft Charcoal Paste and Coated-Wood crates to craft a ship.
+A Rancher can craft saddles for Boars at skill 20 and Wolves at skill 50. Lox saddles are also available through a marketplace quest.
+As a Rancher with 10 skill you can see the timer to hunger in creatures. At 20 skill, animals don't get afraid of you when taming and your presence increases taming speed and at 40 skill you see pregnancy information.
+A Builder can build taller structures and, at level 30, craft a totem that saves and restores a building in an area.
+A Farmer can get extra crops and collect in the area at level 20, check crop timers at level 30, build a totem that takes care of their crops at level 30, and ignore biome restriction on crops at level 50.
+A Miner can build a totem that levels the terrain at skill 30.
+A Forager gets extra loot from collected berries, stones, wood, and flint on the floor. They can also plant berries bushes, mushrooms and other pickables after level 25. Extract their seeds at food preparation table.
+An Alchemist can use alchemist wands and other apparatus, as well as have a chance to duplicate the outcome of any potion recipe.
+A Chef gets better stats from their cooked food. At level 50, cooked food can be perfect, giving 10% extra speed for 3 minutes after eating.
+A Jeweler has up to 15% better chances to improve a gem, as well as socketing items.
+A Lumberjack gets more from chopping trees, deals more damage, takes less damage from falling trees, and gets a bonus movement speed in forests. They can also build a ghost lumberyard that plants and chops trees for you at level 30.
+A Blacksmith can increase the effective level of their working stations, starting at level 10.
+An Explorer have increased discovery radius, movement speed and wishbone radius. At level 30 can craft the cartography table. At level 50, you have a chance to double the content of treasure chests.
+Enchanter's Charm has a chance to break if the charmed creature attacks or takes damage, based on the Enchanter's skill and creature's hit points.
+Press ALT+Left Click on an item stack to drop the right amount to unencumber you.
+Regular shields require Strength to equip. Bucklers require Dexterity to equip. Tower shields require Endurance to equip.
+Light armor requires Dexterity to equip. Heavy armor requires Endurance to equip.
+You get 1 attribute point per level, increased every few levels. At level 100, you'll have a total of 400 attribute points.
+You will get less experience from a creature 15+ levels lower than you.
+You will deal decreased damage when fighting a creature 15+ levels higher than you.
+You will not get drops from a creature 15+ levels higher than you.
+Staying AFK at home won't trigger raids.
+Craft a Rune Focus in the Magic Crystal Table and use it in Runestones in the world to learn Rune Magic.
+Craft a Hearthstone in the Magic Crystal Table and use it to quickly return home.
+Ymir Flesh can be used to build Portals.

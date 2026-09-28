@@ -1,0 +1,13 @@
+name: CapeDeerHide
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- DeerHide:4:4:True
+- BoneFragments:5:5:True
+- Coins:30:30:False

@@ -1,0 +1,12 @@
+name: Medium_Stamina_Flask
+clonePrefabName: 
+craftingStation: $pp_alchemy_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- GreydwarfEye:3:0:True
+- Blueberries:3:0:True

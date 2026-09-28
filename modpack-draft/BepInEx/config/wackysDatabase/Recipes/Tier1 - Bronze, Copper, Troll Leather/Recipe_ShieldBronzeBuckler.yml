@@ -1,0 +1,13 @@
+name: ShieldBronzeBuckler
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Bronze:10:5:True
+- Wood:4:1:True
+- Coins:60:60:False

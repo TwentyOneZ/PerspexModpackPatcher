@@ -1,0 +1,12 @@
+name: Recipe_Boss_Crystal_5
+clonePrefabName: Boss_Crystal_5
+craftingStation: $custom_sky_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- YagluthDrop:8:0:False
+- Uncut_Red_Stone:1:0:False

@@ -1,0 +1,13 @@
+name: Club
+clonePrefabName: 
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:6:0:True
+- BoneFragments:0:5:True
+- Coins:0:15:True

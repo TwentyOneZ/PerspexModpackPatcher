@@ -1,0 +1,11 @@
+name: GemCarnelianShattered
+clonePrefabName: Shattered_carnelian_Crystal
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_carnelian_Stone:1:1:True

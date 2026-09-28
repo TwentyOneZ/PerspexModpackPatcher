@@ -1,0 +1,19 @@
+name: BattleaxeGold_BloodLightning
+clonePrefabName: 
+craftingStation: $piece_blackforge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- BattleaxeGold:1:0:False
+- Gold:20:10:True
+- OrbThunderBlood:1:1:False
+- Upgrader7Weapon:1:0:False
+- Coins:3840:3840:False

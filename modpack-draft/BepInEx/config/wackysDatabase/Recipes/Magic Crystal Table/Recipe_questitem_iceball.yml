@@ -1,0 +1,13 @@
+name: questitem_iceball
+clonePrefabName: questitem_iceball
+craftingStation: $custom_sky_forge
+minStationLevel: 3
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Uncut_Blue_Stone:1:1:True
+- Thunderstone:1:1:True
+- YmirRemains:1:1:True

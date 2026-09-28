@@ -1,0 +1,14 @@
+name: Hearthstone
+clonePrefabName: 
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Shattered_Orange_Crystal:1:1:True
+- Resin:1:1:True
+- Thunderstone:1:1:True
+- Coins:10:10:True

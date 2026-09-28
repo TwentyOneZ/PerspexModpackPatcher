@@ -1,0 +1,14 @@
+name: GF_Atgeir_Flint
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:10:5:True
+- Flint:15:7:True
+- LeatherScraps:5:2:True
+- Coins:30:30:True

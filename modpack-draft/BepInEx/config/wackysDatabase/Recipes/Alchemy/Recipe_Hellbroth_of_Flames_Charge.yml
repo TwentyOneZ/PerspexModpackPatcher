@@ -1,0 +1,11 @@
+name: Hellbroth_of_Flames_Charge
+clonePrefabName: 
+craftingStation: $pp_potion_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 3
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Hellbroth_of_Flames:1:0:True

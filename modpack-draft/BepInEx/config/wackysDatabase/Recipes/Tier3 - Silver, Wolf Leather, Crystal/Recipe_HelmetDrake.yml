@@ -1,0 +1,14 @@
+name: HelmetDrake
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Silver:20:5:True
+- WolfPelt:2:0:True
+- TrophyHatchling:2:0:True
+- Coins:240:240:False

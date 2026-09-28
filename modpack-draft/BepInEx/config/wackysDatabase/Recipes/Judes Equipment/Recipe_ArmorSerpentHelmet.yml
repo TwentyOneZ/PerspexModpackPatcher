@@ -1,0 +1,18 @@
+name: ArmorSerpentHelmet
+clonePrefabName: null
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: null
+repairStation: $piece_forge
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Iron:8:2:True
+- SerpentScale:8:2:True
+- TrophySerpent:1:0:True
+- Coins:240:120:False

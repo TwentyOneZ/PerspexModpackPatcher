@@ -1,0 +1,12 @@
+name: Recipe_YmirRemains2
+clonePrefabName: YmirRemains
+craftingStation: $custom_sky_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: $custom_sky_forge
+amount: 9
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Boss_Crystal_2:1:0:False
+- Wood:6:0:False

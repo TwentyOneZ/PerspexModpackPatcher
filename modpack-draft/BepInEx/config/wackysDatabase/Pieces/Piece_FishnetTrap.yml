@@ -1,0 +1,66 @@
+name: FishnetTrap
+piecehammer: Hammer
+m_name: Fishnet Trap
+sizeMultiplier: 1
+m_description: Catches fishes over time if fueled with proper fishing bait
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: Crafting
+minStationLevel: 1
+amount: 1
+disabled: false
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: true
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 400
+  damageModifiers:
+    m_blunt: Weak
+    m_slash: Weak
+    m_pierce: Resistant
+    m_chop: Weak
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+  materialType: Wood
+  burnable: true
+craftingStationData: 
+cSExtensionData: 
+cSExtensionDataList: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+plantData: 
+shipData: 
+shieldGenData: 
+batteringRamData: 
+build:
+- FineWood:4:0:True
+- LeatherScraps:8:0:True
+- blueprintFishtrap:1:0:True
+- CoalPaste:4:0:True
+- FishingBait:10:0:True

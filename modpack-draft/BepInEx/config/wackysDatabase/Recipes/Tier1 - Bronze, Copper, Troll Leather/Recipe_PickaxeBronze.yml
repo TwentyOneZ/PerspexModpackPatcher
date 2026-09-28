@@ -1,0 +1,13 @@
+name: PickaxeBronze
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- RoundLog:3:1:True
+- Bronze:10:5:True
+- Coins:60:60:False

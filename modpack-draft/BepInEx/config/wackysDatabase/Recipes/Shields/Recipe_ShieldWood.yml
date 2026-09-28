@@ -1,0 +1,16 @@
+name: ShieldWood
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+disabledUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Wood:10:5:True
+- Resin:4:2:True
+- LeatherScraps:4:2:True
+- Coins:30:30:False

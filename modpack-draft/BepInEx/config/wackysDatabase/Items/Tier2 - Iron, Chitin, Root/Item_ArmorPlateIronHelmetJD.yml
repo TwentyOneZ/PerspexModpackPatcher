@@ -1,0 +1,101 @@
+name: ArmorPlateIronHelmetJD
+m_weight: 20
+m_name: $ArmorPlateIronHelmetJD
+m_description: >-
+  $ArmorPlateIronHelmetJD_description
+
+
+  <color=YELLOW>Requires Endurance 27</color>
+clonePrefabName: null
+mockName: null
+mockBasePrefab: null
+customIcon: null
+material: null
+materials: null
+customVisual: null
+snapshotRotation: null
+snapshotOnMaterialChange: true
+sizeMultiplier: 1
+scale_weight_by_quality: 0
+Primary_Attack: null
+Secondary_Attack: null
+Damage: null
+Damage_Per_Level: null
+Armor:
+  armor: 14
+  armorPerLevel: 3
+FoodStats: null
+Moddifiers:
+  m_movementModifier: 0.0
+  m_EitrRegen: 0
+  m_homeItemsStaminaModifier: 0
+  m_heatResistanceModifier: 0
+  m_jumpStaminaModifier: 0
+  m_attackStaminaModifier: 0
+  m_blockStaminaModifier: 0
+  m_dodgeStaminaModifier: 0
+  m_swimStaminaModifier: 0
+  m_sneakStaminaModifier: 0
+  m_runStaminaModifier: 0
+SE_Equip: null
+SE_SET_Equip:
+  SetName: Perspex_Judes_Plate
+  Size: 3
+  EffectName: Perspex_Judes_Plate_Set
+  HideEquipEffectsUntilSetComplete: false
+SE_SET_Equips: null
+ShieldStats:
+  m_blockPower: 10
+  m_blockPowerPerLevel: 0
+  m_timedBlockBonus: 1.5
+  m_deflectionForce: 0
+  m_deflectionForcePerLevel: 0
+  m_perfectBlockStaminaRegen: 0
+  m_perfectBlockStatusEffect: null
+  m_buildBlockCharges: false
+  m_maxBlockCharges: 5
+  m_blockChargeDecayTime: 1
+AdrenalineStats: null
+m_maxStackSize: 1
+m_canBeReparied: true
+m_destroyBroken: false
+m_upgradeChance: 0.65
+m_breakChance: 0.1
+m_successUpgradeSteps: 1
+m_breakReturnIngreientsAmount: 0.5
+m_dodgeable: false
+blockable: false
+Attack_status_effect: null
+Attack_status_effect_chance: 1
+spawn_on_hit: null
+spawn_on_terrain_hit: null
+m_questItem: false
+m_teleportable: true
+m_backstabbonus: 4
+m_knockback: 30
+m_useDurability: true
+m_useDurabilityDrain: 1
+m_durabilityDrain: 0
+m_maxDurability: 1000
+m_durabilityPerLevel: 200
+m_equipDuration: 1
+Attach_Override: None
+m_skillType: Swords
+m_animationState: OneHanded
+m_itemType: Helmet
+ammoType: null
+m_toolTier: 0
+m_maxQuality: 7
+m_value: 0
+ConsumableStatusEffect: null
+AppendToolTip: null
+damageModifiers:
+- Lightning:Weak
+GEffects: null
+GEffectsPLUS:
+  Hit_Effects: []
+  Hit_Terrain_Effects: []
+  Start_Effect: []
+  Hold_Start_Effects: []
+  Trigger_Effect: []
+  Trail_Effect: []

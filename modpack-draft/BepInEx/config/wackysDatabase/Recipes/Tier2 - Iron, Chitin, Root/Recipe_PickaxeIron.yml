@@ -1,0 +1,13 @@
+name: PickaxeIron
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- RoundLog:3:1:True
+- Iron:20:10:True
+- Coins:120:120:False

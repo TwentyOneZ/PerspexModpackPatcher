@@ -1,0 +1,53 @@
+# PerspexModpackPatcher
+
+One DLL containing the Perspex compatibility fixes and independently rebuilt features. Install on the client and server with Jötunn. The ZIP includes no binaries from other mods.
+
+## Repository layout
+
+The root contains the patcher source, `PerspexModpackPatcher.csproj`, `manifest.json`, packaging script, and release documentation. `modpack-draft` contains the DLL-free Perspex 1.4.0 modpack manifest, README, changelog, and `BepInEx` configuration tree. Install the original mods listed in each manifest separately. Build outputs, extracted mod assemblies, game logs, and local profile backups are intentionally excluded from Git.
+
+To build, install .NET SDK and set `ValheimPath` to your Valheim directory. The project also needs local copies of BepInEx, Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem at the reference paths in the project file; adjust those paths for your machine. Run `dotnet build PerspexModpackPatcher.csproj -c Release -p:ValheimPath="<Valheim directory>"`. The modpack draft has placeholder values for server address, password and webhooks; fill those only in a private deployment copy.
+
+## Features
+
+- Hearthstone, Marketstone and Deathstone consumables. Look at an owned bed and press **P** to set the Hearthstone destination. Home and death positions are stored with the player and can read prior Hearthstone position files.
+- Consumable trophies for extra rows, quick slots, lightweight slots, ammo, misc, food and four utility slot levels. The trophies set player keys used by the modpack's ExtraSlots configuration.
+- Coin cost for repairing worn equipment, based on the coin amount in its crafting recipe, quality, wear and a configurable multiplier. The repair tooltip lists costs, and coins are removed after a successful repair.
+- Creature trophies grant configurable experience when EpicMMOSystem is installed. The original UsefulTrophiesXP DLL is not needed.
+- Exploration map access only while the profession is selected, with a large-map exception while sitting near a fire, plus treasure bonuses. The conflicting map and treasure hooks from Professions and Exploration are removed when detected.
+- Optional Valheim Legends HUD placement and class storage in vanilla player data. With ServerCharacters installed, character saves can carry this class value.
+- Professions 1.4.7 patch for Craftsman Trophy slot purchases, 50% skill recovery on relearning, and levels in each profession's status square. `BlockExperience` permits use without XP; `BlockUsage` prevents use while inactive.
+- Valheim Legends ability cost, cooldown and skill gain adjustments, plus point patches for the published attack methods, Priest and Druid healing, Shaman Spirit Drain, Monk damage and Surge, Power Shot, Execute, Duelist Riposte and selected class status effects.
+- Metavoker Translocation: Block + Ability 2 opens a player picker for accepted Go To or Summon requests, with safe destinations, stamina cost, and cooldown.
+- Shaman Chain Healing on Block + Ability 3, with healing reduced by 30% for each nearby ally healed.
+- Druid Fenring shapeshift on Block + Ability 2, with Eitr sustain and Shadow Stalk, Stagger and Dash while transformed.
+- Ranger wolf summons with synchronized scale, food-based healing and dismissal during Ability 2 cooldown.
+- Monk Chi Power Up on Block + Chi Strike: spend 80% of maximum stamina for one Chi charge, up to three uses before a separate 120-second cooldown.
+- Sit and use the third class ability to repair equipped gear: Duelist one-handed blades, Ranger bows and crossbows, Berserker one- or two-handed weapons, Valkyrie shields and Enchanter staves. Discipline or Alteration improves stamina efficiency; repair starts the ability cooldown.
+- Munin class tutorials describe the modified abilities and show gemstone names instead of internal item identifiers.
+- Metavoker Reactive Armor on Block + Ability 1, with charge release on Block + Ability 3.
+- Mage Fire, Frost and Arcane affinities with charge regeneration, focus switching, meditation, independent Fireball/Meteor and Frost abilities, Arcane toggles, Eitr Shield, elemental damage passives and Thunderstone Surge.
+- Enchanter elemental weapon and armor cycles, stack-based weapon procs, staff restoration while sitting and Thunderstone cooldown relief.
+- Enchanter biome effects for Meadows, Black Forest, Swamp, Mountain, Plains, Ocean, Mist and Ash.
+- Enchanter charm taming, expiry immunity and Charm Control; Shaman Windfury bonus strikes and cooldown reset; Druid root projectile immobilization.
+- Local Berserker low-health damage curve, Priest club spirit damage, Ranger ranged criticals and Duelist one-handed melee criticals; the published Enchanter random elemental touch is disabled in favor of the reconstructed imbues.
+- Duelist Challenge coin stakes and completion rewards, coin-cost Quick Shot, and Rogue Snatch rewards on eligible melee hits.
+- CraftyCarts crafting station network view lookup through its parent cart when necessary.
+
+## Installation
+
+Install this package with a mod manager or put `PerspexModpackPatcher.dll` in `BepInEx/plugins` on every client and the server. Its manifest declares Jötunn, Dekas Valheim Legends 0.7.10, Professions and EpicMMOSystem as dependencies. The Perspex modpack separately depends on BowsBeforeHoes 2.0.0, ItemRequiresSkillLevel and Exploration. CraftyCarts and ServerCharacters are optional integrations that the modpack may include separately.
+
+Remove the old `Hearthstone.dll`, `PlayerKeyTrophies.dll`, `RepairRequiresCoins.dll`, `UsefulTrophiesXP.dll`, `ExplorationMap.dll`, `ValheimLegendsHudFix.dll`, `BbhAmmoFix.dll`, `BbhTrace.dll`, `CraftyCartsValheim1Fix.dll` and `PerspexCharacterAuthority.dll` from the profile. Do not load old and new implementations together.
+
+The modpack supplies teleport stones and slot trophies through WackysDatabase configuration. For a standalone installation without those definitions, enable `Items.RegisterFallbackItems` in `BepInEx/config/twentyonez.perspex.patcher.cfg` to register basic items cloned from Thunderstone. Hearthstone restrictions for portal items, enemies, encumbrance, water and resting are configurable there.
+
+## Credits
+
+The patcher operates on separately installed original mods. [Dekas' Valheim Legends Fork](https://thunderstore.io/c/valheim/p/Dekas/Valheim_Legends_Fork/) and [Smoothbrain's Professions](https://valheim.hexium.gg/mods/Smoothbrain/Professions) remain their authors' packages. The modpack installs [Azumatt's Bows Before Hoes](https://valheim.hexium.gg/mods/Azumatt/BowsBeforeHoes) directly; the patcher does not modify it.
+
+## Current compatibility limits
+
+Inactive professions follow each skill's `BlockExperience` or `BlockUsage` setting. Set `Diagnostics.HotbarInput=true` temporarily to log up to 64 physical presses of the 1–8 keys when diagnosing hotbar input on Windows.
+
+The Legends integration targets Dekas 0.7.10. The Perspex test profile was updated to the published 0.7.10 DLL, and the ten replaced local DLLs were disabled with backups under this source tree's `obj/profile-before-patcher-0.2.0`. Static IL checks and compilation pass, but the integrations still need a client/server play test. **Full behavior parity with the customized local ValheimLegends source is not yet verified.** See `audit/PARITY.md`. ServerCharacters 1.4.17 starts a new server character store; this package does not migrate PerspexCharacterAuthority snapshots.

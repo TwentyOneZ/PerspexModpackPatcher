@@ -1,0 +1,13 @@
+name: Hammer
+clonePrefabName: 
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:3:1:True
+- Stone:2:1:True
+- Coins:0:15:True

@@ -1,0 +1,23 @@
+name: Mob_chunks
+clonePrefabName: 
+craftingStation: ''
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: true
+reqs:
+- TrophyBoar:4:0:True
+- TrophyNeck:4:0:True
+- TrophyDeer:4:0:True
+- TrophyFrostTroll:2:0:True
+- TrophyEikthyr:2:0:True
+- TrophyGreydwarfBrute:2:0:True
+- TrophyGreydwarfShaman:3:0:True
+- TrophyBlob:3:0:True
+- TrophyGreydwarf:4:0:True
+- TrophyDraugr:3:0:True
+- TrophySkeleton:4:0:True
+- TrophySerpent:2:0:True
+- TrophyWolf:4:0:True

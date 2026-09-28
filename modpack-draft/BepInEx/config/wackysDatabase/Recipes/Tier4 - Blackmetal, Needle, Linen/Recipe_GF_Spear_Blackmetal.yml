@@ -1,0 +1,14 @@
+name: GF_Spear_Blackmetal
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:60:20:True
+- BlackMetal:15:5:True
+- LinenThread:15:5:True
+- Coins:480:480:True

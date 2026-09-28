@@ -1,0 +1,13 @@
+name: BlueprintRune
+clonePrefabName: 
+craftingStation: $custom_sky_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Shattered_Orange_Crystal:1:0:False
+- Resin:5:0:False
+- Stone:5:0:False

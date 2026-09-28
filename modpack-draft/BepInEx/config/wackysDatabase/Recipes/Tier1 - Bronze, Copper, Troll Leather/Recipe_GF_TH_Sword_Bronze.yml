@@ -1,0 +1,14 @@
+name: GF_TH_Sword_Bronze
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- RoundLog:20:10:True
+- Bronze:30:15:True
+- DeerHide:10:3:True
+- Coins:60:60:True
