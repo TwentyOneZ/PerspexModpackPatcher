@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.22 — 2026-09-28
+
+- Fixed the Harmony ObjectDB registration hook for the Deep North status. Its invalid parameter name prevented item registration and broke multiplayer login.
+
 ## 0.2.21 — 2026-09-28
 
 - Added Deep North Zone Charge: firm footing on ice, free movement in deep snow, and Last Shelter, which consumes the buff to prevent one fatal hit.

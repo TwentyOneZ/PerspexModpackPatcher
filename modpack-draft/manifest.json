@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpack",
-  "version_number": "1.4.8",
+  "version_number": "1.4.9",
   "website_url": "https://github.com/twentyonez",
   "description": "This modpack focus on diversity of gameplay styles, choices, exploration and rewards. Balanced, slightly harder experience than vanilla. Jewecrafting, character classes, magic, mounts, hardcore exploration, ship building, potions and economy.",
   "dependencies": [
@@ -107,7 +107,7 @@
 		"MathiasDecrock-PlanBuild-0.19.1",
 		"hyleanlegend-Rune_Magic-1.5.1",
 		"Azumatt-TrueInstantLootDrop-1.0.5",
-		"WackyMole-WackysDatabase-2.5.35",
+    "WackyMole-WackysDatabase-2.5.36",
 		"RandyKnapp-AdvancedPortals-1.2.0",
 		"ValMedia-OdinOnDemand-1.3.0",
 		"ValMedia-OOD_LIB-1.2.0",

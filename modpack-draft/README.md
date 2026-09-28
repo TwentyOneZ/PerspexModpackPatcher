@@ -6,7 +6,7 @@ Install with Gale, which resolves this pack's Hexium and Thunderstore dependenci
 
 PerspexCharacterAuthority 1.0.7 is included inside `PerspexModpackPatcher.dll` and must run on the server and every client. It saves each character on the server in `BepInEx/config/PerspexCharacterAuthority/Characters/<account hash>/<character ID>/current.pca`, with backups alongside it. The first join uses the bundled `TwentyOneZ.PerspexCharacterAuthority.cfg` settings and begins fresh progression. Remove any separate `PerspexCharacterAuthority.dll` from an older installation.
 
-PerspexModpackPatcher 0.2.21 also includes the MyriadJewels login performance fix and the Deep North Zone Charge buff. Remove any separate `MyriadJewelsPerformancePatch.dll` from older profiles to avoid duplicate patches.
+PerspexModpackPatcher 0.2.22 also includes the MyriadJewels login performance fix and the Deep North Zone Charge buff. Remove any separate `MyriadJewelsPerformancePatch.dll` from older profiles to avoid duplicate patches.
 
 Features:
 <ul>

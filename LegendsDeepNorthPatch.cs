@@ -44,10 +44,10 @@ internal static class LegendsDeepNorthPatch
         return effect;
     }
 
-    private static void Register(ObjectDB db)
+    private static void Register(ObjectDB __instance)
     {
-        if (db?.m_StatusEffects == null || db.m_StatusEffects.Exists(effect => effect?.name == EffectName)) return;
-        db.m_StatusEffects.Add(Create());
+        if (__instance?.m_StatusEffects == null || __instance.m_StatusEffects.Exists(effect => effect?.name == EffectName)) return;
+        __instance.m_StatusEffects.Add(Create());
     }
 
     private static bool ZoneCharge(Player player, float altitude)

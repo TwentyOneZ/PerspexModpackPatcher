@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.9</h3>
+<ul>
+<li>Fixed Deep North ObjectDB registration. The invalid Harmony hook blocked item registration and caused a disconnect during character snapshot restoration. Updated WackysDatabase dependency to 2.5.36, matching the client and server logs.</li>
+</ul>
+
 <h3>Changelog 1.4.8</h3>
 <ul>
 <li>Updated PerspexModpackPatcher to 0.2.21. Zone Charge now grants a Deep North buff that prevents slipping on ice and slowing in deep snow. One otherwise fatal hit leaves the player at 1 Health and consumes the buff.</li>
