@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.7</h3>
+<ul>
+<li>Added Agility requirements for all 21 BowsBeforeHoes arrows and 11 quivers, scaled by crafting tier and effects. Magical items also require Intellect.</li>
+<li>Added the missing vanilla Wood Arrow requirement.</li>
+</ul>
+
 <h3>Changelog 1.4.6</h3>
 <ul>
 <li>Merged PerspexCharacterAuthority into PerspexModpackPatcher 0.2.20. The pack now contains one gameplay DLL and the Legends preloader; existing 1.4.5 server snapshots and configuration remain compatible.</li>

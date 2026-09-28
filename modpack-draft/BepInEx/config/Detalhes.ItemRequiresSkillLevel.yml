@@ -1,3 +1,17 @@
+- PrefabName: AegisArrow
+  Requirements:
+  - Skill: Agility
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 65
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: ArmorAshlandsMediumChest
   Requirements:
   - Skill: Agility
@@ -746,6 +760,28 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: Dexterity
+- PrefabName: ArrowWood
+  Requirements:
+  - Skill: Agility
+    Level: 1
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: AshenArrow
+  Requirements:
+  - Skill: Agility
+    Level: 82
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 50
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: AtgeirBlackmetal
   Requirements:
   - Skill: Strength
@@ -1098,6 +1134,118 @@
     ExhibitionName: 
   - Skill: Intellect
     Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BBH_BlackForest_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 16
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Bonecrest_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 28
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Eitr_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 72
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 72
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BBH_Frostbound_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 80
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BBH_Leather_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_OdinPlus_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 84
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 60
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: BBH_PlainsLox_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 52
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Ranger_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Runed_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 5
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Seeker_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: BBH_Yagluth_Quiver
+  Requirements:
+  - Skill: Agility
+    Level: 62
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 40
     BlockCraft: false
     BlockEquip: true
     EpicMMO: true
@@ -1920,6 +2068,20 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: Dexterity
+- PrefabName: BulwarkArrow
+  Requirements:
+  - Skill: Agility
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 75
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: CapeAsh
   Requirements:
   - Skill: Level
@@ -2110,6 +2272,20 @@
     BlockEquip: false
     EpicMMO: false
     ExhibitionName: 
+- PrefabName: EitrArrow
+  Requirements:
+  - Skill: Agility
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 75
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: FiddleheadSeeds
   Requirements:
   - Skill: Foraging
@@ -2210,6 +2386,20 @@
     ExhibitionName: 
   - Skill: Intellect
     Level: 35
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: FrostfireArrow
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 90
     BlockCraft: false
     BlockEquip: true
     EpicMMO: true
@@ -2436,10 +2626,26 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: GrappleArrow
+  Requirements:
+  - Skill: Agility
+    Level: 92
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: GrapplingHook
   Requirements:
   - Skill: Agility
     Level: 88
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: HarpoonArrow
+  Requirements:
+  - Skill: Agility
+    Level: 22
     BlockCraft: false
     BlockEquip: true
     EpicMMO: true
@@ -2874,6 +3080,34 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: MendingArrow
+  Requirements:
+  - Skill: Agility
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: MistTorchArrow
+  Requirements:
+  - Skill: Agility
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 50
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: MushroomBlueSeeds
   Requirements:
   - Skill: Foraging
@@ -3064,6 +3298,14 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: PinningArrow
+  Requirements:
+  - Skill: Agility
+    Level: 52
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: questitem_book_01
   Requirements:
   - Skill: Sailing
@@ -3176,6 +3418,34 @@
     BlockEquip: false
     EpicMMO: false
     ExhibitionName: 
+- PrefabName: RiftArrow
+  Requirements:
+  - Skill: Agility
+    Level: 72
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 70
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: RimewardArrow
+  Requirements:
+  - Skill: Agility
+    Level: 95
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 85
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: RuneFocus
   Requirements:
   - Skill: Intellect
@@ -3224,6 +3494,22 @@
     BlockEquip: false
     EpicMMO: false
     ExhibitionName: 
+- PrefabName: SapperArrow
+  Requirements:
+  - Skill: Agility
+    Level: 30
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+- PrefabName: SeekerArrow
+  Requirements:
+  - Skill: Agility
+    Level: 68
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: ShieldBanded
   Requirements:
   - Skill: Strength
@@ -3352,6 +3638,14 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: Endurance
+- PrefabName: SignalArrow
+  Requirements:
+  - Skill: Agility
+    Level: 8
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: SilverCestus
   Requirements:
   - Skill: Strength
@@ -3432,6 +3726,14 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: SnareArrow
+  Requirements:
+  - Skill: Agility
+    Level: 25
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: SpearBronze
   Requirements:
   - Skill: Strength
@@ -3644,6 +3946,20 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: Dexterity
+- PrefabName: SpiritArrow
+  Requirements:
+  - Skill: Agility
+    Level: 96
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 90
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
 - PrefabName: StaffClusterbomb
   Requirements:
   - Skill: Intellect
@@ -3976,6 +4292,14 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: TarArrow
+  Requirements:
+  - Skill: Agility
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: ThistleSeeds
   Requirements:
   - Skill: Foraging
@@ -4084,6 +4408,42 @@
     BlockEquip: true
     EpicMMO: true
     ExhibitionName: 
+- PrefabName: ThunderArrow
+  Requirements:
+  - Skill: Agility
+    Level: 55
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 40
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: ThunderbloodArrow
+  Requirements:
+  - Skill: Agility
+    Level: 100
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
+  - Skill: Intellect
+    Level: 95
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: 
+- PrefabName: TorchArrow
+  Requirements:
+  - Skill: Agility
+    Level: 14
+    BlockCraft: false
+    BlockEquip: true
+    EpicMMO: true
+    ExhibitionName: Dexterity
 - PrefabName: TrinketBlackDamageHealth
   Requirements:
   - Skill: Strength
