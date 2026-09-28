@@ -1,5 +1,6 @@
 <h3>Changelog 1.4.5</h3>
 <ul>
+<li>Restored PerspexCharacterAuthority 1.0.6 on clients and server, with authoritative character snapshots, account binding, autosaves and backups. Its Legends class integration now uses the published fork and Perspex patcher.</li>
 <li>Added Valheim10Compatibility 1.4.1 as a dependency for clients. It restores legacy Valheim 1.0 API members missing during character load, the cause of repeated spawn failures in the client log.</li>
 </ul>
 

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>PerspexCharacterAuthority</AssemblyName>
+    <Version>1.0.6</Version>
+    <ValheimPath Condition="'$(ValheimPath)' == ''">D:\spellbook\steam\steamapps\common\Valheim</ValheimPath>
+    <Managed>$(ValheimPath)\valheim_Data\Managed</Managed>
+    <Core>$(ValheimPath)\BepInEx\core</Core>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PerspexModpackPatcher.csproj" />
+    <Reference Include="BepInEx"><HintPath>$(Core)\BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(Core)\0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="assembly_valheim"><HintPath>$(Managed)\assembly_valheim.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="assembly_utils"><HintPath>$(Managed)\assembly_utils.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(Managed)\UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(Managed)\UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

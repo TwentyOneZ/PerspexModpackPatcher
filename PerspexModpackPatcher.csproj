@@ -10,6 +10,8 @@
   <ItemGroup>
     <Compile Remove="audit\**\*.cs" />
     <Compile Remove="preloader\**\*.cs" />
+    <Compile Remove="authority\**\*.cs" />
+    <Compile Remove="authority.Tests\**\*.cs" />
     <Compile Remove="tests\**\*.cs" />
     <EmbeddedResource Include="TrophyXpDefaults.txt" />
     <EmbeddedResource Include="Assets\Hearthstone.png" />

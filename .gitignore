@@ -2,6 +2,10 @@
 /bin/
 /preloader/obj/
 /preloader/bin/
+/authority/obj/
+/authority/bin/
+/authority.Tests/obj/
+/authority.Tests/bin/
 /tests/obj/
 /tests/bin/
 /release/

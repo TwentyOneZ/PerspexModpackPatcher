@@ -4,6 +4,8 @@ Perspex changes many parts of Valheim to emphasize different play styles, charac
 
 Install with Gale, which resolves this pack's Hexium and Thunderstore dependencies in one profile. The pack uses Dekas' Valheim Legends Fork 0.7.10 as a separate dependency.
 
+The bundled PerspexCharacterAuthority 1.0.6 must be installed on the server and every client. It saves each character on the server in `BepInEx/config/PerspexCharacterAuthority/Characters/<account hash>/<character ID>/current.pca`, with backups alongside it. The first join uses the bundled `TwentyOneZ.PerspexCharacterAuthority.cfg` settings and begins fresh progression.
+
 Features:
 <ul>
 <li>Economy based on coins! Crafting and repairing items requires coins, as well as learning new professions.</li>

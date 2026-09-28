@@ -1,6 +1,6 @@
 # Perspex 1.4.0 publication status
 
-The 0.2.15 patcher ZIP and a 1.4.0 modpack draft ZIP are in `release`. The `modpack-draft` folder contains the 1.4.0 modpack metadata with `PerspexModpackPatcher` and `Smoothbrain-ServerCharacters-1.4.17` dependencies. Character persistence may start from zero, so no PerspexCharacterAuthority snapshot importer is needed.
+The 0.2.18 patcher and 1.4.5 modpack are built from this repository. PerspexCharacterAuthority 1.0.6 is included as a separate Perspex DLL, built from the original source with the published Legends integration adapted to the patcher. Character persistence starts from zero; no earlier snapshot importer is required.
 
 The supplied `PerspexModpack-1.4.0/BepInEx/config` is empty. `modpack-draft` stages the profile configuration and the two TradersExtended JSON files used by This Goes Here. The former BowsBeforeHoes 1.3.14 config was removed, following the 2.0.0 author's upgrade note, so the mod generates a fresh config. The staging script strips active webhook credentials and passwords and omits original mod DLLs. Review distribution rights for included images before publishing the **modpack**.
 
@@ -14,7 +14,7 @@ The supplied `PerspexModpack-1.4.0/BepInEx/config` is empty. `modpack-draft` sta
 | `ValheimLegendsHudFix.dll` | Optional patch over the original Legends DLL |
 | `BbhAmmoFix.dll`, `BbhTrace.dll` | Omit; the modpack now uses BowsBeforeHoes 2.0.0 directly, without patcher hooks |
 | `CraftyCartsValheim1Fix.dll` | Optional patch over CraftyCarts |
-| `PerspexCharacterAuthority.dll` | ServerCharacters dependency for server character storage; patcher stores the Legends class in player data |
+| `PerspexCharacterAuthority.dll` | Rebuilt PerspexCharacterAuthority 1.0.6 in `authority/`, bundled on clients and server; the patcher stores the Legends class in player data |
 | `ValheimLegends.dll.bak` | Omit; this backup is byte-identical to the formerly installed modified 0.5.3 DLL. The test profile now has the published Dekas 0.7.10 DLL; the separate local source has additional changes whose parity remains unverified. |
 | `Farming.dll.bak` | Omit; the local Farming checkout changes only its build copy destination. The restored DLL is byte-identical to the Hexium 2.2.3 package. |
 | `Professions.dll.bak` | A source patch now covers Craftsman Trophy profession slot progression, partial skill retention, and panel indicators over Hexium 1.4.7. It compiles, but has not yet been validated in a client/server play test. |

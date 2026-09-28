@@ -7,6 +7,8 @@ $project = Join-Path $root 'PerspexModpackPatcher.csproj'
 if ($LASTEXITCODE -ne 0) { throw 'Build failed' }
 & dotnet build (Join-Path $root 'preloader\PerspexLegendsPreloader.csproj') -c Release -p:ValheimPath=$ValheimPath -v:q
 if ($LASTEXITCODE -ne 0) { throw 'Preloader build failed' }
+& dotnet build (Join-Path $root 'authority\PerspexCharacterAuthority.csproj') -c Release -p:ValheimPath=$ValheimPath -v:q
+if ($LASTEXITCODE -ne 0) { throw 'Character authority build failed' }
 
 $stage = Join-Path $root 'release\PerspexModpackPatcher'
 New-Item -ItemType Directory -Path $stage -Force | Out-Null
@@ -14,6 +16,7 @@ foreach ($file in @('manifest.json', 'README.md', 'CHANGELOG.md')) {
     Copy-Item -LiteralPath (Join-Path $root $file) -Destination $stage -Force
 }
 Copy-Item -LiteralPath (Join-Path $root 'bin\Release\netstandard2.1\PerspexModpackPatcher.dll') -Destination $stage -Force
+Copy-Item -LiteralPath (Join-Path $root 'authority\bin\Release\netstandard2.1\PerspexCharacterAuthority.dll') -Destination $stage -Force
 Copy-Item -LiteralPath (Join-Path $root 'icon.png') -Destination $stage -Force
 $patchers = Join-Path $stage 'patchers'
 New-Item -ItemType Directory -Path $patchers -Force | Out-Null

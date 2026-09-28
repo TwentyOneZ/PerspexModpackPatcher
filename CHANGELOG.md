@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.18 — 2026-09-28
+
+- Restored PerspexCharacterAuthority as a bundled, separately built Perspex plugin. It authorizes character spawn against server snapshots and saves player data, account bindings and backups on the server.
+- Adapted Legends class persistence to the published fork and patcher custom data; fresh progression now clears the class and teleport destinations.
+
 ## 0.2.17 — 2026-09-28
 
 - Delay the Legends preloader hook until BepInEx has patched UnityEngine.CoreModule, avoiding the early assembly load that prevented the plugin chainloader from starting in a clean Gale profile.

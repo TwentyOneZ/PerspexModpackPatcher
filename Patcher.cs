@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.17")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.18")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 [BepInDependency("ValheimLegends")]
 public sealed class Patcher : BaseUnityPlugin
@@ -42,7 +42,7 @@ public sealed class Patcher : BaseUnityPlugin
         harmony = new Harmony("twentyonez.perspex.patcher");
         harmony.PatchAll();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.17 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.18 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();
@@ -278,11 +278,12 @@ internal static class HearthstonePatch
 
     private static Vector3 Get(Player player, string key)
     {
-        var zdo = player.GetComponent<ZNetView>()?.GetZDO();
-        var position = zdo?.GetVec3(key, Vector3.zero) ?? Vector3.zero;
-        if (position != Vector3.zero) return position;
+        var position = Vector3.zero;
         if (player.m_customData.TryGetValue(key, out var saved) && TryParsePosition(saved, out position))
             return position;
+        var zdo = player.GetComponent<ZNetView>()?.GetZDO();
+        position = zdo?.GetVec3(key, Vector3.zero) ?? Vector3.zero;
+        if (position != Vector3.zero) return position;
         try
         {
             var file = PositionFile(player, key);

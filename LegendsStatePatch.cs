@@ -8,7 +8,7 @@ using ValheimLegends;
 namespace PerspexModpackPatcher;
 
 // Keeps the selected class in vanilla player data so server-side character storage carries it.
-internal static class LegendsStatePatch
+public static class LegendsStatePatch
 {
     private const string ClassKey = "Perspex.Legends.Class";
     private static Player current;
@@ -159,6 +159,21 @@ internal static class LegendsStatePatch
     private static void BeforeSave(Player __instance)
     {
         if (__instance == Player.m_localPlayer) Sync();
+    }
+
+    public static void ApplyAuthorityClass(Player player, int classId)
+    {
+        if (player == null || !Enum.IsDefined(typeof(ValheimLegends.ValheimLegends.PlayerClass), classId)) return;
+        var selected = (ValheimLegends.ValheimLegends.PlayerClass)classId;
+        player.m_customData[ClassKey] = classId.ToString();
+        if (player != Player.m_localPlayer) return;
+        var state = ValheimLegends.ValheimLegends.vl_player;
+        if (state == null || state.vl_name != player.GetPlayerName()) return;
+        state.vl_class = selected;
+        activeClass = selected;
+        current = player;
+        restored = true;
+        ValheimLegends.ValheimLegends.NameCooldowns();
     }
 
     private static void AfterLoad(Player __instance)

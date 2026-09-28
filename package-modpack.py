@@ -1,4 +1,4 @@
-"""Package Perspex configs and its own patcher binaries."""
+"""Package Perspex configs and its own gameplay, preloader and authority binaries."""
 import json
 from pathlib import Path
 from zipfile import ZIP_DEFLATED, ZipFile
@@ -12,6 +12,7 @@ files = sorted(path for path in draft.rglob('*') if path.is_file())
 assert files and not any(path.name.lower().endswith(('.dll', '.dll.bak')) for path in files)
 own_dlls = {
     'BepInEx/plugins/TwentyOneZ-PerspexModpack/PerspexModpackPatcher.dll': root / 'bin/Release/netstandard2.1/PerspexModpackPatcher.dll',
+    'BepInEx/plugins/TwentyOneZ-PerspexModpack/PerspexCharacterAuthority.dll': root / 'authority/bin/Release/netstandard2.1/PerspexCharacterAuthority.dll',
     'BepInEx/patchers/TwentyOneZ-PerspexModpack/PerspexLegendsPreloader.dll': root / 'preloader/bin/Release/netstandard2.1/PerspexLegendsPreloader.dll',
 }
 assert all(path.is_file() for path in own_dlls.values()), 'Build the patcher before packaging the modpack'
