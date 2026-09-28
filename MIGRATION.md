@@ -1,6 +1,6 @@
 # Perspex 1.4.0 publication status
 
-The 0.2.18 patcher and 1.4.5 modpack are built from this repository. PerspexCharacterAuthority 1.0.6 is included as a separate Perspex DLL, built from the original source with the published Legends integration adapted to the patcher. Character persistence starts from zero; no earlier snapshot importer is required.
+The 0.2.19 patcher and 1.4.5 modpack are built from this repository. PerspexCharacterAuthority 1.0.6 is included as a separate Perspex DLL, built from the original source with the published Legends integration adapted to the patcher. Character persistence starts from zero; no earlier snapshot importer is required. The MyriadJewels login performance fix is integrated into the patcher.
 
 The supplied `PerspexModpack-1.4.0/BepInEx/config` is empty. `modpack-draft` stages the profile configuration and the two TradersExtended JSON files used by This Goes Here. The former BowsBeforeHoes 1.3.14 config was removed, following the 2.0.0 author's upgrade note, so the mod generates a fresh config. The staging script strips active webhook credentials and passwords and omits original mod DLLs. Review distribution rights for included images before publishing the **modpack**.
 

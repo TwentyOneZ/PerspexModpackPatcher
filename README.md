@@ -16,6 +16,7 @@ To build, install .NET SDK and set `ValheimPath` to your Valheim directory. The 
 - Creature trophies grant configurable experience when EpicMMOSystem is installed. The original UsefulTrophiesXP DLL is not needed.
 - Exploration map access only while the profession is selected, with a large-map exception while sitting near a fire, plus treasure bonuses. The conflicting map and treasure hooks from Professions and Exploration are removed when detected.
 - Valheim Legends HUD placement and class storage in vanilla player data. PerspexCharacterAuthority saves the full player snapshot on the server, including this class value.
+- MyriadJewels 0.1.4 sage/mint prefab lookup throttling during login, preserving the cultivator binding while avoiding repeated global object scans.
 - Professions 1.4.7 patch for Craftsman Trophy slot purchases, 50% skill recovery on relearning, and levels in each profession's status square. `BlockExperience` permits use without XP; `BlockUsage` prevents use while inactive.
 - Valheim Legends ability cost, cooldown and skill gain adjustments, plus point patches for the published attack methods, Priest and Druid healing, Shaman Spirit Drain, Monk damage and Surge, Power Shot, Execute, Duelist Riposte and selected class status effects.
 - Metavoker Translocation: Block + Ability 2 opens a player picker for accepted Go To or Summon requests, with safe destinations, stamina cost, and cooldown.
@@ -45,6 +46,8 @@ The patcher registers Hearthstone and Marketstone directly with embedded icons. 
 ## Credits
 
 The patcher operates on separately installed original mods. [Dekas' Valheim Legends Fork](https://thunderstore.io/c/valheim/p/Dekas/Valheim_Legends_Fork/) and [Smoothbrain's Professions](https://valheim.hexium.gg/mods/Smoothbrain/Professions) remain their authors' packages. The modpack installs [Azumatt's Bows Before Hoes](https://valheim.hexium.gg/mods/Azumatt/BowsBeforeHoes) directly; the patcher does not modify it.
+
+The sage/mint performance patch runs over [Myriad's MyriadJewels](https://thunderstore.io/c/valheim/p/Myriad/MyriadJewels/), which remains a separate dependency.
 
 ## Current compatibility limits
 

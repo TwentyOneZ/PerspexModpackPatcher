@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.18")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.19")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 [BepInDependency("ValheimLegends")]
 public sealed class Patcher : BaseUnityPlugin
@@ -42,7 +42,7 @@ public sealed class Patcher : BaseUnityPlugin
         harmony = new Harmony("twentyonez.perspex.patcher");
         harmony.PatchAll();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.18 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.19 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();
@@ -52,6 +52,10 @@ public sealed class Patcher : BaseUnityPlugin
         TrophyXpPatch.Install();
         ExplorationPatch.RemoveConflictingPatches(harmony);
         var loaded = AppDomain.CurrentDomain.GetAssemblies().Select(assembly => assembly.GetName().Name).ToArray();
+        if (AccessTools.TypeByName("MyriadJewels.HerbPlantableFix") != null &&
+            !loaded.Contains("MyriadJewelsPerformancePatch") &&
+            Install("MyriadJewels prefab search", () => MyriadJewelsPerformancePatch.Install(harmony)))
+            Logger.LogInfo("MyriadJewels sage/mint prefab search limited to one global scan per 90 frames.");
         if (loaded.Contains("EpicMMOSystem"))
             Install("EpicMMO levels", () => EpicMmoPatch.Install(harmony));
         if (loaded.Contains("ValheimLegends"))

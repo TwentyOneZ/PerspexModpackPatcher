@@ -6,6 +6,8 @@ Install with Gale, which resolves this pack's Hexium and Thunderstore dependenci
 
 The bundled PerspexCharacterAuthority 1.0.6 must be installed on the server and every client. It saves each character on the server in `BepInEx/config/PerspexCharacterAuthority/Characters/<account hash>/<character ID>/current.pca`, with backups alongside it. The first join uses the bundled `TwentyOneZ.PerspexCharacterAuthority.cfg` settings and begins fresh progression.
 
+PerspexModpackPatcher 0.2.19 also includes the MyriadJewels login performance fix. Remove any separate `MyriadJewelsPerformancePatch.dll` from older profiles to avoid duplicate patches.
+
 Features:
 <ul>
 <li>Economy based on coins! Crafting and repairing items requires coins, as well as learning new professions.</li>

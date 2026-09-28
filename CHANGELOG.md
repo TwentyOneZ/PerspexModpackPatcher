@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.19 — 2026-09-28
+
+- Integrated the previously tested MyriadJewels sage/mint prefab search fix. Missing prefabs now cause at most one global scan per 90 frames rather than two scans on every login frame.
+
 ## 0.2.18 — 2026-09-28
 
 - Restored PerspexCharacterAuthority as a bundled, separately built Perspex plugin. It authorizes character spawn against server snapshots and saves player data, account bindings and backups on the server.

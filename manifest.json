@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpackPatcher",
-  "version_number": "0.2.18",
+  "version_number": "0.2.19",
   "website_url": "https://github.com/TwentyOneZ/PerspexModpackPatcher",
   "description": "Compatibility patches and rebuilt gameplay features for the Perspex Valheim modpack.",
   "dependencies": [
