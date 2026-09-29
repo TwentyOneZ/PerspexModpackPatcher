@@ -66,6 +66,12 @@
     "level": 18
   },
   {
+    "name": "Skeleton_Meadows_noarcher",
+    "minExp": 60,
+    "maxExp": 80,
+    "level": 18
+  },
+  {
     "name": "Ghost",
     "minExp": 80,
     "maxExp": 120,

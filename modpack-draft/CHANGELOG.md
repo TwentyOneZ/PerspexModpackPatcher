@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.10</h3>
+<ul>
+<li>Added the missing EpicMMO level definition for Skeleton_Meadows_noarcher, matching Skeleton_NoArcher at level 18.</li>
+</ul>
+
 <h3>Changelog 1.4.9</h3>
 <ul>
 <li>Updated ServerConnect and EpicMMONotifier configurations from the current Perspex profile. Credentials are left blank for each installation.</li>
