@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.24 — 2026-09-29
+
+- Restore Fenring visuals from `StatusEffect.Stop`, which runs whenever the form is removed; restore the original trophy XP effects and animation.
+
 ## 0.2.23 — 2026-09-29
 
 - Refresh an equipped item when Fenring Form ends so the Cultist visual is removed immediately.

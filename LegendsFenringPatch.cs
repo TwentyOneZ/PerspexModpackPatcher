@@ -272,34 +272,38 @@ internal sealed class PerspexFenringForm : StatusEffect
     public override bool CanAdd(Character character) => character is Player &&
         ValheimLegends.ValheimLegends.vl_player?.vl_class == ValheimLegends.ValheimLegends.PlayerClass.Druid;
 
-    public override bool IsDone() => ValheimLegends.ValheimLegends.vl_player?.vl_class !=
+    public override bool IsDone() => base.IsDone() || ValheimLegends.ValheimLegends.vl_player?.vl_class !=
         ValheimLegends.ValheimLegends.PlayerClass.Druid;
+
+    public override void Stop()
+    {
+        RestoreVisual();
+        base.Stop();
+    }
 
     public override void OnDestroy()
     {
-        if (visualApplied && m_character is Player player)
-        {
-            var equipment = player.GetComponent<VisEquipment>();
-            if (equipment != null && player.GetComponent<ZNetView>()?.IsOwner() == true)
-            {
-                var item = player.GetInventory()?.GetAllItems().Find(candidate => candidate?.m_equipped == true);
-                if (item != null)
-                {
-                    player.UnequipItem(item, true);
-                    player.EquipItem(item, true);
-                }
-                else
-                {
-                    equipment.SetHelmetItem(0);
-                    equipment.SetChestItem(0);
-                    equipment.SetLegItem(0);
-                    equipment.SetShoulderItem(0, 0, 1);
-                }
-                AccessTools.Method(typeof(Humanoid), "SetupVisEquipment", new[] { typeof(VisEquipment), typeof(bool) })
-                    ?.Invoke(player, new object[] { equipment, true });
-            }
-        }
+        RestoreVisual();
         base.OnDestroy();
+    }
+
+    private void RestoreVisual()
+    {
+        if (!visualApplied || m_character is not Player player) return;
+        visualApplied = false;
+        var equipment = player.GetComponent<VisEquipment>();
+        if (equipment == null || player.GetComponent<ZNetView>()?.IsOwner() != true) return;
+
+        var item = AccessTools.Field(typeof(Humanoid), "m_rightItem")?.GetValue(player) as ItemDrop.ItemData
+                   ?? AccessTools.Field(typeof(Humanoid), "m_leftItem")?.GetValue(player) as ItemDrop.ItemData
+                   ?? player.GetInventory()?.GetAllItems().Find(candidate => candidate?.m_equipped == true);
+        if (item != null)
+        {
+            player.UnequipItem(item, true);
+            player.EquipItem(item, true);
+        }
+        AccessTools.Method(typeof(Humanoid), "SetupVisEquipment", new[] { typeof(VisEquipment), typeof(bool) })
+            ?.Invoke(player, new object[] { equipment, false });
     }
 
     private void ApplyVisual()

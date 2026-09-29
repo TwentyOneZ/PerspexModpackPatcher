@@ -63,6 +63,11 @@ internal static class TrophyXpPatch
         try { addExp.Invoke(levelSystem, new object[] { amount, false }); }
         catch (TargetInvocationException) { return true; }
         source.RemoveOneItem(item);
+        var head = Traverse.Create(player).Field("m_head").GetValue<Transform>();
+        player.m_skillLevelupEffects.Create(head != null ? head.position : player.GetHeadPoint(),
+            head != null ? head.rotation : Quaternion.identity, head, 1f, -1, player.GetZDOID());
+        ValheimLegends.ValheimLegends.shouldUseGuardianPower = false;
+        Traverse.Create(player).Field("m_zanim").GetValue<ZSyncAnimation>()?.SetTrigger("gpower");
         player.Message(MessageHud.MessageType.TopLeft, "Experience received: " + amount);
         return false;
     }
