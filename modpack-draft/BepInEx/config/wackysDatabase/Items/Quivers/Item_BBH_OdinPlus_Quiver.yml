@@ -1,7 +1,13 @@
 name: BBH_OdinPlus_Quiver
 m_weight: 1.5
 m_name: $item_quiver_odinplus
-m_description: $item_quiver_odinplus_description
+m_description: >-
+  $item_quiver_odinplus_description
+
+
+  <color=YELLOW>Requires Dexterity 84</color>
+
+  <color=YELLOW>Requires Intellect 60</color>
 clonePrefabName: 
 mockName: 
 customIcon: 

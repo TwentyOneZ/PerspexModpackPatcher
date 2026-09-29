@@ -1,0 +1,18 @@
+name: BBH_Eitr_Quiver
+clonePrefabName:
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap:
+repairStation:
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- YggdrasilWood:6:2:True
+- Eitr:16:8:True
+- Wisp:2:0:True
+- Coins:960:960:False

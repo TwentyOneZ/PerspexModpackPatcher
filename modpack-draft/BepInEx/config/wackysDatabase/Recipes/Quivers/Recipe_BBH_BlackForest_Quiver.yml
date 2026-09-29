@@ -1,0 +1,19 @@
+name: BBH_BlackForest_Quiver
+clonePrefabName:
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap:
+repairStation:
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- HardAntler:1:0:True
+- RoundLog:5:2:True
+- DeerHide:3:3:True
+- LeatherScraps:0:5:True
+- Coins:60:60:False

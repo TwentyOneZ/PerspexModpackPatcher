@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.23 — 2026-09-29
+
+- Refresh an equipped item when Fenring Form ends so the Cultist visual is removed immediately.
+
 ## 0.2.22 — 2026-09-28
 
 - Fixed the Harmony ObjectDB registration hook for the Deep North status. Its invalid parameter name prevented item registration and broke multiplayer login.

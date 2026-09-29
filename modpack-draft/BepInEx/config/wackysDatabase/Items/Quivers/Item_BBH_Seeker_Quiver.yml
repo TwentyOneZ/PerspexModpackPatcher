@@ -1,7 +1,11 @@
 name: BBH_Seeker_Quiver
 m_weight: 1.5
 m_name: $item_quiver_seeker
-m_description: $item_quiver_seeker_description
+m_description: >-
+  $item_quiver_seeker_description
+
+
+  <color=YELLOW>Requires Dexterity 70</color>
 clonePrefabName: 
 mockName: 
 customIcon: 

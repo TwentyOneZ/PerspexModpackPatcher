@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.11</h3>
+<ul>
+<li>Added attribute requirements to BowsBeforeHoes arrow and quiver descriptions, and tier-based Coin costs to ten quiver recipes.</li>
+<li>Fenring Form now refreshes equipped items when it ends, removing the lingering Cultist appearance.</li>
+</ul>
+
 <h3>Changelog 1.4.10</h3>
 <ul>
 <li>Added the missing EpicMMO level definition for Skeleton_Meadows_noarcher, matching Skeleton_NoArcher at level 18.</li>

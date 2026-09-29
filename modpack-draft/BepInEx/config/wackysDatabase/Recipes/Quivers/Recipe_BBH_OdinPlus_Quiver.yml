@@ -1,0 +1,20 @@
+name: BBH_OdinPlus_Quiver
+clonePrefabName:
+craftingStation: $piece_blackforge
+minStationLevel: 2
+maxStationLevelCap:
+repairStation:
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Thunderstone:10:1:True
+- YggdrasilWood:3:0:True
+- FlametalNew:2:0:True
+- Carapace:0:1:True
+- Eitr:0:5:True
+- Coins:1820:1820:False

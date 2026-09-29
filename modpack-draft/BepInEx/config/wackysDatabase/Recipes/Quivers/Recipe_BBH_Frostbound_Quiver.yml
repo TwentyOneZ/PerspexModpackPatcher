@@ -1,0 +1,18 @@
+name: BBH_Frostbound_Quiver
+clonePrefabName:
+craftingStation: $piece_blackforge
+minStationLevel: 3
+maxStationLevelCap:
+repairStation:
+amount: 1
+disabled: false
+disabledUpgrade: false
+m_listSortWeight: 100
+m_noCraftOnlyUpgrade: false
+requireOnlyOneIngredient: false
+upgrade_reqs: []
+reqs:
+- Frostwood:10:4:True
+- FrostCore:2:1:True
+- WolfPelt:4:0:True
+- Coins:3840:3840:False

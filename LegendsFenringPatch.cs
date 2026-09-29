@@ -280,9 +280,24 @@ internal sealed class PerspexFenringForm : StatusEffect
         if (visualApplied && m_character is Player player)
         {
             var equipment = player.GetComponent<VisEquipment>();
-            if (equipment != null)
+            if (equipment != null && player.GetComponent<ZNetView>()?.IsOwner() == true)
+            {
+                var item = player.GetInventory()?.GetAllItems().Find(candidate => candidate?.m_equipped == true);
+                if (item != null)
+                {
+                    player.UnequipItem(item, true);
+                    player.EquipItem(item, true);
+                }
+                else
+                {
+                    equipment.SetHelmetItem(0);
+                    equipment.SetChestItem(0);
+                    equipment.SetLegItem(0);
+                    equipment.SetShoulderItem(0, 0, 1);
+                }
                 AccessTools.Method(typeof(Humanoid), "SetupVisEquipment", new[] { typeof(VisEquipment), typeof(bool) })
                     ?.Invoke(player, new object[] { equipment, true });
+            }
         }
         base.OnDestroy();
     }
