@@ -75,7 +75,7 @@ internal static class LegendsMartialDamagePatch
         var school = Skill(caster, ValheimLegends.ValheimLegends.DisciplineSkill);
         var factor = (0.75f + 0.005f * Mathf.Clamp(school, 0f, 100f)) * 0.90f *
                      VL_GlobalConfigs.g_DamageModifer * VL_GlobalConfigs.c_duelistSeismicSlash;
-        hit.m_damage = caster.GetCurrentWeapon().GetDamage();
+        hit.m_damage = LegendsEconomyPatch.WeaponDamage(caster);
         hit.m_damage.Modify(factor);
         hit.m_dir = caster.transform.forward;
         hit.SetAttacker(caster);

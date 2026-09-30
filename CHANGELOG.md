@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.25 — 2026-09-29
+
+- Berserker dual wield attacks and Rogue dual knife attacks now use Valheim's single weapon stamina formula, bypassing DualWield's configured dual attack costs.
+- Weapon-based class skills use the combined main-hand and offhand damage when dual wielding, including the Arcane elemental weapon buff.
+
 ## 0.2.24 — 2026-09-29
 
 - Restore Fenring visuals from `StatusEffect.Stop`, which runs whenever the form is removed; restore the original trophy XP effects and animation.

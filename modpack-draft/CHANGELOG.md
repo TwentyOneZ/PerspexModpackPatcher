@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.13</h3>
+<ul>
+<li>Berserker dual wield attacks and Rogue dual knife attacks now use Valheim's single weapon stamina cost, bypassing DualWield's configured costs.</li>
+<li>Weapon-based class skill damage now combines the main-hand and offhand weapons when dual wielding.</li>
+</ul>
+
 <h3>Changelog 1.4.12</h3>
 <ul>
 <li>Fenring Form now restores equipped visuals when the status stops, including manual removal, class changes, and expiration.</li>

@@ -173,12 +173,22 @@ internal static class LegendsEconomyPatch
         float coefficient, float config)
     {
         var weapon = player.GetCurrentWeapon();
-        var damage = weapon.GetDamage();
+        var damage = WeaponDamage(player);
         if (!player.GetInventory().ContainsItem(weapon))
             damage.Modify(1f + LevelSystem.Instance.getAddPhysicDamage() / 100f);
         damage.Modify((0.75f + 0.005f * Math.Max(0f, Math.Min(100f, school))) *
                       (0.75f + 0.005f * Math.Max(0f, Math.Min(100f, secondary))) *
                       coefficient * VL_GlobalConfigs.g_DamageModifer * config);
+        return damage;
+    }
+
+    internal static HitData.DamageTypes WeaponDamage(Player player)
+    {
+        var damage = player.GetCurrentWeapon().GetDamage();
+        if (player.LeftItem?.m_shared.m_itemType == ItemDrop.ItemData.ItemType.OneHandedWeapon &&
+            player.RightItem?.m_shared.m_itemType == ItemDrop.ItemData.ItemType.OneHandedWeapon &&
+            player.LeftItem != player.GetCurrentWeapon())
+            damage.Add(player.LeftItem.GetDamage());
         return damage;
     }
 }

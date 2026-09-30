@@ -112,7 +112,7 @@ internal static class LegendsMageArcanePatch
     internal static void AddElemental(Player player, HitData hit)
     {
         if (!Has(player, Buff.Elemental) || player.GetCurrentWeapon() == null) return;
-        var weapon = player.GetCurrentWeapon().GetDamage();
+        var weapon = LegendsEconomyPatch.WeaponDamage(player);
         hit.m_damage.m_fire += weapon.m_fire * 0.25f;
         hit.m_damage.m_frost += weapon.m_frost * 0.25f;
         hit.m_damage.m_lightning += weapon.m_lightning * 0.25f;
