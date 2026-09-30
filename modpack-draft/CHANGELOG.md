@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.15</h3>
+<ul>
+<li>Migrated all 140 LootBox definitions and 347 rewards from the previous config into the new per-prefab format.</li>
+<li>Removed the obsolete root LootBox configuration from the modpack.</li>
+</ul>
+
 <h3>Changelog 1.4.14</h3>
 <ul>
 <li>Updated CreatureLevelAndLootControl to 5.0.6.</li>
