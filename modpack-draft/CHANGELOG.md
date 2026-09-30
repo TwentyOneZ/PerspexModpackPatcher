@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.14</h3>
+<ul>
+<li>Updated AutoFeedRedux, AdventureBackpacks, PotionPlus and Cooking dependencies to the requested versions.</li>
+</ul>
+
 <h3>Changelog 1.4.13</h3>
 <ul>
 <li>Berserker dual wield attacks and Rogue dual knife attacks now use Valheim's single weapon stamina cost, bypassing DualWield's configured costs.</li>
