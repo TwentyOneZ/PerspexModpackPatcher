@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.16</h3>
+<ul>
+<li>Replaced placeholder loot in Ashlands and Deep North bronze, silver and gold quest boxes with biome materials, scaling Coins and XP drinks.</li>
+<li>Gold boss boxes now grant the corresponding Fader and Frozen King boss crystals.</li>
+</ul>
+
 <h3>Changelog 1.4.15</h3>
 <ul>
 <li>Migrated all 140 LootBox definitions and 347 rewards from the previous config into the new per-prefab format.</li>
