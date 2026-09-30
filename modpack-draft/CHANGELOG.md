@@ -1,3 +1,8 @@
+<h3>Changelog 1.4.15</h3>
+<ul>
+<li>Added Computer Traps 0.0.16 as a modpack dependency.</li>
+</ul>
+
 <h3>Changelog 1.4.14</h3>
 <ul>
 <li>Updated AutoFeedRedux, AdventureBackpacks, PotionPlus and Cooking dependencies to the requested versions.</li>
