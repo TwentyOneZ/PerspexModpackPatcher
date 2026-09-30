@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpack",
-  "version_number": "1.4.13",
+  "version_number": "1.4.14",
   "website_url": "https://github.com/twentyonez",
   "description": "This modpack focus on diversity of gameplay styles, choices, exploration and rewards. Balanced, slightly harder experience than vanilla. Jewecrafting, character classes, magic, mounts, hardcore exploration, ship building, potions and economy.",
   "dependencies": [
@@ -97,7 +97,7 @@
 		"MythikWolf-QuestItems-1.1.2",
 		"JereKuusela-Ore_Support-1.12.0",
 		"ASharpPen-Drop_That-3.1.6",
-		"Smoothbrain-CreatureLevelAndLootControl-5.0.5",
+		"Smoothbrain-CreatureLevelAndLootControl-5.0.6",
 		"OdinPlus-PotionPlus-4.3.8",
 		"Advize-PlantEverything-1.21.3",
 		"shudnal-TradersExtended-2.0.4",

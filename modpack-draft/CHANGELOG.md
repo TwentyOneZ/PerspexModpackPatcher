@@ -1,3 +1,10 @@
+<h3>Changelog 1.4.14</h3>
+<ul>
+<li>Updated CreatureLevelAndLootControl to 5.0.6.</li>
+<li>Added the current BowsBeforeHoes 2.0.0 configuration from the Perspex profile.</li>
+<li>Removed the packaged ServerConnect configuration so each installation can use its own settings.</li>
+</ul>
+
 <h3>Changelog 1.4.13</h3>
 <ul>
 <li>Berserker dual wield attacks and Rogue dual knife attacks now apply their class stamina discount to DualWield's configured cost, capped at the cost of a single weapon attack.</li>
