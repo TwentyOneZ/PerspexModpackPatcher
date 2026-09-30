@@ -1,3 +1,4 @@
+using System;
 using HarmonyLib;
 using ValheimLegends;
 
@@ -7,31 +8,32 @@ internal static class LegendsDualWieldStaminaPatch
 {
     internal static void Install(Harmony harmony) => harmony.Patch(
         AccessTools.Method(typeof(Attack), "GetAttackStamina"),
-        prefix: new HarmonyMethod(typeof(LegendsDualWieldStaminaPatch), nameof(SingleWeaponCost))
-            { priority = Priority.First });
+        postfix: new HarmonyMethod(typeof(LegendsDualWieldStaminaPatch), nameof(Adjust))
+            { priority = Priority.Last });
 
-    // DualWield replaces this method with its own configured costs. For these classes,
-    // use Valheim's single-weapon formula with the attack's actual weapon and stamina cost.
-    private static bool SingleWeaponCost(Attack __instance, Humanoid ___m_character,
+    // DualWield supplies a separate stamina cost; m_attackStamina can be much higher.
+    // Restore the class discount while capping the result at a single weapon's cost.
+    private static void Adjust(Attack __instance, Humanoid ___m_character,
         ItemDrop.ItemData ___m_weapon, ref float __result)
     {
         if (___m_character is not Player player || player != Player.m_localPlayer ||
-            ___m_weapon == null ||
+            ___m_weapon == null || __result <= 0f ||
             player.LeftItem?.m_shared.m_itemType != ItemDrop.ItemData.ItemType.OneHandedWeapon ||
             player.RightItem?.m_shared.m_itemType != ItemDrop.ItemData.ItemType.OneHandedWeapon)
-            return true;
+            return;
 
         var selected = ValheimLegends.ValheimLegends.vl_player?.vl_class;
-        if (selected != ValheimLegends.ValheimLegends.PlayerClass.Berserker &&
+        var berserker = selected == ValheimLegends.ValheimLegends.PlayerClass.Berserker;
+        if (!berserker &&
             (selected != ValheimLegends.ValheimLegends.PlayerClass.Rogue ||
              player.LeftItem.m_shared.m_skillType != Skills.SkillType.Knives ||
              player.RightItem.m_shared.m_skillType != Skills.SkillType.Knives))
-            return true;
+            return;
 
         if (__instance.m_attackStamina <= 0f)
         {
             __result = 0f;
-            return false;
+            return;
         }
 
         var cost = __instance.m_attackStamina * (1f + (__instance.m_isHomeItem
@@ -41,7 +43,7 @@ internal static class LegendsDualWieldStaminaPatch
         cost -= cost * 0.33f * player.GetSkillFactor(___m_weapon.m_shared.m_skillType);
         if (__instance.m_staminaReturnPerMissingHP > 0f)
             cost -= (player.GetMaxHealth() - player.GetHealth()) * __instance.m_staminaReturnPerMissingHP;
-        __result = cost;
-        return false;
+        __result = Math.Min(__result * 0.3f * (berserker ? VL_GlobalConfigs.c_berserkerBonus2h : 1f),
+            Math.Max(0f, cost));
     }
 }

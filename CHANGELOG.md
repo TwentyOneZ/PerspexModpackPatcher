@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.26 — 2026-09-29
+
+- Corrected dual-wield stamina: use DualWield's configured attack cost, apply the Berserker/Rogue class discount, and cap the result at the single-weapon cost. The previous bypass could charge more stamina than before.
+
 ## 0.2.25 — 2026-09-29
 
 - Berserker dual wield attacks and Rogue dual knife attacks now use Valheim's single weapon stamina formula, bypassing DualWield's configured dual attack costs.
