@@ -1,17 +1,9 @@
-<h3>Changelog 1.4.15</h3>
-<ul>
-<li>Added Computer Traps 0.0.16 as a modpack dependency.</li>
-</ul>
-
-<h3>Changelog 1.4.14</h3>
-<ul>
-<li>Updated AutoFeedRedux, AdventureBackpacks, PotionPlus and Cooking dependencies to the requested versions.</li>
-</ul>
-
 <h3>Changelog 1.4.13</h3>
 <ul>
 <li>Berserker dual wield attacks and Rogue dual knife attacks now use Valheim's single weapon stamina cost, bypassing DualWield's configured costs.</li>
 <li>Weapon-based class skill damage now combines the main-hand and offhand weapons when dual wielding.</li>
+<li>Updated AutoFeedRedux to 2.0.9, AdventureBackpacks to 2.2.3, PotionPlus to 4.3.8 and Cooking to 1.2.5.</li>
+<li>Added Computer Traps 0.0.16 as a modpack dependency.</li>
 </ul>
 
 <h3>Changelog 1.4.12</h3>
