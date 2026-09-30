@@ -1,5 +1,6 @@
 <h3>Changelog 1.4.15</h3>
 <ul>
+<li>Updated BowsBeforeHoes, AutoFeedRedux, WackyEpicMMOSystem, AdventureBackpacks, WackysDatabase and Computer Traps dependencies.</li>
 <li>Migrated all 140 LootBox definitions and 347 rewards from the previous config into the new per-prefab format.</li>
 <li>Removed the obsolete root LootBox configuration from the modpack.</li>
 <li>Replaced placeholder loot in Ashlands and Deep North bronze, silver and gold quest boxes with biome materials, scaling Coins and XP drinks.</li>

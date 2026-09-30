@@ -107,7 +107,7 @@
 		"MathiasDecrock-PlanBuild-0.19.1",
 		"hyleanlegend-Rune_Magic-1.5.1",
 		"Azumatt-TrueInstantLootDrop-1.0.5",
-    "WackyMole-WackysDatabase-2.5.36",
+    "WackyMole-WackysDatabase-2.5.37",
 		"RandyKnapp-AdvancedPortals-1.2.0",
 		"ValMedia-OdinOnDemand-1.3.0",
 		"ValMedia-OOD_LIB-1.2.0",
@@ -122,17 +122,17 @@
     "KG-Marketplace_And_Server_NPCs_Revamped-10.0.3",
 		"WackyMole-WackyItemRequiresSkillLevel-1.4.7",
 		"Nextek-SpeedyPaths-1.0.9",
-		"Vapok-AdventureBackpacks-2.2.3",
-		"WackyMole-WackyEpicMMOSystem-1.9.70",
+		"Vapok-AdventureBackpacks-2.2.5",
+		"WackyMole-WackyEpicMMOSystem-1.9.71",
 		"shudnal-Seasons-1.10.3",
 		"Azumatt-AzuCraftyBoxes-1.8.26",
 		"shudnal-ConfigurationManager-1.1.22",
 		"ValheimModding-JsonDotNET-13.0.4",
 		"JereKuusela-Server_devcommands-1.115.0",
-		"Vapok-AutoFeedRedux-2.0.9",
+		"Vapok-AutoFeedRedux-2.0.10",
 		"ValheimModding-Jotunn-2.30.2",
 		"Radamanto-LootBox-1.1.8",
-		"Azumatt-BowsBeforeHoes-2.0.0",
+		"Azumatt-BowsBeforeHoes-2.0.1",
 		"Smoothbrain-Backpacks-1.3.10",
 		"malafein-ValheimHotKeys-1.1.1",
 		"shudnal-ExtraSlotsCustomSlots-1.0.23",
@@ -141,6 +141,6 @@
 		"ValheimModding-YamlDotNet-16.3.1",
 		"denikson-BepInExPack_Valheim-5.4.2351",
 		"Wubarrk-Valheim10Compatibility-1.4.1",
-		"Comp-Computer_Traps-0.0.16"
+		"Comp-Computer_Traps-0.0.17"
   ]
 }
