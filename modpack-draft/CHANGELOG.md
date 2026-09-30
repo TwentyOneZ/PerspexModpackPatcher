@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.16</h3>
+<ul>
+<li>Added all 11 BowsBeforeHoes quivers to the ExtraSlotsCustomSlots discovery list.</li>
+<li>Updated ExtraSlots to 1.2.16 and FiresGhettoNetworking to 1.5.17.</li>
+</ul>
+
 <h3>Changelog 1.4.15</h3>
 <ul>
 <li>Updated BowsBeforeHoes, AutoFeedRedux, WackyEpicMMOSystem, AdventureBackpacks, WackysDatabase and Computer Traps dependencies.</li>

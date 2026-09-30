@@ -1,6 +1,6 @@
 {
   "name": "PerspexModpack",
-  "version_number": "1.4.15",
+  "version_number": "1.4.16",
   "website_url": "https://github.com/twentyonez",
   "description": "This modpack focus on diversity of gameplay styles, choices, exploration and rewards. Balanced, slightly harder experience than vanilla. Jewecrafting, character classes, magic, mounts, hardcore exploration, ship building, potions and economy.",
   "dependencies": [
@@ -37,7 +37,7 @@
 		"Azumatt-AAA_Crafting-2.1.10",
 		"Azumatt-AAABuildMenu-1.0.6",
 		"Qua8ion-StatCreditFix-1.0.0",
-		"VerdantsAscent-FiresGhettoNetworking-1.4.31",
+		"VerdantsAscent-FiresGhettoNetworking-1.5.17",
 		"JamesJonesTV-Better_Riding-1.0.3",
 		"Blockheim-LetMeSleep-1.0.5",
 		"Smoothbrain-TargetPortal-1.2.7",
@@ -136,7 +136,7 @@
 		"Smoothbrain-Backpacks-1.3.10",
 		"malafein-ValheimHotKeys-1.1.1",
 		"shudnal-ExtraSlotsCustomSlots-1.0.23",
-		"shudnal-ExtraSlots-1.2.15",
+		"shudnal-ExtraSlots-1.2.16",
 		"shudnal-ConditionalConfigSync-1.0.9",
 		"ValheimModding-YamlDotNet-16.3.1",
 		"denikson-BepInExPack_Valheim-5.4.2351",
