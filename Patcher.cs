@@ -12,7 +12,7 @@ using UnityEngine;
 
 namespace PerspexModpackPatcher;
 
-[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.26")]
+[BepInPlugin("twentyonez.perspex.patcher", "Perspex Modpack Patcher", "0.2.27")]
 [BepInDependency(Jotunn.Main.ModGuid)]
 [BepInDependency("ValheimLegends")]
 public sealed class Patcher : BaseUnityPlugin
@@ -44,7 +44,7 @@ public sealed class Patcher : BaseUnityPlugin
             if (type.Namespace == typeof(Patcher).Namespace && type.IsDefined(typeof(HarmonyPatch), false))
                 harmony.CreateClassProcessor(type).Patch();
         PrefabManager.OnVanillaPrefabsAvailable += RegisterItems;
-        Logger.LogInfo("Perspex Modpack Patcher 0.2.26 loaded");
+        Logger.LogInfo("Perspex Modpack Patcher 0.2.27 loaded");
     }
 
     private void OnDestroy() => harmony?.UnpatchSelf();
@@ -60,6 +60,10 @@ public sealed class Patcher : BaseUnityPlugin
             Logger.LogInfo("MyriadJewels sage/mint prefab search limited to one global scan per 90 frames.");
         if (loaded.Contains("EpicMMOSystem"))
             Install("EpicMMO levels", () => EpicMmoPatch.Install(harmony));
+        if (loaded.Contains("ItemRequiresSkillLevel") && loaded.Contains("BowsBeforeHoes"))
+            Install("Quiver ammo requirements", () => QuiverAmmoRequirementsPatch.Install(harmony));
+        if (loaded.Contains("Resurrection"))
+            Install("Resurrection dialog", () => ResurrectionDialogPatch.Install(harmony));
         if (loaded.Contains("ValheimLegends"))
         {
             var version = typeof(ValheimLegends.ValheimLegends)

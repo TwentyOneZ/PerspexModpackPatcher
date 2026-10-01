@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.27 — 2026-09-30
+
+- Restored ItemRequiresSkillLevel checks for BowsBeforeHoes quiver ammo without requiring arrows to be in the main inventory.
+- Prevented Resurrection's empty popup stack exception and restored the respawn dialog when it disappears while the player is dead.
+
 ## 0.2.26 — 2026-09-29
 
 - Corrected dual-wield stamina: use DualWield's configured attack cost, apply the Berserker/Rogue class discount, and cap the result at the single-weapon cost. The previous bypass could charge more stamina than before.

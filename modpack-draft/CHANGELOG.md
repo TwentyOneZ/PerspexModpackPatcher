@@ -1,3 +1,9 @@
+<h3>Changelog 1.4.17</h3>
+<ul>
+<li>Restored ItemRequiresSkillLevel compatibility with BowsBeforeHoes quiver ammo while retaining attribute requirements.</li>
+<li>Prevented Resurrection's empty popup stack exception and restored the respawn dialog if it disappears while the player is dead.</li>
+</ul>
+
 <h3>Changelog 1.4.16</h3>
 <ul>
 <li>Added all 11 BowsBeforeHoes quivers to the ExtraSlotsCustomSlots discovery list.</li>
